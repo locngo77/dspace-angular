@@ -511,216 +511,216 @@
   "admin.access-control.groups.form.alert.workflowGroup": "Không thể sửa đổi hoặc xóa nhóm này vì nó tương ứng với một vai trò trong quy trình gửi và quy trình làm việc trong \"{{name}}\" {{comcol}}. Bạn có thể xóa nó khỏi tab <a href='{{comcolEditRolesRoute}}'>\"gán vai trò\"</a> trên trang chỉnh sửa {{comcol}}. Bạn vẫn có thể thêm và xóa thành viên nhóm bằng trang này.",
   
   // "admin.access-control.groups.form.head.create": "Create group",
-  "admin.access-control.groups.form.head.create": "Create group",
+  "admin.access-control.groups.form.head.create": "Tạo nhóm",
   
   // "admin.access-control.groups.form.head.edit": "Edit group",
-  "admin.access-control.groups.form.head.edit": "Edit group",
+  "admin.access-control.groups.form.head.edit": "Sửa nhóm",
   
   // "admin.access-control.groups.form.groupName": "Group name",
-  "admin.access-control.groups.form.groupName": "Group name",
+  "admin.access-control.groups.form.groupName": "Tên nhóm",
   
   // "admin.access-control.groups.form.groupDescription": "Description",
-  "admin.access-control.groups.form.groupDescription": "Description",
+  "admin.access-control.groups.form.groupDescription": "Mô tả",
   
   // "admin.access-control.groups.form.notification.created.success": "Successfully created Group \"{{name}}\"",
-  "admin.access-control.groups.form.notification.created.success": "Successfully created Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.created.success": "Đã tạo thành công nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.created.failure": "Failed to create Group \"{{name}}\"",
-  "admin.access-control.groups.form.notification.created.failure": "Failed to create Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.created.failure": "Không thể tạo nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Failed to create Group with name: \"{{name}}\", make sure the name is not already in use.",
-  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Failed to create Group with name: \"{{name}}\", make sure the name is not already in use.",
+  "admin.access-control.groups.form.notification.created.failure.groupNameInUse": "Không thể tạo nhóm với tên: \"{{name}}\", đảm bảo tên chưa được sử dụng.",
   
   // "admin.access-control.groups.form.notification.edited.failure": "Failed to edit Group \"{{name}}\"",
-  "admin.access-control.groups.form.notification.edited.failure": "Failed to edit Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.edited.failure": "Không thể chỉnh sửa Nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Name \"{{name}}\" already in use!",
-  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Name \"{{name}}\" already in use!",
+  "admin.access-control.groups.form.notification.edited.failure.groupNameInUse": "Tên \"{{name}}\" đã được sử dụng!",
   
   // "admin.access-control.groups.form.notification.edited.success": "Successfully edited Group \"{{name}}\"",
-  "admin.access-control.groups.form.notification.edited.success": "Successfully edited Group \"{{name}}\"",
+  "admin.access-control.groups.form.notification.edited.success": "Đã chỉnh sửa thành công nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.form.actions.delete": "Delete Group",
-  "admin.access-control.groups.form.actions.delete": "Delete Group",
+  "admin.access-control.groups.form.actions.delete": "Xóa nhóm",
   
   // "admin.access-control.groups.form.delete-group.modal.header": "Delete Group \"{{ dsoName }}\"",
-  "admin.access-control.groups.form.delete-group.modal.header": "Delete Group \"{{ dsoName }}\"",
+  "admin.access-control.groups.form.delete-group.modal.header": "Xóa nhóm \"{{ dsoName }}\"",
   
   // "admin.access-control.groups.form.delete-group.modal.info": "Are you sure you want to delete Group \"{{ dsoName }}\"",
-  "admin.access-control.groups.form.delete-group.modal.info": "Are you sure you want to delete Group \"{{ dsoName }}\"",
+  "admin.access-control.groups.form.delete-group.modal.info": "Bạn có chắc chắn xóa nhóm \"{{ dsoName }}\"",
   
   // "admin.access-control.groups.form.delete-group.modal.cancel": "Cancel",
-  "admin.access-control.groups.form.delete-group.modal.cancel": "Cancel",
+  "admin.access-control.groups.form.delete-group.modal.cancel": "Hủy",
   
   // "admin.access-control.groups.form.delete-group.modal.confirm": "Delete",
-  "admin.access-control.groups.form.delete-group.modal.confirm": "Delete",
+  "admin.access-control.groups.form.delete-group.modal.confirm": "Xóa",
   
   // "admin.access-control.groups.form.notification.deleted.success": "Successfully deleted group \"{{ name }}\"",
-  "admin.access-control.groups.form.notification.deleted.success": "Successfully deleted group \"{{ name }}\"",
+  "admin.access-control.groups.form.notification.deleted.success": "Đã xóa thành công nhóm \"{{ name }}\"",
   
   // "admin.access-control.groups.form.notification.deleted.failure.title": "Failed to delete group \"{{ name }}\"",
-  "admin.access-control.groups.form.notification.deleted.failure.title": "Failed to delete group \"{{ name }}\"",
+  "admin.access-control.groups.form.notification.deleted.failure.title": "Không thể xóa nhóm \"{{ name }}\"",
   
   // "admin.access-control.groups.form.notification.deleted.failure.content": "Cause: \"{{ cause }}\"",
-  "admin.access-control.groups.form.notification.deleted.failure.content": "Cause: \"{{ cause }}\"",
+  "admin.access-control.groups.form.notification.deleted.failure.content": "Nguyên nhân: \"{{ cause }}\"",
   
   // "admin.access-control.groups.form.members-list.head": "EPeople",
   "admin.access-control.groups.form.members-list.head": "EPeople",
   
   // "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
-  "admin.access-control.groups.form.members-list.search.head": "Add EPeople",
+  "admin.access-control.groups.form.members-list.search.head": "Thêm EPeople",
   
   // "admin.access-control.groups.form.members-list.button.see-all": "Browse All",
-  "admin.access-control.groups.form.members-list.button.see-all": "Browse All",
+  "admin.access-control.groups.form.members-list.button.see-all": "Duyệt tất cả",
   
   // "admin.access-control.groups.form.members-list.headMembers": "Current Members",
-  "admin.access-control.groups.form.members-list.headMembers": "Current Members",
+  "admin.access-control.groups.form.members-list.headMembers": "Các thành viên hiện tại",
   
   // "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadata",
-  "admin.access-control.groups.form.members-list.search.scope.metadata": "Metadata",
+  "admin.access-control.groups.form.members-list.search.scope.metadata": "Siêu dữ liệu",
   
   // "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (exact)",
-  "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (exact)",
+  "admin.access-control.groups.form.members-list.search.scope.email": "E-mail (chính xác)",
   
   // "admin.access-control.groups.form.members-list.search.button": "Search",
-  "admin.access-control.groups.form.members-list.search.button": "Search",
+  "admin.access-control.groups.form.members-list.search.button": "Tìm kiếm",
   
   // "admin.access-control.groups.form.members-list.table.id": "ID",
   "admin.access-control.groups.form.members-list.table.id": "ID",
   
   // "admin.access-control.groups.form.members-list.table.name": "Name",
-  "admin.access-control.groups.form.members-list.table.name": "Name",
+  "admin.access-control.groups.form.members-list.table.name": "Tên",
   
   // "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
-  "admin.access-control.groups.form.members-list.table.edit": "Remove / Add",
+  "admin.access-control.groups.form.members-list.table.edit": "Xóa/Thêm",
   
   // "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Remove member with name \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.table.edit.buttons.remove": "Xóa thành viên có tên \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.notification.success.addMember": "Successfully added member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.success.addMember": "Đã thêm thành công thành viên: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.addMember": "Failed to add member: \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Failed to add member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.failure.addMember": "Không thể thêm thành viên: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Successfully deleted member: \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Successfully deleted member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.success.deleteMember": "Đã xóa thành công thành viên: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Failed to delete member: \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Failed to delete member: \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.notification.failure.deleteMember": "Không thể xóa thành viên: \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Add member with name \"{{name}}\"",
-  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Add member with name \"{{name}}\"",
+  "admin.access-control.groups.form.members-list.table.edit.buttons.add": "Thêm thành viên có tên \"{{name}}\"",
   
   // "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
-  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
+  "admin.access-control.groups.form.members-list.notification.failure.noActiveGroup": "Hiện tại không có nhóm nào hoạt động, hãy gửi một nhóm đầu tiên.",
   
   // "admin.access-control.groups.form.members-list.no-members-yet": "No members in group yet, search and add.",
-  "admin.access-control.groups.form.members-list.no-members-yet": "No members in group yet, search and add.",
+  "admin.access-control.groups.form.members-list.no-members-yet": "Chưa có thành viên nào trong nhóm, tìm kiếm và thêm.",
   
   // "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
-  "admin.access-control.groups.form.members-list.no-items": "No EPeople found in that search",
+  "admin.access-control.groups.form.members-list.no-items": "Không tìm thấy EPeople nào",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.failure": "Something went wrong: \"{{cause}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure": "Đã xảy ra sự cố: \"{{cause}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.head": "Groups",
-  "admin.access-control.groups.form.subgroups-list.head": "Groups",
+  "admin.access-control.groups.form.subgroups-list.head": "Các nhóm",
   
   // "admin.access-control.groups.form.subgroups-list.search.head": "Add Subgroup",
-  "admin.access-control.groups.form.subgroups-list.search.head": "Add Subgroup",
+  "admin.access-control.groups.form.subgroups-list.search.head": "Thêm nhóm con",
   
   // "admin.access-control.groups.form.subgroups-list.button.see-all": "Browse All",
-  "admin.access-control.groups.form.subgroups-list.button.see-all": "Browse All",
+  "admin.access-control.groups.form.subgroups-list.button.see-all": "Duyệt tất cả",
   
   // "admin.access-control.groups.form.subgroups-list.headSubgroups": "Current Subgroups",
-  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Current Subgroups",
+  "admin.access-control.groups.form.subgroups-list.headSubgroups": "Nhóm con hiện tại",
   
   // "admin.access-control.groups.form.subgroups-list.search.button": "Search",
-  "admin.access-control.groups.form.subgroups-list.search.button": "Search",
+  "admin.access-control.groups.form.subgroups-list.search.button": "Tìm kiếm",
   
   // "admin.access-control.groups.form.subgroups-list.table.id": "ID",
   "admin.access-control.groups.form.subgroups-list.table.id": "ID",
   
   // "admin.access-control.groups.form.subgroups-list.table.name": "Name",
-  "admin.access-control.groups.form.subgroups-list.table.name": "Name",
+  "admin.access-control.groups.form.subgroups-list.table.name": "Tên",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
-  "admin.access-control.groups.form.subgroups-list.table.edit": "Remove / Add",
+  "admin.access-control.groups.form.subgroups-list.table.edit": "Xóa/Thêm",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remove subgroup with name \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Remove subgroup with name \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.remove": "Xóa nhóm con có tên \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Add subgroup with name \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Add subgroup with name \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.table.edit.buttons.add": "Thêm nhóm con với tên \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
-  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Current group",
+  "admin.access-control.groups.form.subgroups-list.table.edit.currentGroup": "Nhóm hiện tại",
   
   // "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Successfully added subgroup: \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Successfully added subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.success.addSubgroup": "Đã thêm thành công nhóm con: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Failed to add subgroup: \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Failed to add subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.addSubgroup": "Không thể thêm nhóm con: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Successfully deleted subgroup: \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Successfully deleted subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.success.deleteSubgroup": "Đã xóa thành công nhóm con: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Failed to delete subgroup: \"{{name}}\"",
-  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Failed to delete subgroup: \"{{name}}\"",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.deleteSubgroup": "Không thể xóa nhóm con: \"{{name}}\"",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
-  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "No current active group, submit a name first.",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.noActiveGroup": "Không có nhóm hoạt động hiện tại, gửi tên một nhóm đầu tiên.",
   
   // "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "This is the current group, can't be added.",
-  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "This is the current group, can't be added.",
+  "admin.access-control.groups.form.subgroups-list.notification.failure.subgroupToAddIsActiveGroup": "Đây là nhóm hiện tại, không thể thêm.",
   
   // "admin.access-control.groups.form.subgroups-list.no-items": "No groups found with this in their name or this as UUID",
-  "admin.access-control.groups.form.subgroups-list.no-items": "No groups found with this in their name or this as UUID",
+  "admin.access-control.groups.form.subgroups-list.no-items": "Không tìm thấy nhóm nào có tên là UUID",
   
   // "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
-  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "No subgroups in group yet.",
+  "admin.access-control.groups.form.subgroups-list.no-subgroups-yet": "Chưa có nhóm con nào trong nhóm này.",
   
   // "admin.access-control.groups.form.return": "Back",
-  "admin.access-control.groups.form.return": "Back",
+  "admin.access-control.groups.form.return": "Lùi",
   
   
   
   // "admin.search.breadcrumbs": "Administrative Search",
-  "admin.search.breadcrumbs": "Administrative Search",
+  "admin.search.breadcrumbs": "Quản lý tìm kiếm",
   
   // "admin.search.collection.edit": "Edit",
-  "admin.search.collection.edit": "Edit",
+  "admin.search.collection.edit": "Sửa",
   
   // "admin.search.community.edit": "Edit",
-  "admin.search.community.edit": "Edit",
+  "admin.search.community.edit": "Sửa",
   
   // "admin.search.item.delete": "Delete",
-  "admin.search.item.delete": "Delete",
+  "admin.search.item.delete": "Xóa",
   
   // "admin.search.item.edit": "Edit",
-  "admin.search.item.edit": "Edit",
+  "admin.search.item.edit": "Sửa",
   
   // "admin.search.item.make-private": "Make Private",
-  "admin.search.item.make-private": "Make Private",
+  "admin.search.item.make-private": "Đặt ở chế độ riêng tư",
   
   // "admin.search.item.make-public": "Make Public",
-  "admin.search.item.make-public": "Make Public",
+  "admin.search.item.make-public": "Đặt ở chế độ công khai",
   
   // "admin.search.item.move": "Move",
-  "admin.search.item.move": "Move",
+  "admin.search.item.move": "Di chuyển",
   
   // "admin.search.item.reinstate": "Reinstate",
-  "admin.search.item.reinstate": "Reinstate",
+  "admin.search.item.reinstate": "Phục hồi",
   
   // "admin.search.item.withdraw": "Withdraw",
-  "admin.search.item.withdraw": "Withdraw",
+  "admin.search.item.withdraw": "Rút/Gỡ",
   
   // "admin.search.title": "Administrative Search",
-  "admin.search.title": "Administrative Search",
+  "admin.search.title": "Quản lý tìm kiếm",
   
   // "administrativeView.search.results.head": "Administrative Search",
-  "administrativeView.search.results.head": "Administrative Search",
+  "administrativeView.search.results.head": "Quản lý tìm kiếm",
   
   
   
