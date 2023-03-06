@@ -174,71 +174,71 @@
   "admin.registries.bitstream-formats.table.supportLevel.head": "Mức hỗ trợ",
   
   // "admin.registries.bitstream-formats.title": "Bitstream Format Registry",
-  "admin.registries.bitstream-formats.title": "Sổ đăng ký định dạng bitstream",
+  "admin.registries.bitstream-formats.title": "Sổ đăng ký định dạng dòng bit",
   
   
   
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
-  "admin.registries.metadata.breadcrumbs": "Metadata registry",
+  "admin.registries.metadata.breadcrumbs": "Sổ đăng ký siêu dữ liệu",
   
   // "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
-  "admin.registries.metadata.description": "The metadata registry maintains a list of all metadata fields available in the repository. These fields may be divided amongst multiple schemas. However, DSpace requires the qualified Dublin Core schema.",
+  "admin.registries.metadata.description": "Sổ đăng ký siêu dữ liệu duy trì một danh sách tất cả các trường siêu dữ liệu có sẵn trong kho lưu trữ. Các trường này có thể được chia thành nhiều lược đồ. Tuy nhiên, DSpace yêu cầu lược đồ Dublin Core đủ điều kiện.",
   
   // "admin.registries.metadata.form.create": "Create metadata schema",
-  "admin.registries.metadata.form.create": "Create metadata schema",
+  "admin.registries.metadata.form.create": "Tạo lược đồ siêu dữ liệu",
   
   // "admin.registries.metadata.form.edit": "Edit metadata schema",
-  "admin.registries.metadata.form.edit": "Edit metadata schema",
+  "admin.registries.metadata.form.edit": "Chỉnh sửa lược đồ siêu dữ liệu",
   
   // "admin.registries.metadata.form.name": "Name",
-  "admin.registries.metadata.form.name": "Name",
+  "admin.registries.metadata.form.name": "Tên",
   
   // "admin.registries.metadata.form.namespace": "Namespace",
-  "admin.registries.metadata.form.namespace": "Namespace",
+  "admin.registries.metadata.form.namespace": "không gian tên",
   
   // "admin.registries.metadata.head": "Metadata Registry",
-  "admin.registries.metadata.head": "Metadata Registry",
+  "admin.registries.metadata.head": "Sổ đăng ký siêu dữ liệu",
   
   // "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
-  "admin.registries.metadata.schemas.no-items": "No metadata schemas to show.",
+  "admin.registries.metadata.schemas.no-items": "Không có lược đồ siêu dữ liệu nào để hiển thị.",
   
   // "admin.registries.metadata.schemas.table.delete": "Delete selected",
-  "admin.registries.metadata.schemas.table.delete": "Delete selected",
+  "admin.registries.metadata.schemas.table.delete": "Xóa đã chọn",
   
   // "admin.registries.metadata.schemas.table.id": "ID",
   "admin.registries.metadata.schemas.table.id": "ID",
   
   // "admin.registries.metadata.schemas.table.name": "Name",
-  "admin.registries.metadata.schemas.table.name": "Name",
+  "admin.registries.metadata.schemas.table.name": "Tên",
   
   // "admin.registries.metadata.schemas.table.namespace": "Namespace",
-  "admin.registries.metadata.schemas.table.namespace": "Namespace",
+  "admin.registries.metadata.schemas.table.namespace": "Không gian tên",
   
   // "admin.registries.metadata.title": "Metadata Registry",
-  "admin.registries.metadata.title": "Metadata Registry",
+  "admin.registries.metadata.title": "Sổ đăng ký siêu dữ liệu",
   
   
   
   // "admin.registries.schema.breadcrumbs": "Metadata schema",
-  "admin.registries.schema.breadcrumbs": "Metadata schema",
+  "admin.registries.schema.breadcrumbs": "Lược đồ siêu dữ liệu",
   
   // "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
-  "admin.registries.schema.description": "This is the metadata schema for \"{{namespace}}\".",
+  "admin.registries.schema.description": "Đây là lược đồ siêu dữ liệu cho \"{{namespace}}\".",
   
   // "admin.registries.schema.fields.head": "Schema metadata fields",
-  "admin.registries.schema.fields.head": "Schema metadata fields",
+  "admin.registries.schema.fields.head": "Các trường siêu dữ liệu lược đồ",
   
   // "admin.registries.schema.fields.no-items": "No metadata fields to show.",
-  "admin.registries.schema.fields.no-items": "No metadata fields to show.",
+  "admin.registries.schema.fields.no-items": "Không có trường siêu dữ liệu nào để hiển thị.",
   
   // "admin.registries.schema.fields.table.delete": "Delete selected",
-  "admin.registries.schema.fields.table.delete": "Delete selected",
+  "admin.registries.schema.fields.table.delete": "Xóa đã chọn",
   
   // "admin.registries.schema.fields.table.field": "Field",
-  "admin.registries.schema.fields.table.field": "Field",
+  "admin.registries.schema.fields.table.field": "Trường",
   
   // "admin.registries.schema.fields.table.scopenote": "Scope Note",
-  "admin.registries.schema.fields.table.scopenote": "Scope Note",
+  "admin.registries.schema.fields.table.scopenote": "Phạm vi ghi chú",
   
   // "admin.registries.schema.form.create": "Create metadata field",
   "admin.registries.schema.form.create": "Create metadata field",
