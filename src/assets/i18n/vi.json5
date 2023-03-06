@@ -32,34 +32,34 @@
   "404.page-not-found": "không tìm thấy trang",
   
   // "admin.curation-tasks.breadcrumbs": "System curation tasks",
-  "admin.curation-tasks.breadcrumbs": "Nhiệm vụ quản lý hệ thống",
+  "admin.curation-tasks.breadcrumbs": "Nhiệm vụ giám sát hệ thống",
   
   // "admin.curation-tasks.title": "System curation tasks",
-  "admin.curation-tasks.title": "Nhiệm vụ quản lý hệ thống",
+  "admin.curation-tasks.title": "Nhiệm vụ giám sát hệ thống",
   
   // "admin.curation-tasks.header": "System curation tasks",
-  "admin.curation-tasks.header": "Nhiệm vụ quản lý hệ thống",
+  "admin.curation-tasks.header": "Nhiệm vụ giám sát hệ thống",
   
   // "admin.registries.bitstream-formats.breadcrumbs": "Format registry",
   "admin.registries.bitstream-formats.breadcrumbs": "Định dạng sổ đăng ký",
   
   // "admin.registries.bitstream-formats.create.breadcrumbs": "Bitstream format",
-  "admin.registries.bitstream-formats.create.breadcrumbs": "Định dạng Bitstream",
+  "admin.registries.bitstream-formats.create.breadcrumbs": "Định dạng dòng bit",
   
   // "admin.registries.bitstream-formats.create.failure.content": "An error occurred while creating the new bitstream format.",
-  "admin.registries.bitstream-formats.create.failure.content": "Đã xảy ra lỗi khi tạo định dạng bitstream mới.",
+  "admin.registries.bitstream-formats.create.failure.content": "Đã xảy ra lỗi khi tạo định dạng dòng bit mới.",
   
   // "admin.registries.bitstream-formats.create.failure.head": "Failure",
   "admin.registries.bitstream-formats.create.failure.head": "Lỗi",
   
   // "admin.registries.bitstream-formats.create.head": "Create Bitstream format",
-  "admin.registries.bitstream-formats.create.head": "Tạo định dạng bitstream",
+  "admin.registries.bitstream-formats.create.head": "Tạo định dạng dòng bit",
   
   // "admin.registries.bitstream-formats.create.new": "Add a new bitstream format",
-  "admin.registries.bitstream-formats.create.new": "Thêm mới một định dạng bitstream",
+  "admin.registries.bitstream-formats.create.new": "Thêm mới một định dạng dòng bit",
   
   // "admin.registries.bitstream-formats.create.success.content": "The new bitstream format was successfully created.",
-  "admin.registries.bitstream-formats.create.success.content": "Định dạng bitstream mới đã được tạo thành công.",
+  "admin.registries.bitstream-formats.create.success.content": "Định dạng dòng bit mới đã được tạo thành công.",
   
   // "admin.registries.bitstream-formats.create.success.head": "Success",
   "admin.registries.bitstream-formats.create.success.head": "Thành công",
@@ -77,13 +77,13 @@
   "admin.registries.bitstream-formats.delete.success.head": "Thành công",
   
   // "admin.registries.bitstream-formats.description": "This list of bitstream formats provides information about known formats and their support level.",
-  "admin.registries.bitstream-formats.description": "Danh sách các định dạng bitstream này cung cấp thông tin về các định dạng đã biết và mức hỗ trợ của chúng.",
+  "admin.registries.bitstream-formats.description": "Danh sách các định dạng dòng bit này cung cấp thông tin về các định dạng đã biết và mức hỗ trợ của chúng.",
   
   // "admin.registries.bitstream-formats.edit.breadcrumbs": "Bitstream format",
-  "admin.registries.bitstream-formats.edit.breadcrumbs": "Định dạng Bitstream",
+  "admin.registries.bitstream-formats.edit.breadcrumbs": "Định dạng dòng bit",
   
   // "admin.registries.bitstream-formats.edit.description.hint": "",
-  "admin.registries.bitstream-formats.edit.description.hint": "",
+  "admin.registries.bitstream-formats.edit.description.hint": "Gợi ý",
   
   // "admin.registries.bitstream-formats.edit.description.label": "Description",
   "admin.registries.bitstream-formats.edit.description.label": "Mô tả",
