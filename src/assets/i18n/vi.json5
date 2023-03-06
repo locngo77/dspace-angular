@@ -726,115 +726,115 @@
   
   
   // "admin.workflow.breadcrumbs": "Administer Workflow",
-  "admin.workflow.breadcrumbs": "Administer Workflow",
+  "admin.workflow.breadcrumbs": "Quản lý quy trình làm việc",
   
   // "admin.workflow.title": "Administer Workflow",
-  "admin.workflow.title": "Administer Workflow",
+  "admin.workflow.title": "Quản lý quy trình làm việc",
   
   // "admin.workflow.item.workflow": "Workflow",
-  "admin.workflow.item.workflow": "Workflow",
+  "admin.workflow.item.workflow": "Quy trình làm việc",
   
   // "admin.workflow.item.delete": "Delete",
-  "admin.workflow.item.delete": "Delete",
+  "admin.workflow.item.delete": "Xóa",
   
   // "admin.workflow.item.send-back": "Send back",
-  "admin.workflow.item.send-back": "Send back",
+  "admin.workflow.item.send-back": "Gửi lại",
   
   
   
   // "admin.metadata-import.breadcrumbs": "Import Metadata",
-  "admin.metadata-import.breadcrumbs": "Import Metadata",
+  "admin.metadata-import.breadcrumbs": "Nhập siêu dữ liệu",
   
   // "admin.metadata-import.title": "Import Metadata",
-  "admin.metadata-import.title": "Import Metadata",
+  "admin.metadata-import.title": "Nhập siêu dữ liệu",
   
   // "admin.metadata-import.page.header": "Import Metadata",
-  "admin.metadata-import.page.header": "Import Metadata",
+  "admin.metadata-import.page.header": "Nhập siêu dữ liệu",
   
   // "admin.metadata-import.page.help": "You can drop or browse CSV files that contain batch metadata operations on files here",
-  "admin.metadata-import.page.help": "You can drop or browse CSV files that contain batch metadata operations on files here",
+  "admin.metadata-import.page.help": "Bạn có thể kéo thả hoặc duyệt các tệp CSV có chứa hoạt động siêu dữ liệu hàng loạt trên các tệp tại đây",
   
   // "admin.metadata-import.page.dropMsg": "Drop a metadata CSV to import",
-  "admin.metadata-import.page.dropMsg": "Drop a metadata CSV to import",
+  "admin.metadata-import.page.dropMsg": "Kéo thả CSV siêu dữ liệu để nhập",
   
   // "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
-  "admin.metadata-import.page.dropMsgReplace": "Drop to replace the metadata CSV to import",
+  "admin.metadata-import.page.dropMsgReplace": "kéo thả để thay thế CSV siêu dữ liệu cần nhập",
   
   // "admin.metadata-import.page.button.return": "Back",
-  "admin.metadata-import.page.button.return": "Back",
+  "admin.metadata-import.page.button.return": "Lùi",
   
   // "admin.metadata-import.page.button.proceed": "Proceed",
-  "admin.metadata-import.page.button.proceed": "Proceed",
+  "admin.metadata-import.page.button.proceed": "Tiếp tục",
   
   // "admin.metadata-import.page.error.addFile": "Select file first!",
-  "admin.metadata-import.page.error.addFile": "Select file first!",
+  "admin.metadata-import.page.error.addFile": "Chưa chọn tập tin!",
   
   
   
   
   // "auth.errors.invalid-user": "Invalid email address or password.",
-  "auth.errors.invalid-user": "Invalid email address or password.",
+  "auth.errors.invalid-user": "Địa chỉ email hoặc mật khẩu không hợp lệ.",
   
   // "auth.messages.expired": "Your session has expired. Please log in again.",
-  "auth.messages.expired": "Your session has expired. Please log in again.",
+  "auth.messages.expired": "Phiên làm việc của bạn đã hết hạn. Xin vui lòng đăng nhập lại.",
   
   // "auth.messages.token-refresh-failed": "Refreshing your session token failed. Please log in again.",
-  "auth.messages.token-refresh-failed": "Refreshing your session token failed. Please log in again.",
+  "auth.messages.token-refresh-failed": "Làm mới mã thông báo phiên của bạn không thành công. Xin vui lòng đăng nhập lại.",
   
   
   
   // "bitstream.download.page": "Now downloading {{bitstream}}..." ,
-  "bitstream.download.page": "Now downloading {{bitstream}}..." ,
+  "bitstream.download.page": "Đang tải xuống {{bitstream}}..." ,
   
   
   
   // "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
-  "bitstream.edit.authorizations.link": "Edit bitstream's Policies",
+  "bitstream.edit.authorizations.link": "Chỉnh sửa Chính sách của dòng bit",
   
   // "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
-  "bitstream.edit.authorizations.title": "Edit bitstream's Policies",
+  "bitstream.edit.authorizations.title": "Chỉnh sửa Chính sách của dòng bit",
   
   // "bitstream.edit.return": "Back",
-  "bitstream.edit.return": "Back",
+  "bitstream.edit.return": "Lùi",
   
   // "bitstream.edit.bitstream": "Bitstream: ",
-  "bitstream.edit.bitstream": "Bitstream: ",
+  "bitstream.edit.bitstream": "Dòng bit: ",
   
   // "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
-  "bitstream.edit.form.description.hint": "Optionally, provide a brief description of the file, for example \"<i>Main article</i>\" or \"<i>Experiment data readings</i>\".",
+  "bitstream.edit.form.description.hint": "Bạn có thể tùy chọn cung cấp mô tả ngắn gọn về tệp, ví dụ: \"<i>Bài viết chính</i>\" hoặc \"<i>Số lần đọc dữ liệu thử nghiệm</i>\".",
   
   // "bitstream.edit.form.description.label": "Description",
-  "bitstream.edit.form.description.label": "Description",
+  "bitstream.edit.form.description.label": "Mô tả",
   
   // "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
-  "bitstream.edit.form.embargo.hint": "The first day from which access is allowed. <b>This date cannot be modified on this form.</b> To set an embargo date for a bitstream, go to the <i>Item Status</i> tab, click <i>Authorizations...</i>, create or edit the bitstream's <i>READ</i> policy, and set the <i>Start Date</i> as desired.",
+  "bitstream.edit.form.embargo.hint": "Ngày đầu tiên được phép truy cập. <b>Không thể sửa đổi ngày này trên biểu mẫu này.</b> Đặt lịch cấm vận cho dòng bit, hãy chuyển đến tab <i>Trạng thái mặt hàng</i>, nhấp vào <i>Ủy quyền...</i >, tạo hoặc chỉnh sửa chính sách <i>ĐỌC</i> của dòng bit và đặt <i>Ngày bắt đầu</i> như mong muốn.",
   
   // "bitstream.edit.form.embargo.label": "Embargo until specific date",
-  "bitstream.edit.form.embargo.label": "Embargo until specific date",
+  "bitstream.edit.form.embargo.label": "Lịch cấm cho đến ngày cụ thể",
   
   // "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
-  "bitstream.edit.form.fileName.hint": "Change the filename for the bitstream. Note that this will change the display bitstream URL, but old links will still resolve as long as the sequence ID does not change.",
+  "bitstream.edit.form.fileName.hint": "Thay đổi tên tệp cho dòng bit. Lưu ý rằng điều này sẽ thay đổi URL dòng bit hiển thị, nhưng các liên kết cũ sẽ vẫn phân giải miễn là ID trình tự không thay đổi.",
   
   // "bitstream.edit.form.fileName.label": "Filename",
-  "bitstream.edit.form.fileName.label": "Filename",
+  "bitstream.edit.form.fileName.label": "Tên tập tin",
   
   // "bitstream.edit.form.newFormat.label": "Describe new format",
-  "bitstream.edit.form.newFormat.label": "Describe new format",
+  "bitstream.edit.form.newFormat.label": "Mô tả định dạng mới",
   
   // "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
-  "bitstream.edit.form.newFormat.hint": "The application you used to create the file, and the version number (for example, \"<i>ACMESoft SuperApp version 1.5</i>\").",
+  "bitstream.edit.form.newFormat.hint": "Ứng dụng bạn đã sử dụng để tạo tệp và số phiên bản (ví dụ: \"<i>ACMESoft SuperApp phiên bản 1.5</i>\").",
   
   // "bitstream.edit.form.primaryBitstream.label": "Primary bitstream",
-  "bitstream.edit.form.primaryBitstream.label": "Primary bitstream",
+  "bitstream.edit.form.primaryBitstream.label": "Dòng bit chính",
   
   // "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
-  "bitstream.edit.form.selectedFormat.hint": "If the format is not in the above list, <b>select \"format not in list\" above</b> and describe it under \"Describe new format\".",
+  "bitstream.edit.form.selectedFormat.hint": "Nếu định dạng không có trong danh sách trên, hãy <b>chọn \"định dạng không có trong danh sách\" ở trên</b> và mô tả định dạng đó trong phần \"Mô tả định dạng mới\".",
   
   // "bitstream.edit.form.selectedFormat.label": "Selected Format",
-  "bitstream.edit.form.selectedFormat.label": "Selected Format",
+  "bitstream.edit.form.selectedFormat.label": "Định dạng đã chọn",
   
   // "bitstream.edit.form.selectedFormat.unknown": "Format not in list",
-  "bitstream.edit.form.selectedFormat.unknown": "Format not in list",
+  "bitstream.edit.form.selectedFormat.unknown": "Định dạng không có trong danh sách",
   
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
   "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
