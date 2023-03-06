@@ -92,7 +92,7 @@
   "admin.registries.bitstream-formats.edit.extensions.hint": "Phần mở rộng là phần mở rộng tệp được sử dụng để tự động xác định định dạng của tệp được tải lên. Bạn có thể nhập một số phần mở rộng cho mỗi định dạng.",
   
   // "admin.registries.bitstream-formats.edit.extensions.label": "File extensions",
-  "admin.registries.bitstream-formats.edit.extensions.label": "Phần mở rộng tệp tin",
+  "admin.registries.bitstream-formats.edit.extensions.label": "Phần mở rộng tập tin",
   
   // "admin.registries.bitstream-formats.edit.extensions.placeholder": "Enter a file extension without the dot",
   "admin.registries.bitstream-formats.edit.extensions.placeholder": "Nhập phần mở rộng tệp không có dấu chấm",
@@ -280,33 +280,33 @@
   "admin.registries.schema.notification.field.deleted.failure": "Không thể xóa {{amount}} trường siêu dữ liệu",
   
   // "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
-  "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
+  "admin.registries.schema.notification.field.deleted.success": "Đã xóa thành công {{amount}} trường siêu dữ liệu",
   
   // "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.edited": "Successfully edited metadata field \"{{field}}\"",
+  "admin.registries.schema.notification.field.edited": "Đã chỉnh sửa thành công trường siêu dữ liệu \"{{field}}\"",
   
   // "admin.registries.schema.notification.success": "Success",
-  "admin.registries.schema.notification.success": "Success",
+  "admin.registries.schema.notification.success": "Thành công",
   
   // "admin.registries.schema.return": "Back",
-  "admin.registries.schema.return": "Back",
+  "admin.registries.schema.return": "Lùi",
   
   // "admin.registries.schema.title": "Metadata Schema Registry",
-  "admin.registries.schema.title": "Metadata Schema Registry",
+  "admin.registries.schema.title": "Cơ quan đăng ký lược đồ siêu dữ liệu",
   
   
   
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
-  "admin.access-control.epeople.actions.delete": "Delete EPerson",
+  "admin.access-control.epeople.actions.delete": "Xóa EPerson",
   
   // "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
-  "admin.access-control.epeople.actions.impersonate": "Impersonate EPerson",
+  "admin.access-control.epeople.actions.impersonate": "Mạo danh EPerson",
   
   // "admin.access-control.epeople.actions.reset": "Reset password",
-  "admin.access-control.epeople.actions.reset": "Reset password",
+  "admin.access-control.epeople.actions.reset": "Đặt lại mật khẩu",
   
   // "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
-  "admin.access-control.epeople.actions.stop-impersonating": "Stop impersonating EPerson",
+  "admin.access-control.epeople.actions.stop-impersonating": "Dừng mạo danh EPerson",
   
   // "admin.access-control.epeople.breadcrumbs": "EPeople",
   "admin.access-control.epeople.breadcrumbs": "EPeople",
