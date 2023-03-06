@@ -98,14 +98,14 @@
   "admin.registries.bitstream-formats.edit.extensions.placeholder": "Nhập phần mở rộng tệp không có dấu chấm",
   
   // "admin.registries.bitstream-formats.edit.failure.content": "An error occurred while editing the bitstream format.",
-  "admin.registries.bitstream-formats.edit.failure.content": "Đã xảy ra lỗi khi chỉnh sửa định dạng bitstream.",
+  "admin.registries.bitstream-formats.edit.failure.content": "Đã xảy ra lỗi khi chỉnh sửa định dạng dòng bit.",
   
   // "admin.registries.bitstream-formats.edit.failure.head": "Failure",
   "admin.registries.bitstream-formats.edit.failure.head": "Lỗi",
   
   // "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
   // TODO New key - Add a translation
-  "admin.registries.bitstream-formats.edit.head": "Bitstream format: {{ format }}",
+  "admin.registries.bitstream-formats.edit.head": "Định dạng dòng bit: {{ format }}",
   
   // "admin.registries.bitstream-formats.edit.internal.hint": "Formats marked as internal are hidden from the user, and used for administrative purposes.",
   "admin.registries.bitstream-formats.edit.internal.hint": "Các định dạng được đánh dấu là nội bộ bị ẩn khỏi người dùng và được sử dụng cho mục đích quản trị.",
@@ -117,16 +117,16 @@
   "admin.registries.bitstream-formats.edit.mimetype.hint": "Kiểu MIME được liên kết với định dạng này, không nhất thiết phải là duy nhất.",
   
   // "admin.registries.bitstream-formats.edit.mimetype.label": "MIME Type",
-  "admin.registries.bitstream-formats.edit.mimetype.label": "Kiểu MIME",
+  "admin.registries.bitstream-formats.edit.mimetype.label": "Loại MIME",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.hint": "A unique name for this format, (e.g. Microsoft Word XP or Microsoft Word 2000)",
-  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Một tên duy nhất cho định dạng này, (e.g. Microsoft Word XP or Microsoft Word 2000)",
+  "admin.registries.bitstream-formats.edit.shortDescription.hint": "Tên duy nhất cho định dạng này, (e.g. Microsoft Word XP or Microsoft Word 2000)",
   
   // "admin.registries.bitstream-formats.edit.shortDescription.label": "Name",
   "admin.registries.bitstream-formats.edit.shortDescription.label": "Tên",
   
   // "admin.registries.bitstream-formats.edit.success.content": "The bitstream format was successfully edited.",
-  "admin.registries.bitstream-formats.edit.success.content": "Định dạng bitstream đã được chỉnh sửa thành công.",
+  "admin.registries.bitstream-formats.edit.success.content": "Định dạng dòng bit đã được chỉnh sửa thành công.",
   
   // "admin.registries.bitstream-formats.edit.success.head": "Success",
   "admin.registries.bitstream-formats.edit.success.head": "Thành công",
@@ -138,10 +138,10 @@
   "admin.registries.bitstream-formats.edit.supportLevel.label": "Mức hỗ trợ",
   
   // "admin.registries.bitstream-formats.head": "Bitstream Format Registry",
-  "admin.registries.bitstream-formats.head": "Sổ đăng ký định dạng bitstream",
+  "admin.registries.bitstream-formats.head": "Sổ đăng ký định dạng dòng bit",
   
   // "admin.registries.bitstream-formats.no-items": "No bitstream formats to show.",
-  "admin.registries.bitstream-formats.no-items": "Không có định dạng bitstream nào để hiển thị.",
+  "admin.registries.bitstream-formats.no-items": "Không có định dạng dòng bit nào để hiển thị.",
   
   // "admin.registries.bitstream-formats.table.delete": "Delete selected",
   "admin.registries.bitstream-formats.table.delete": "Xóa đã chọn",
@@ -153,13 +153,13 @@
   "admin.registries.bitstream-formats.table.internal": "nội bộ",
   
   // "admin.registries.bitstream-formats.table.mimetype": "MIME Type",
-  "admin.registries.bitstream-formats.table.mimetype": "Kiểu MIME",
+  "admin.registries.bitstream-formats.table.mimetype": "Loại MIME",
   
   // "admin.registries.bitstream-formats.table.name": "Name",
   "admin.registries.bitstream-formats.table.name": "Tên",
   
   // "admin.registries.bitstream-formats.table.return": "Back",
-  "admin.registries.bitstream-formats.table.return": "Trở lại",
+  "admin.registries.bitstream-formats.table.return": "Lùi",
   
   // "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Known",
   "admin.registries.bitstream-formats.table.supportLevel.KNOWN": "Đã biết",
