@@ -2134,822 +2134,822 @@
   "item.edit.bitstreams.bundle.edit.buttons.upload": "Tải lên",
   
   // "item.edit.bitstreams.bundle.displaying": "Currently displaying {{ amount }} bitstreams of {{ total }}.",
-  "item.edit.bitstreams.bundle.displaying": "Currently displaying {{ amount }} bitstreams of {{ total }}.",
+  "item.edit.bitstreams.bundle.displaying": "Đang hiển thị {{ amount }} dòng bit của {{ total }}.",
   
   // "item.edit.bitstreams.bundle.load.all": "Load all ({{ total }})",
-  "item.edit.bitstreams.bundle.load.all": "Load all ({{ total }})",
+  "item.edit.bitstreams.bundle.load.all": "Tải tất cả ({{ total }})",
   
   // "item.edit.bitstreams.bundle.load.more": "Load more",
-  "item.edit.bitstreams.bundle.load.more": "Load more",
+  "item.edit.bitstreams.bundle.load.more": "Tải thêm",
   
   // "item.edit.bitstreams.bundle.name": "BUNDLE: {{ name }}",
-  "item.edit.bitstreams.bundle.name": "BUNDLE: {{ name }}",
+  "item.edit.bitstreams.bundle.name": "GÓI: {{ name }}",
   
   // "item.edit.bitstreams.discard-button": "Discard",
-  "item.edit.bitstreams.discard-button": "Discard",
+  "item.edit.bitstreams.discard-button": "Bỏ qua",
   
   // "item.edit.bitstreams.edit.buttons.download": "Download",
-  "item.edit.bitstreams.edit.buttons.download": "Download",
+  "item.edit.bitstreams.edit.buttons.download": "Tải xuống",
   
   // "item.edit.bitstreams.edit.buttons.drag": "Drag",
-  "item.edit.bitstreams.edit.buttons.drag": "Drag",
+  "item.edit.bitstreams.edit.buttons.drag": "Kéo thả",
   
   // "item.edit.bitstreams.edit.buttons.edit": "Edit",
-  "item.edit.bitstreams.edit.buttons.edit": "Edit",
+  "item.edit.bitstreams.edit.buttons.edit": "Sửa",
   
   // "item.edit.bitstreams.edit.buttons.remove": "Remove",
-  "item.edit.bitstreams.edit.buttons.remove": "Remove",
+  "item.edit.bitstreams.edit.buttons.remove": "Xóa",
   
   // "item.edit.bitstreams.edit.buttons.undo": "Undo changes",
-  "item.edit.bitstreams.edit.buttons.undo": "Undo changes",
+  "item.edit.bitstreams.edit.buttons.undo": "Hoàn tác thay đổi",
   
   // "item.edit.bitstreams.empty": "This item doesn't contain any bitstreams. Click the upload button to create one.",
-  "item.edit.bitstreams.empty": "This item doesn't contain any bitstreams. Click the upload button to create one.",
+  "item.edit.bitstreams.empty": "Mục này không chứa bất kỳ dòng bit nào. Nhấp vào nút tải lên để tạo.",
   
   // "item.edit.bitstreams.headers.actions": "Actions",
-  "item.edit.bitstreams.headers.actions": "Actions",
+  "item.edit.bitstreams.headers.actions": "Hoạt động",
   
   // "item.edit.bitstreams.headers.bundle": "Bundle",
-  "item.edit.bitstreams.headers.bundle": "Bundle",
+  "item.edit.bitstreams.headers.bundle": "Gói",
   
   // "item.edit.bitstreams.headers.description": "Description",
-  "item.edit.bitstreams.headers.description": "Description",
+  "item.edit.bitstreams.headers.description": "Mô tả",
   
   // "item.edit.bitstreams.headers.format": "Format",
-  "item.edit.bitstreams.headers.format": "Format",
+  "item.edit.bitstreams.headers.format": "Định dạng",
   
   // "item.edit.bitstreams.headers.name": "Name",
-  "item.edit.bitstreams.headers.name": "Name",
+  "item.edit.bitstreams.headers.name": "Tên",
   
   // "item.edit.bitstreams.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
-  "item.edit.bitstreams.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
+  "item.edit.bitstreams.notifications.discarded.content": "Thay đổi của bạn đã bị loại bỏ. Để khôi phục các thay đổi của bạn, hãy nhấp vào nút 'Hoàn tác' ",
   
   // "item.edit.bitstreams.notifications.discarded.title": "Changes discarded",
-  "item.edit.bitstreams.notifications.discarded.title": "Changes discarded",
+  "item.edit.bitstreams.notifications.discarded.title": "Thay đổi bị loại bỏ",
   
   // "item.edit.bitstreams.notifications.move.failed.title": "Error moving bitstreams",
-  "item.edit.bitstreams.notifications.move.failed.title": "Error moving bitstreams",
+  "item.edit.bitstreams.notifications.move.failed.title": "Lỗi di chuyển dòng bit",
   
   // "item.edit.bitstreams.notifications.move.saved.content": "Your move changes to this item's bitstreams and bundles have been saved.",
-  "item.edit.bitstreams.notifications.move.saved.content": "Your move changes to this item's bitstreams and bundles have been saved.",
+  "item.edit.bitstreams.notifications.move.saved.content": "Các thay đổi di chuyển đối với luồng bit và gói của mục này đã được lưu.",
   
   // "item.edit.bitstreams.notifications.move.saved.title": "Move changes saved",
-  "item.edit.bitstreams.notifications.move.saved.title": "Move changes saved",
+  "item.edit.bitstreams.notifications.move.saved.title": "Di chuyển các thay đổi đã lưu",
   
   // "item.edit.bitstreams.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
-  "item.edit.bitstreams.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
+  "item.edit.bitstreams.notifications.outdated.content": "Mục bạn đang làm việc đã bị thay đổi bởi người dùng khác. Những thay đổi hiện tại của bạn bị loại bỏ để tránh xung đột",
   
   // "item.edit.bitstreams.notifications.outdated.title": "Changes outdated",
-  "item.edit.bitstreams.notifications.outdated.title": "Changes outdated",
+  "item.edit.bitstreams.notifications.outdated.title": "Thay đổi hết hiệu lực",
   
   // "item.edit.bitstreams.notifications.remove.failed.title": "Error deleting bitstream",
-  "item.edit.bitstreams.notifications.remove.failed.title": "Error deleting bitstream",
+  "item.edit.bitstreams.notifications.remove.failed.title": "Lỗi khi xóa dòng bit",
   
   // "item.edit.bitstreams.notifications.remove.saved.content": "Your removal changes to this item's bitstreams have been saved.",
-  "item.edit.bitstreams.notifications.remove.saved.content": "Your removal changes to this item's bitstreams have been saved.",
+  "item.edit.bitstreams.notifications.remove.saved.content": "Các thay đổi xóa đối với dòng bit của mục này đã được lưu.",
   
   // "item.edit.bitstreams.notifications.remove.saved.title": "Removal changes saved",
-  "item.edit.bitstreams.notifications.remove.saved.title": "Removal changes saved",
+  "item.edit.bitstreams.notifications.remove.saved.title": "Đã lưu các thay đổi xóa",
   
   // "item.edit.bitstreams.reinstate-button": "Undo",
-  "item.edit.bitstreams.reinstate-button": "Undo",
+  "item.edit.bitstreams.reinstate-button": "Hoàn tác",
   
   // "item.edit.bitstreams.save-button": "Save",
-  "item.edit.bitstreams.save-button": "Save",
+  "item.edit.bitstreams.save-button": "Lưu",
   
   // "item.edit.bitstreams.upload-button": "Upload",
-  "item.edit.bitstreams.upload-button": "Upload",
+  "item.edit.bitstreams.upload-button": "Tải lên",
   
   
   
   // "item.edit.delete.cancel": "Cancel",
-  "item.edit.delete.cancel": "Cancel",
+  "item.edit.delete.cancel": "Hủy",
   
   // "item.edit.delete.confirm": "Delete",
-  "item.edit.delete.confirm": "Delete",
+  "item.edit.delete.confirm": "Xóa",
   
   // "item.edit.delete.description": "Are you sure this item should be completely deleted? Caution: At present, no tombstone would be left.",
-  "item.edit.delete.description": "Are you sure this item should be completely deleted? Caution: At present, no tombstone would be left.",
+  "item.edit.delete.description": "Bạn có chắc chắn mục này được xóa hoàn toàn? Thận trọng: Sẽ không thể khôi phục.",
   
   // "item.edit.delete.error": "An error occurred while deleting the item",
-  "item.edit.delete.error": "An error occurred while deleting the item",
+  "item.edit.delete.error": "Đã xảy ra lỗi khi xóa mục",
   
   // "item.edit.delete.header": "Delete item: {{ id }}",
-  "item.edit.delete.header": "Delete item: {{ id }}",
+  "item.edit.delete.header": "Xóa mục: {{ id }}",
   
   // "item.edit.delete.success": "The item has been deleted",
-  "item.edit.delete.success": "The item has been deleted",
+  "item.edit.delete.success": "Mục đã bị xóa",
   
   // "item.edit.head": "Edit Item",
-  "item.edit.head": "Edit Item",
+  "item.edit.head": "Sửa mục",
   
   // "item.edit.breadcrumbs": "Edit Item",
-  "item.edit.breadcrumbs": "Edit Item",
+  "item.edit.breadcrumbs": "Sửa mục",
   
   // "item.edit.tabs.disabled.tooltip": "You're not authorized to access this tab",
-  "item.edit.tabs.disabled.tooltip": "You're not authorized to access this tab",
+  "item.edit.tabs.disabled.tooltip": "Bạn không được phép truy cập tab này",
   
   
   // "item.edit.tabs.mapper.head": "Collection Mapper",
-  "item.edit.tabs.mapper.head": "Collection Mapper",
+  "item.edit.tabs.mapper.head": "Trình ánh xạ bộ sưu tập",
   
   // "item.edit.tabs.item-mapper.title": "Item Edit - Collection Mapper",
-  "item.edit.tabs.item-mapper.title": "Item Edit - Collection Mapper",
+  "item.edit.tabs.item-mapper.title": "Chỉnh sửa mục - Trình ánh xạ bộ sưu tập",
   
   // "item.edit.item-mapper.buttons.add": "Map item to selected collections",
-  "item.edit.item-mapper.buttons.add": "Map item to selected collections",
+  "item.edit.item-mapper.buttons.add": "Ánh xạ mục vào các bộ sưu tập đã chọn",
   
   // "item.edit.item-mapper.buttons.remove": "Remove item's mapping for selected collections",
-  "item.edit.item-mapper.buttons.remove": "Remove item's mapping for selected collections",
+  "item.edit.item-mapper.buttons.remove": "Xóa ánh xạ của mục cho các bộ sưu tập đã chọn",
   
   // "item.edit.item-mapper.cancel": "Cancel",
-  "item.edit.item-mapper.cancel": "Cancel",
+  "item.edit.item-mapper.cancel": "Hủy",
   
   // "item.edit.item-mapper.description": "This is the item mapper tool that allows administrators to map this item to other collections. You can search for collections and map them, or browse the list of collections the item is currently mapped to.",
-  "item.edit.item-mapper.description": "This is the item mapper tool that allows administrators to map this item to other collections. You can search for collections and map them, or browse the list of collections the item is currently mapped to.",
+  "item.edit.item-mapper.description": "Đây là công cụ ánh xạ mục cho phép quản trị viên ánh xạ mục này tới các bộ sưu tập khác. Bạn có thể tìm kiếm các bộ sưu tập và ánh xạ chúng hoặc duyệt qua danh sách các bộ sưu tập mà mục hiện được ánh xạ tới.",
   
   // "item.edit.item-mapper.head": "Item Mapper - Map Item to Collections",
-  "item.edit.item-mapper.head": "Item Mapper - Map Item to Collections",
+  "item.edit.item-mapper.head": "Trình ánh xạ mục - Ánh xạ mục vào bộ sưu tập",
   
   // "item.edit.item-mapper.item": "Item: \"<b>{{name}}</b>\"",
-  "item.edit.item-mapper.item": "Item: \"<b>{{name}}</b>\"",
+  "item.edit.item-mapper.item": "Mục: \"<b>{{name}}</b>\"",
   
   // "item.edit.item-mapper.no-search": "Please enter a query to search",
-  "item.edit.item-mapper.no-search": "Please enter a query to search",
+  "item.edit.item-mapper.no-search": "Vui lòng nhập truy vấn để tìm kiếm",
   
   // "item.edit.item-mapper.notifications.add.error.content": "Errors occurred for mapping of item to {{amount}} collections.",
-  "item.edit.item-mapper.notifications.add.error.content": "Errors occurred for mapping of item to {{amount}} collections.",
+  "item.edit.item-mapper.notifications.add.error.content": "Đã xảy ra lỗi khi ánh xạ {{amount}} mục tới bộ sưu tập.",
   
   // "item.edit.item-mapper.notifications.add.error.head": "Mapping errors",
-  "item.edit.item-mapper.notifications.add.error.head": "Mapping errors",
+  "item.edit.item-mapper.notifications.add.error.head": "Lỗi ánh xạ",
   
   // "item.edit.item-mapper.notifications.add.success.content": "Successfully mapped item to {{amount}} collections.",
-  "item.edit.item-mapper.notifications.add.success.content": "Successfully mapped item to {{amount}} collections.",
+  "item.edit.item-mapper.notifications.add.success.content": "Đã ánh xạ thành công {{amount}} mục vào bộ sưu tập.",
   
   // "item.edit.item-mapper.notifications.add.success.head": "Mapping completed",
-  "item.edit.item-mapper.notifications.add.success.head": "Mapping completed",
+  "item.edit.item-mapper.notifications.add.success.head": "Ánh xạ hoàn thành",
   
   // "item.edit.item-mapper.notifications.remove.error.content": "Errors occurred for the removal of the mapping to {{amount}} collections.",
-  "item.edit.item-mapper.notifications.remove.error.content": "Errors occurred for the removal of the mapping to {{amount}} collections.",
+  "item.edit.item-mapper.notifications.remove.error.content": "Đã xảy ra lỗi khi xóa ánh xạ tới {{amount}} bộ sưu tập.",
   
   // "item.edit.item-mapper.notifications.remove.error.head": "Removal of mapping errors",
-  "item.edit.item-mapper.notifications.remove.error.head": "Removal of mapping errors",
+  "item.edit.item-mapper.notifications.remove.error.head": "Loại bỏ các lỗi ánh xạ",
   
   // "item.edit.item-mapper.notifications.remove.success.content": "Successfully removed mapping of item to {{amount}} collections.",
-  "item.edit.item-mapper.notifications.remove.success.content": "Successfully removed mapping of item to {{amount}} collections.",
+  "item.edit.item-mapper.notifications.remove.success.content": "Đã xóa thành công ánh xạ của {{amount}} mục tới bộ sưu tập.",
   
   // "item.edit.item-mapper.notifications.remove.success.head": "Removal of mapping completed",
-  "item.edit.item-mapper.notifications.remove.success.head": "Removal of mapping completed",
+  "item.edit.item-mapper.notifications.remove.success.head": "Đã hoàn thành xóa ánh xạ",
   
   // "item.edit.item-mapper.search-form.placeholder": "Search collections...",
-  "item.edit.item-mapper.search-form.placeholder": "Search collections...",
+  "item.edit.item-mapper.search-form.placeholder": "Tìm kiếm bộ sưu tập...",
   
   // "item.edit.item-mapper.tabs.browse": "Browse mapped collections",
-  "item.edit.item-mapper.tabs.browse": "Browse mapped collections",
+  "item.edit.item-mapper.tabs.browse": "Duyệt các bộ sưu tập được ánh xạ",
   
   // "item.edit.item-mapper.tabs.map": "Map new collections",
-  "item.edit.item-mapper.tabs.map": "Map new collections",
+  "item.edit.item-mapper.tabs.map": "Ánh xạ bộ sưu tập mới",
   
   
   
   // "item.edit.metadata.add-button": "Add",
-  "item.edit.metadata.add-button": "Add",
+  "item.edit.metadata.add-button": "Thêm",
   
   // "item.edit.metadata.discard-button": "Discard",
-  "item.edit.metadata.discard-button": "Discard",
+  "item.edit.metadata.discard-button": "Bỏ qua",
   
   // "item.edit.metadata.edit.buttons.edit": "Edit",
-  "item.edit.metadata.edit.buttons.edit": "Edit",
+  "item.edit.metadata.edit.buttons.edit": "Sửa",
   
   // "item.edit.metadata.edit.buttons.remove": "Remove",
-  "item.edit.metadata.edit.buttons.remove": "Remove",
+  "item.edit.metadata.edit.buttons.remove": "Xóa",
   
   // "item.edit.metadata.edit.buttons.undo": "Undo changes",
-  "item.edit.metadata.edit.buttons.undo": "Undo changes",
+  "item.edit.metadata.edit.buttons.undo": "Hoàn tác thay đổi",
   
   // "item.edit.metadata.edit.buttons.unedit": "Stop editing",
-  "item.edit.metadata.edit.buttons.unedit": "Stop editing",
+  "item.edit.metadata.edit.buttons.unedit": "Dừng chỉnh sửa",
   
   // "item.edit.metadata.empty": "The item currently doesn't contain any metadata. Click Add to start adding a metadata value.",
-  "item.edit.metadata.empty": "The item currently doesn't contain any metadata. Click Add to start adding a metadata value.",
+  "item.edit.metadata.empty": "Mục hiện không chứa bất kỳ siêu dữ liệu nào. Nhấp vào Thêm để bắt đầu thêm giá trị siêu dữ liệu.",
   
   // "item.edit.metadata.headers.edit": "Edit",
-  "item.edit.metadata.headers.edit": "Edit",
+  "item.edit.metadata.headers.edit": "Sửa",
   
   // "item.edit.metadata.headers.field": "Field",
-  "item.edit.metadata.headers.field": "Field",
+  "item.edit.metadata.headers.field": "Trường",
   
   // "item.edit.metadata.headers.language": "Lang",
-  "item.edit.metadata.headers.language": "Lang",
+  "item.edit.metadata.headers.language": "Ngôn ngữ",
   
   // "item.edit.metadata.headers.value": "Value",
-  "item.edit.metadata.headers.value": "Value",
+  "item.edit.metadata.headers.value": "Giá trị",
   
   // "item.edit.metadata.metadatafield.invalid": "Please choose a valid metadata field",
-  "item.edit.metadata.metadatafield.invalid": "Please choose a valid metadata field",
+  "item.edit.metadata.metadatafield.invalid": "Vui lòng chọn trường siêu dữ liệu hợp lệ",
   
   // "item.edit.metadata.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
-  "item.edit.metadata.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
+  "item.edit.metadata.notifications.discarded.content": "Thay đổi của bạn đã bị loại bỏ. Để khôi phục các thay đổi của bạn, hãy nhấp vào nút 'Hoàn tác'",
   
   // "item.edit.metadata.notifications.discarded.title": "Changed discarded",
-  "item.edit.metadata.notifications.discarded.title": "Changed discarded",
+  "item.edit.metadata.notifications.discarded.title": "Thay đổi bị loại bỏ",
   
   // "item.edit.metadata.notifications.error.title": "An error occurred",
-  "item.edit.metadata.notifications.error.title": "An error occurred",
+  "item.edit.metadata.notifications.error.title": "Đã xảy ra lỗi",
   
   // "item.edit.metadata.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
-  "item.edit.metadata.notifications.invalid.content": "Your changes were not saved. Please make sure all fields are valid before you save.",
+  "item.edit.metadata.notifications.invalid.content": "Thay đổi của bạn không được lưu. Vui lòng đảm bảo rằng tất cả các trường đều hợp lệ trước khi thực hiện lưu.",
   
   // "item.edit.metadata.notifications.invalid.title": "Metadata invalid",
-  "item.edit.metadata.notifications.invalid.title": "Metadata invalid",
+  "item.edit.metadata.notifications.invalid.title": "Siêu dữ liệu không hợp lệ",
   
   // "item.edit.metadata.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
-  "item.edit.metadata.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
+  "item.edit.metadata.notifications.outdated.content": "Mục bạn đang làm việc đã bị thay đổi bởi người dùng khác. Những thay đổi hiện tại của bạn bị loại bỏ để tránh xung đột",
   
   // "item.edit.metadata.notifications.outdated.title": "Changed outdated",
-  "item.edit.metadata.notifications.outdated.title": "Changed outdated",
+  "item.edit.metadata.notifications.outdated.title": "Thay đổi hết hiệu lực",
   
   // "item.edit.metadata.notifications.saved.content": "Your changes to this item's metadata were saved.",
-  "item.edit.metadata.notifications.saved.content": "Your changes to this item's metadata were saved.",
+  "item.edit.metadata.notifications.saved.content": "Các thay đổi của bạn đối với siêu dữ liệu của mục này đã được lưu.",
   
   // "item.edit.metadata.notifications.saved.title": "Metadata saved",
-  "item.edit.metadata.notifications.saved.title": "Metadata saved",
+  "item.edit.metadata.notifications.saved.title": "Đã lưu siêu dữ liệu",
   
   // "item.edit.metadata.reinstate-button": "Undo",
-  "item.edit.metadata.reinstate-button": "Undo",
+  "item.edit.metadata.reinstate-button": "Hoàn tác",
   
   // "item.edit.metadata.save-button": "Save",
-  "item.edit.metadata.save-button": "Save",
+  "item.edit.metadata.save-button": "Lưu",
   
   
   
   // "item.edit.modify.overview.field": "Field",
-  "item.edit.modify.overview.field": "Field",
+  "item.edit.modify.overview.field": "Trường",
   
   // "item.edit.modify.overview.language": "Language",
-  "item.edit.modify.overview.language": "Language",
+  "item.edit.modify.overview.language": "Ngôn ngữ",
   
   // "item.edit.modify.overview.value": "Value",
-  "item.edit.modify.overview.value": "Value",
+  "item.edit.modify.overview.value": "Giá trị",
   
   
   
   // "item.edit.move.cancel": "Back",
-  "item.edit.move.cancel": "Back",
+  "item.edit.move.cancel": "Lùi",
   
   // "item.edit.move.save-button": "Save",
-  "item.edit.move.save-button": "Save",
+  "item.edit.move.save-button": "Lưu",
   
   // "item.edit.move.discard-button": "Discard",
-  "item.edit.move.discard-button": "Discard",
+  "item.edit.move.discard-button": "Loại bỏ",
   
   // "item.edit.move.description": "Select the collection you wish to move this item to. To narrow down the list of displayed collections, you can enter a search query in the box.",
-  "item.edit.move.description": "Select the collection you wish to move this item to. To narrow down the list of displayed collections, you can enter a search query in the box.",
+  "item.edit.move.description": "Chọn bộ sưu tập mà bạn muốn di chuyển mục này đến. Để thu hẹp danh sách các bộ sưu tập được hiển thị, bạn có thể nhập truy vấn tìm kiếm vào hộp.",
   
   // "item.edit.move.error": "An error occurred when attempting to move the item",
-  "item.edit.move.error": "An error occurred when attempting to move the item",
+  "item.edit.move.error": "Đã xảy ra lỗi khi cố gắng di chuyển mục",
   
   // "item.edit.move.head": "Move item: {{id}}",
-  "item.edit.move.head": "Move item: {{id}}",
+  "item.edit.move.head": "Di chuyển mục: {{id}}",
   
   // "item.edit.move.inheritpolicies.checkbox": "Inherit policies",
-  "item.edit.move.inheritpolicies.checkbox": "Inherit policies",
+  "item.edit.move.inheritpolicies.checkbox": "Kế thừa chính sách",
   
   // "item.edit.move.inheritpolicies.description": "Inherit the default policies of the destination collection",
-  "item.edit.move.inheritpolicies.description": "Inherit the default policies of the destination collection",
+  "item.edit.move.inheritpolicies.description": "Kế thừa các chính sách mặc định của bộ sưu tập đích",
   
   // "item.edit.move.move": "Move",
-  "item.edit.move.move": "Move",
+  "item.edit.move.move": "Di chuyển",
   
   // "item.edit.move.processing": "Moving...",
-  "item.edit.move.processing": "Moving...",
+  "item.edit.move.processing": "Đang di chuyển...",
   
   // "item.edit.move.search.placeholder": "Enter a search query to look for collections",
-  "item.edit.move.search.placeholder": "Enter a search query to look for collections",
+  "item.edit.move.search.placeholder": "Nhập truy vấn tìm kiếm để tìm bộ sưu tập",
   
   // "item.edit.move.success": "The item has been moved successfully",
-  "item.edit.move.success": "The item has been moved successfully",
+  "item.edit.move.success": "Mục đã được di chuyển thành công",
   
   // "item.edit.move.title": "Move item",
-  "item.edit.move.title": "Move item",
+  "item.edit.move.title": "Di chuyển mục",
   
   
   
   // "item.edit.private.cancel": "Cancel",
-  "item.edit.private.cancel": "Cancel",
+  "item.edit.private.cancel": "Hủy",
   
   // "item.edit.private.confirm": "Make it Private",
-  "item.edit.private.confirm": "Make it Private",
+  "item.edit.private.confirm": "Đặt chế độ riêng tư",
   
   // "item.edit.private.description": "Are you sure this item should be made private in the archive?",
-  "item.edit.private.description": "Are you sure this item should be made private in the archive?",
+  "item.edit.private.description": "Bạn có chắc mục này nên được đặt ở chế độ riêng tư trong kho lưu trữ?",
   
   // "item.edit.private.error": "An error occurred while making the item private",
-  "item.edit.private.error": "An error occurred while making the item private",
+  "item.edit.private.error": "Đã xảy ra lỗi khi đặt mục này ở chế độ riêng tư",
   
   // "item.edit.private.header": "Make item private: {{ id }}",
-  "item.edit.private.header": "Make item private: {{ id }}",
+  "item.edit.private.header": "Đặt mục ở chế độ riêng tư: {{ id }}",
   
   // "item.edit.private.success": "The item is now private",
-  "item.edit.private.success": "The item is now private",
+  "item.edit.private.success": "Mục này hiện đang ở chế độ riêng tư",
   
   
   
   // "item.edit.public.cancel": "Cancel",
-  "item.edit.public.cancel": "Cancel",
+  "item.edit.public.cancel": "Hủy",
   
   // "item.edit.public.confirm": "Make it Public",
-  "item.edit.public.confirm": "Make it Public",
+  "item.edit.public.confirm": "Đặt chế độ công khai",
   
   // "item.edit.public.description": "Are you sure this item should be made public in the archive?",
-  "item.edit.public.description": "Are you sure this item should be made public in the archive?",
+  "item.edit.public.description": "Bạn có chắc mục này nên được công khai trong kho lưu trữ?",
   
   // "item.edit.public.error": "An error occurred while making the item public",
-  "item.edit.public.error": "An error occurred while making the item public",
+  "item.edit.public.error": "Đã xảy ra lỗi khi đặt mục ở chế độ công khai",
   
   // "item.edit.public.header": "Make item public: {{ id }}",
-  "item.edit.public.header": "Make item public: {{ id }}",
+  "item.edit.public.header": "Đặt mục ở chế độ công khai: {{ id }}",
   
   // "item.edit.public.success": "The item is now public",
-  "item.edit.public.success": "The item is now public",
+  "item.edit.public.success": "Mục hiện đang ở chế độ công khai",
   
   
   
   // "item.edit.reinstate.cancel": "Cancel",
-  "item.edit.reinstate.cancel": "Cancel",
+  "item.edit.reinstate.cancel": "Hủy",
   
   // "item.edit.reinstate.confirm": "Reinstate",
-  "item.edit.reinstate.confirm": "Reinstate",
+  "item.edit.reinstate.confirm": "Phục hồi",
   
   // "item.edit.reinstate.description": "Are you sure this item should be reinstated to the archive?",
-  "item.edit.reinstate.description": "Are you sure this item should be reinstated to the archive?",
+  "item.edit.reinstate.description": "Bạn có chắc chắn mục này được khôi phục vào kho lưu trữ?",
   
   // "item.edit.reinstate.error": "An error occurred while reinstating the item",
-  "item.edit.reinstate.error": "An error occurred while reinstating the item",
+  "item.edit.reinstate.error": "Đã xảy ra lỗi khi phục hồi mục",
   
   // "item.edit.reinstate.header": "Reinstate item: {{ id }}",
-  "item.edit.reinstate.header": "Reinstate item: {{ id }}",
+  "item.edit.reinstate.header": "Phục hồi mục: {{ id }}",
   
   // "item.edit.reinstate.success": "The item was reinstated successfully",
-  "item.edit.reinstate.success": "The item was reinstated successfully",
+  "item.edit.reinstate.success": "Mục đã được khôi phục thành công",
   
   
   
   // "item.edit.relationships.discard-button": "Discard",
-  "item.edit.relationships.discard-button": "Discard",
+  "item.edit.relationships.discard-button": "Bỏ qua",
   
   // "item.edit.relationships.edit.buttons.add": "Add",
-  "item.edit.relationships.edit.buttons.add": "Add",
+  "item.edit.relationships.edit.buttons.add": "Thêm",
   
   // "item.edit.relationships.edit.buttons.remove": "Remove",
-  "item.edit.relationships.edit.buttons.remove": "Remove",
+  "item.edit.relationships.edit.buttons.remove": "Xóa",
   
   // "item.edit.relationships.edit.buttons.undo": "Undo changes",
-  "item.edit.relationships.edit.buttons.undo": "Undo changes",
+  "item.edit.relationships.edit.buttons.undo": "Hoàn tác thay đổi",
   
   // "item.edit.relationships.no-relationships": "No relationships",
-  "item.edit.relationships.no-relationships": "No relationships",
+  "item.edit.relationships.no-relationships": "Không có mối quan hệ",
   
   // "item.edit.relationships.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
-  "item.edit.relationships.notifications.discarded.content": "Your changes were discarded. To reinstate your changes click the 'Undo' button",
+  "item.edit.relationships.notifications.discarded.content": "Thay đổi của bạn đã bị loại bỏ. Để khôi phục các thay đổi của bạn, hãy nhấp vào nút 'Hoàn tác' ",
   
   // "item.edit.relationships.notifications.discarded.title": "Changes discarded",
-  "item.edit.relationships.notifications.discarded.title": "Changes discarded",
+  "item.edit.relationships.notifications.discarded.title": "Thay đổi bị loại bỏ",
   
   // "item.edit.relationships.notifications.failed.title": "Error editing relationships",
-  "item.edit.relationships.notifications.failed.title": "Error editing relationships",
+  "item.edit.relationships.notifications.failed.title": "Lỗi khi chỉnh sửa mối quan hệ",
   
   // "item.edit.relationships.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
-  "item.edit.relationships.notifications.outdated.content": "The item you're currently working on has been changed by another user. Your current changes are discarded to prevent conflicts",
+  "item.edit.relationships.notifications.outdated.content": "Mục bạn đang làm việc đã bị thay đổi bởi người dùng khác. Những thay đổi hiện tại của bạn bị loại bỏ để tránh xung đột",
   
   // "item.edit.relationships.notifications.outdated.title": "Changes outdated",
-  "item.edit.relationships.notifications.outdated.title": "Changes outdated",
+  "item.edit.relationships.notifications.outdated.title": "Thay đổi đã hết hiệu lực",
   
   // "item.edit.relationships.notifications.saved.content": "Your changes to this item's relationships were saved.",
-  "item.edit.relationships.notifications.saved.content": "Your changes to this item's relationships were saved.",
+  "item.edit.relationships.notifications.saved.content": "Các thay đổi của bạn đối với mối quan hệ của mục này đã được lưu.",
   
   // "item.edit.relationships.notifications.saved.title": "Relationships saved",
-  "item.edit.relationships.notifications.saved.title": "Relationships saved",
+  "item.edit.relationships.notifications.saved.title": "Đã lưu mối quan hệ",
   
   // "item.edit.relationships.reinstate-button": "Undo",
-  "item.edit.relationships.reinstate-button": "Undo",
+  "item.edit.relationships.reinstate-button": "Hoàn tác",
   
   // "item.edit.relationships.save-button": "Save",
-  "item.edit.relationships.save-button": "Save",
+  "item.edit.relationships.save-button": "Lưu",
   
   // "item.edit.relationships.no-entity-type": "Add 'dspace.entity.type' metadata to enable relationships for this item",
-  "item.edit.relationships.no-entity-type": "Add 'dspace.entity.type' metadata to enable relationships for this item",
+  "item.edit.relationships.no-entity-type": "Thêm siêu dữ liệu 'dspace.entity.type' để bật mối quan hệ cho mục này",
   
   
   // "item.edit.return": "Back",
-  "item.edit.return": "Back",
+  "item.edit.return": "Lùi",
   
   
   // "item.edit.tabs.bitstreams.head": "Bitstreams",
-  "item.edit.tabs.bitstreams.head": "Bitstreams",
+  "item.edit.tabs.bitstreams.head": "Dòng bit",
   
   // "item.edit.tabs.bitstreams.title": "Item Edit - Bitstreams",
-  "item.edit.tabs.bitstreams.title": "Item Edit - Bitstreams",
+  "item.edit.tabs.bitstreams.title": "Chỉnh sửa mục - Dòng bit",
   
   // "item.edit.tabs.curate.head": "Curate",
-  "item.edit.tabs.curate.head": "Curate",
+  "item.edit.tabs.curate.head": "Giám tuyển",
   
   // "item.edit.tabs.curate.title": "Item Edit - Curate",
-  "item.edit.tabs.curate.title": "Item Edit - Curate",
+  "item.edit.tabs.curate.title": "Chỉnh sửa mục - Giám tuyển",
   
   // "item.edit.tabs.metadata.head": "Metadata",
-  "item.edit.tabs.metadata.head": "Metadata",
+  "item.edit.tabs.metadata.head": "Siêu dữ liệu",
   
   // "item.edit.tabs.metadata.title": "Item Edit -  Metadata",
-  "item.edit.tabs.metadata.title": "Item Edit -  Metadata",
+  "item.edit.tabs.metadata.title": "Chỉnh sửa mục - Siêu dữ liệu",
   
   // "item.edit.tabs.relationships.head": "Relationships",
-  "item.edit.tabs.relationships.head": "Relationships",
+  "item.edit.tabs.relationships.head": "Quan hệ",
   
   // "item.edit.tabs.relationships.title": "Item Edit - Relationships",
-  "item.edit.tabs.relationships.title": "Item Edit - Relationships",
+  "item.edit.tabs.relationships.title": "Chỉnh sửa mục - Quan hệ",
   
   // "item.edit.tabs.status.buttons.authorizations.button": "Authorizations...",
-  "item.edit.tabs.status.buttons.authorizations.button": "Authorizations...",
+  "item.edit.tabs.status.buttons.authorizations.button": "Ủy quyền...",
   
   // "item.edit.tabs.status.buttons.authorizations.label": "Edit item's authorization policies",
-  "item.edit.tabs.status.buttons.authorizations.label": "Edit item's authorization policies",
+  "item.edit.tabs.status.buttons.authorizations.label": "Chỉnh sửa chính sách ủy quyền của mục",
   
   // "item.edit.tabs.status.buttons.delete.button": "Permanently delete",
-  "item.edit.tabs.status.buttons.delete.button": "Permanently delete",
+  "item.edit.tabs.status.buttons.delete.button": "Xóa vĩnh viễn",
   
   // "item.edit.tabs.status.buttons.delete.label": "Completely expunge item",
-  "item.edit.tabs.status.buttons.delete.label": "Completely expunge item",
+  "item.edit.tabs.status.buttons.delete.label": "Xóa hoàn toàn mục",
   
   // "item.edit.tabs.status.buttons.mappedCollections.button": "Mapped collections",
-  "item.edit.tabs.status.buttons.mappedCollections.button": "Mapped collections",
+  "item.edit.tabs.status.buttons.mappedCollections.button": "Bộ sưu tập được ánh xạ",
   
   // "item.edit.tabs.status.buttons.mappedCollections.label": "Manage mapped collections",
-  "item.edit.tabs.status.buttons.mappedCollections.label": "Manage mapped collections",
+  "item.edit.tabs.status.buttons.mappedCollections.label": "Quản lý các bộ sưu tập được ánh xạ",
   
   // "item.edit.tabs.status.buttons.move.button": "Move...",
-  "item.edit.tabs.status.buttons.move.button": "Move...",
+  "item.edit.tabs.status.buttons.move.button": "Di chuyển...",
   
   // "item.edit.tabs.status.buttons.move.label": "Move item to another collection",
-  "item.edit.tabs.status.buttons.move.label": "Move item to another collection",
+  "item.edit.tabs.status.buttons.move.label": "Di chuyển mục sang bộ sưu tập khác",
   
   // "item.edit.tabs.status.buttons.private.button": "Make it private...",
-  "item.edit.tabs.status.buttons.private.button": "Make it private...",
+  "item.edit.tabs.status.buttons.private.button": "Đặt chế độ riêng tư...",
   
   // "item.edit.tabs.status.buttons.private.label": "Make item private",
-  "item.edit.tabs.status.buttons.private.label": "Make item private",
+  "item.edit.tabs.status.buttons.private.label": "Đặt mục ở chế độ riêng tư",
   
   // "item.edit.tabs.status.buttons.public.button": "Make it public...",
-  "item.edit.tabs.status.buttons.public.button": "Make it public...",
+  "item.edit.tabs.status.buttons.public.button": "Đặt chế độ công khai...",
   
   // "item.edit.tabs.status.buttons.public.label": "Make item public",
-  "item.edit.tabs.status.buttons.public.label": "Make item public",
+  "item.edit.tabs.status.buttons.public.label": "Đặt mục ở chế độ công khai",
   
   // "item.edit.tabs.status.buttons.reinstate.button": "Reinstate...",
-  "item.edit.tabs.status.buttons.reinstate.button": "Reinstate...",
+  "item.edit.tabs.status.buttons.reinstate.button": "Phục hồi...",
   
   // "item.edit.tabs.status.buttons.reinstate.label": "Reinstate item into the repository",
-  "item.edit.tabs.status.buttons.reinstate.label": "Reinstate item into the repository",
+  "item.edit.tabs.status.buttons.reinstate.label": "Khôi phục mục vào kho lưu trữ",
   
   // "item.edit.tabs.status.buttons.unauthorized": "You're not authorized to perform this action",
-  "item.edit.tabs.status.buttons.unauthorized": "You're not authorized to perform this action",
+  "item.edit.tabs.status.buttons.unauthorized": "Bạn không được phép thực hiện hành động này",
   
   // "item.edit.tabs.status.buttons.withdraw.button": "Withdraw...",
-  "item.edit.tabs.status.buttons.withdraw.button": "Withdraw...",
+  "item.edit.tabs.status.buttons.withdraw.button": "Rút/gỡ...",
   
   // "item.edit.tabs.status.buttons.withdraw.label": "Withdraw item from the repository",
-  "item.edit.tabs.status.buttons.withdraw.label": "Withdraw item from the repository",
+  "item.edit.tabs.status.buttons.withdraw.label": "Rút/gỡ mục khỏi kho lưu trữ",
   
   // "item.edit.tabs.status.description": "Welcome to the item management page. From here you can withdraw, reinstate, move or delete the item. You may also update or add new metadata / bitstreams on the other tabs.",
-  "item.edit.tabs.status.description": "Welcome to the item management page. From here you can withdraw, reinstate, move or delete the item. You may also update or add new metadata / bitstreams on the other tabs.",
+  "item.edit.tabs.status.description": "Chào mừng đến với trang quản lý mục. Từ đây bạn có thể rút, khôi phục, di chuyển hoặc xóa mục. Bạn cũng có thể cập nhật hoặc thêm siêu dữ liệu/dòng bit mới trên các tab khác.",
   
   // "item.edit.tabs.status.head": "Status",
-  "item.edit.tabs.status.head": "Status",
+  "item.edit.tabs.status.head": "Trạng thái",
   
   // "item.edit.tabs.status.labels.handle": "Handle",
-  "item.edit.tabs.status.labels.handle": "Handle",
+  "item.edit.tabs.status.labels.handle": "Thủ công",
   
   // "item.edit.tabs.status.labels.id": "Item Internal ID",
-  "item.edit.tabs.status.labels.id": "Item Internal ID",
+  "item.edit.tabs.status.labels.id": "ID mục nội bộ",
   
   // "item.edit.tabs.status.labels.itemPage": "Item Page",
-  "item.edit.tabs.status.labels.itemPage": "Item Page",
+  "item.edit.tabs.status.labels.itemPage": "Trang ấn phẩm",
   
   // "item.edit.tabs.status.labels.lastModified": "Last Modified",
-  "item.edit.tabs.status.labels.lastModified": "Last Modified",
+  "item.edit.tabs.status.labels.lastModified": "Sửa đổi lần cuối",
   
   // "item.edit.tabs.status.title": "Item Edit -  Status",
-  "item.edit.tabs.status.title": "Item Edit -  Status",
+  "item.edit.tabs.status.title": "Chỉnh sửa mục - Trạng thái",
   
   // "item.edit.tabs.versionhistory.head": "Version History",
-  "item.edit.tabs.versionhistory.head": "Version History",
+  "item.edit.tabs.versionhistory.head": "Lịch sử phiên bản",
   
   // "item.edit.tabs.versionhistory.title": "Item Edit - Version History",
-  "item.edit.tabs.versionhistory.title": "Item Edit - Version History",
+  "item.edit.tabs.versionhistory.title": "Chỉnh sửa mục - Lịch sử phiên bản",
   
   // "item.edit.tabs.versionhistory.under-construction": "Editing or adding new versions is not yet possible in this user interface.",
-  "item.edit.tabs.versionhistory.under-construction": "Editing or adding new versions is not yet possible in this user interface.",
+  "item.edit.tabs.versionhistory.under-construction": "Chưa thể chỉnh sửa hoặc thêm phiên bản mới trong giao diện người dùng này.",
   
   // "item.edit.tabs.view.head": "View Item",
-  "item.edit.tabs.view.head": "View Item",
+  "item.edit.tabs.view.head": "Xem mục",
   
   // "item.edit.tabs.view.title": "Item Edit -  View",
-  "item.edit.tabs.view.title": "Item Edit -  View",
+  "item.edit.tabs.view.title": "Chỉnh sửa mục -  Xem",
   
   
   
   // "item.edit.withdraw.cancel": "Cancel",
-  "item.edit.withdraw.cancel": "Cancel",
+  "item.edit.withdraw.cancel": "Hủy",
   
   // "item.edit.withdraw.confirm": "Withdraw",
-  "item.edit.withdraw.confirm": "Withdraw",
+  "item.edit.withdraw.confirm": "Thu hồi",
   
   // "item.edit.withdraw.description": "Are you sure this item should be withdrawn from the archive?",
-  "item.edit.withdraw.description": "Are you sure this item should be withdrawn from the archive?",
+  "item.edit.withdraw.description": "Bạn có chắc chắn mục này nên được thu hồi khỏi kho lưu trữ?",
   
   // "item.edit.withdraw.error": "An error occurred while withdrawing the item",
-  "item.edit.withdraw.error": "An error occurred while withdrawing the item",
+  "item.edit.withdraw.error": "Đã xảy ra lỗi khi rút mục",
   
   // "item.edit.withdraw.header": "Withdraw item: {{ id }}",
-  "item.edit.withdraw.header": "Withdraw item: {{ id }}",
+  "item.edit.withdraw.header": "Thu hồi mục: {{ id }}",
   
   // "item.edit.withdraw.success": "The item was withdrawn successfully",
-  "item.edit.withdraw.success": "The item was withdrawn successfully",
+  "item.edit.withdraw.success": "Mục đã được thu hồi thành công",
   
   
   
   // "item.listelement.badge": "Item",
-  "item.listelement.badge": "Item",
+  "item.listelement.badge": "Mục",
   
   // "item.page.description": "Description",
-  "item.page.description": "Description",
+  "item.page.description": "Mô tả",
   
   // "item.page.journal-issn": "Journal ISSN",
-  "item.page.journal-issn": "Journal ISSN",
+  "item.page.journal-issn": "Tạp chí ISSN",
   
   // "item.page.journal-title": "Journal Title",
-  "item.page.journal-title": "Journal Title",
+  "item.page.journal-title": "Tiêu đề tạp chí",
   
   // "item.page.publisher": "Publisher",
-  "item.page.publisher": "Publisher",
+  "item.page.publisher": "Nhà xuất bản",
   
   // "item.page.titleprefix": "Item: ",
-  "item.page.titleprefix": "Item: ",
+  "item.page.titleprefix": "Mục: ",
   
   // "item.page.volume-title": "Volume Title",
-  "item.page.volume-title": "Volume Title",
+  "item.page.volume-title": "Tiêu đề tập",
   
   // "item.search.results.head": "Item Search Results",
-  "item.search.results.head": "Item Search Results",
+  "item.search.results.head": "Kết quả tìm kiếm mục",
   
   // "item.search.title": "Item Search",
-  "item.search.title": "Item Search",
+  "item.search.title": "Tìm kiếm mục/ấn phẩm",
   
   
   
   // "item.page.abstract": "Abstract",
-  "item.page.abstract": "Abstract",
+  "item.page.abstract": "Trích yếu",
   
   // "item.page.author": "Authors",
-  "item.page.author": "Authors",
+  "item.page.author": "Tác giả",
   
   // "item.page.citation": "Citation",
-  "item.page.citation": "Citation",
+  "item.page.citation": "Trích dẫn",
   
   // "item.page.collections": "Collections",
-  "item.page.collections": "Collections",
+  "item.page.collections": "Bộ sưu tập",
   
   // "item.page.date": "Date",
-  "item.page.date": "Date",
+  "item.page.date": "Ngày",
   
   // "item.page.edit": "Edit this item",
-  "item.page.edit": "Edit this item",
+  "item.page.edit": "Chỉnh sửa mục này",
   
   // "item.page.files": "Files",
-  "item.page.files": "Files",
+  "item.page.files": "Các tập tin",
   
   // "item.page.filesection.description": "Description:",
-  "item.page.filesection.description": "Description:",
+  "item.page.filesection.description": "Mô tả:",
   
   // "item.page.filesection.download": "Download",
-  "item.page.filesection.download": "Download",
+  "item.page.filesection.download": "Tải xuống",
   
   // "item.page.filesection.format": "Format:",
-  "item.page.filesection.format": "Format:",
+  "item.page.filesection.format": "Định dạng:",
   
   // "item.page.filesection.name": "Name:",
-  "item.page.filesection.name": "Name:",
+  "item.page.filesection.name": "Tên:",
   
   // "item.page.filesection.size": "Size:",
-  "item.page.filesection.size": "Size:",
+  "item.page.filesection.size": "Kích thước:",
   
   // "item.page.journal.search.title": "Articles in this journal",
-  "item.page.journal.search.title": "Articles in this journal",
+  "item.page.journal.search.title": "Các bài báo trong tạp chí này",
   
   // "item.page.link.full": "Full item page",
-  "item.page.link.full": "Full item page",
+  "item.page.link.full": "Hiển thị trang đầy đủ",
   
   // "item.page.link.simple": "Simple item page",
-  "item.page.link.simple": "Simple item page",
+  "item.page.link.simple": "Hiển thị trang rút gọn",
   
   // "item.page.person.search.title": "Articles by this author",
-  "item.page.person.search.title": "Articles by this author",
+  "item.page.person.search.title": "Bài viết của tác giả này",
   
   // "item.page.related-items.view-more": "Show {{ amount }} more",
-  "item.page.related-items.view-more": "Show {{ amount }} more",
+  "item.page.related-items.view-more": "Hiển thị thêm {{ amount }}",
   
   // "item.page.related-items.view-less": "Hide last {{ amount }}",
   "item.page.related-items.view-less": "Hide last {{ amount }}",
   
   // "item.page.relationships.isAuthorOfPublication": "Publications",
-  "item.page.relationships.isAuthorOfPublication": "Publications",
+  "item.page.relationships.isAuthorOfPublication": "Ấn phẩm",
   
   // "item.page.relationships.isJournalOfPublication": "Publications",
-  "item.page.relationships.isJournalOfPublication": "Publications",
+  "item.page.relationships.isJournalOfPublication": "Ấn phẩm",
   
   // "item.page.relationships.isOrgUnitOfPerson": "Authors",
-  "item.page.relationships.isOrgUnitOfPerson": "Authors",
+  "item.page.relationships.isOrgUnitOfPerson": "Tác giả",
   
   // "item.page.relationships.isOrgUnitOfProject": "Research Projects",
-  "item.page.relationships.isOrgUnitOfProject": "Research Projects",
+  "item.page.relationships.isOrgUnitOfProject": "Dự án nghiên cứu",
   
   // "item.page.subject": "Keywords",
-  "item.page.subject": "Keywords",
+  "item.page.subject": "Từ khóa",
   
   // "item.page.uri": "URI",
   "item.page.uri": "URI",
   
   // "item.page.bitstreams.view-more": "Show more",
-  "item.page.bitstreams.view-more": "Show more",
+  "item.page.bitstreams.view-more": "Hiển thị thêm",
   
   // "item.page.bitstreams.collapse": "Collapse",
-  "item.page.bitstreams.collapse": "Collapse",
+  "item.page.bitstreams.collapse": "Thu gọn",
   
   // "item.page.filesection.original.bundle" : "Original bundle",
-  "item.page.filesection.original.bundle" : "Original bundle",
+  "item.page.filesection.original.bundle" : "Gói nguyên bản",
   
   // "item.page.filesection.license.bundle" : "License bundle",
-  "item.page.filesection.license.bundle" : "License bundle",
+  "item.page.filesection.license.bundle" : "Gói giấy phép",
   
   // "item.page.return": "Back",
-  "item.page.return": "Back",
+  "item.page.return": "Lùi",
   
   // "item.preview.dc.identifier.uri": "Identifier:",
-  "item.preview.dc.identifier.uri": "Identifier:",
+  "item.preview.dc.identifier.uri": "Định danh:",
   
   // "item.preview.dc.contributor.author": "Authors:",
-  "item.preview.dc.contributor.author": "Authors:",
+  "item.preview.dc.contributor.author": "Tác giả:",
   
   // "item.preview.dc.date.issued": "Published date:",
-  "item.preview.dc.date.issued": "Published date:",
+  "item.preview.dc.date.issued": "Ngày xuất bản:",
   
   // "item.preview.dc.description.abstract": "Abstract:",
-  "item.preview.dc.description.abstract": "Abstract:",
+  "item.preview.dc.description.abstract": "Trích yếu:",
   
   // "item.preview.dc.identifier.other": "Other identifier:",
-  "item.preview.dc.identifier.other": "Other identifier:",
+  "item.preview.dc.identifier.other": "Định danh khác:",
   
   // "item.preview.dc.language.iso": "Language:",
-  "item.preview.dc.language.iso": "Language:",
+  "item.preview.dc.language.iso": "Ngôn ngữ:",
   
   // "item.preview.dc.subject": "Subjects:",
-  "item.preview.dc.subject": "Subjects:",
+  "item.preview.dc.subject": "Chủ đề:",
   
   // "item.preview.dc.title": "Title:",
-  "item.preview.dc.title": "Title:",
+  "item.preview.dc.title": "Tiêu đề:",
   
   // "item.preview.person.familyName": "Surname:",
-  "item.preview.person.familyName": "Surname:",
+  "item.preview.person.familyName": "Họ:",
   
   // "item.preview.person.givenName": "Name:",
-  "item.preview.person.givenName": "Name:",
+  "item.preview.person.givenName": "Tên:",
   
   // "item.preview.person.identifier.orcid": "ORCID:",
   "item.preview.person.identifier.orcid": "ORCID:",
   
   
   // "item.select.confirm": "Confirm selected",
-  "item.select.confirm": "Confirm selected",
+  "item.select.confirm": "Xác nhận đã chọn",
   
   // "item.select.empty": "No items to show",
-  "item.select.empty": "No items to show",
+  "item.select.empty": "Không có mục để hiển thị",
   
   // "item.select.table.author": "Author",
-  "item.select.table.author": "Author",
+  "item.select.table.author": "Tác giả",
   
   // "item.select.table.collection": "Collection",
-  "item.select.table.collection": "Collection",
+  "item.select.table.collection": "Bộ sưu tập",
   
   // "item.select.table.title": "Title",
-  "item.select.table.title": "Title",
+  "item.select.table.title": "Tiêu đề",
   
   
   // "item.version.history.empty": "There are no other versions for this item yet.",
-  "item.version.history.empty": "There are no other versions for this item yet.",
+  "item.version.history.empty": "Không có phiên bản nào khác cho mục này.",
   
   // "item.version.history.head": "Version History",
-  "item.version.history.head": "Version History",
+  "item.version.history.head": "Lịch sử phiên bản",
   
   // "item.version.history.return": "Back",
-  "item.version.history.return": "Back",
+  "item.version.history.return": "Lùi",
   
   // "item.version.history.selected": "Selected version",
-  "item.version.history.selected": "Selected version",
+  "item.version.history.selected": "Phiên bản đã chọn",
   
   // "item.version.history.table.version": "Version",
-  "item.version.history.table.version": "Version",
+  "item.version.history.table.version": "Phiên bản",
   
   // "item.version.history.table.item": "Item",
-  "item.version.history.table.item": "Item",
+  "item.version.history.table.item": "Mục",
   
   // "item.version.history.table.editor": "Editor",
-  "item.version.history.table.editor": "Editor",
+  "item.version.history.table.editor": "Biên tập viên",
   
   // "item.version.history.table.date": "Date",
-  "item.version.history.table.date": "Date",
+  "item.version.history.table.date": "Ngày",
   
   // "item.version.history.table.summary": "Summary",
-  "item.version.history.table.summary": "Summary",
+  "item.version.history.table.summary": "Bản tóm tắt",
   
   
   
   // "item.version.notice": "This is not the latest version of this item. The latest version can be found <a href='{{destination}}'>here</a>.",
-  "item.version.notice": "This is not the latest version of this item. The latest version can be found <a href='{{destination}}'>here</a>.",
+  "item.version.notice": "Đây không phải là phiên bản mới nhất củamục này. Phiên bản mới nhất có thể được tìm thấy <a href='{{destination}}'>tại đây</a>.",
   
   
   
   // "journal.listelement.badge": "Journal",
-  "journal.listelement.badge": "Journal",
+  "journal.listelement.badge": "Tạp chí",
   
   // "journal.page.description": "Description",
-  "journal.page.description": "Description",
+  "journal.page.description": "Mô tả",
   
   // "journal.page.edit": "Edit this item",
-  "journal.page.edit": "Edit this item",
+  "journal.page.edit": "Chỉnh sửa mục này",
   
   // "journal.page.editor": "Editor-in-Chief",
-  "journal.page.editor": "Editor-in-Chief",
+  "journal.page.editor": "Tổng biên tập",
   
   // "journal.page.issn": "ISSN",
   "journal.page.issn": "ISSN",
   
   // "journal.page.publisher": "Publisher",
-  "journal.page.publisher": "Publisher",
+  "journal.page.publisher": "Nhà xuất bản",
   
   // "journal.page.titleprefix": "Journal: ",
-  "journal.page.titleprefix": "Journal: ",
+  "journal.page.titleprefix": "Tạp chí: ",
   
   // "journal.search.results.head": "Journal Search Results",
-  "journal.search.results.head": "Journal Search Results",
+  "journal.search.results.head": "JKết quả tìm kiếm tạp chí",
   
   // "journal.search.title": "Journal Search",
-  "journal.search.title": "Journal Search",
+  "journal.search.title": "Tìm kiếm tạp chí",
   
   
   
   // "journalissue.listelement.badge": "Journal Issue",
-  "journalissue.listelement.badge": "Journal Issue",
+  "journalissue.listelement.badge": "Số tạp chí",
   
   // "journalissue.page.description": "Description",
-  "journalissue.page.description": "Description",
+  "journalissue.page.description": "Mô tả",
   
   // "journalissue.page.edit": "Edit this item",
-  "journalissue.page.edit": "Edit this item",
+  "journalissue.page.edit": "Chỉnh sửa mục này",
   
   // "journalissue.page.issuedate": "Issue Date",
-  "journalissue.page.issuedate": "Issue Date",
+  "journalissue.page.issuedate": "Ngày phát hành",
   
   // "journalissue.page.journal-issn": "Journal ISSN",
-  "journalissue.page.journal-issn": "Journal ISSN",
+  "journalissue.page.journal-issn": "Tạp chí ISSN",
   
   // "journalissue.page.journal-title": "Journal Title",
-  "journalissue.page.journal-title": "Journal Title",
+  "journalissue.page.journal-title": "Tiêu đề tạp chí",
   
   // "journalissue.page.keyword": "Keywords",
-  "journalissue.page.keyword": "Keywords",
+  "journalissue.page.keyword": "Từ khóa",
   
   // "journalissue.page.number": "Number",
-  "journalissue.page.number": "Number",
+  "journalissue.page.number": "Số",
   
   // "journalissue.page.titleprefix": "Journal Issue: ",
-  "journalissue.page.titleprefix": "Journal Issue: ",
+  "journalissue.page.titleprefix": "Số tạp chí: ",
   
   
   
   // "journalvolume.listelement.badge": "Journal Volume",
-  "journalvolume.listelement.badge": "Journal Volume",
+  "journalvolume.listelement.badge": "Số tạp chí",
   
   // "journalvolume.page.description": "Description",
-  "journalvolume.page.description": "Description",
+  "journalvolume.page.description": "Mô tả",
   
   // "journalvolume.page.edit": "Edit this item",
-  "journalvolume.page.edit": "Edit this item",
+  "journalvolume.page.edit": "Chỉnh sửa mục này",
   
   // "journalvolume.page.issuedate": "Issue Date",
-  "journalvolume.page.issuedate": "Issue Date",
+  "journalvolume.page.issuedate": "Ngày phát hành",
   
   // "journalvolume.page.titleprefix": "Journal Volume: ",
-  "journalvolume.page.titleprefix": "Journal Volume: ",
+  "journalvolume.page.titleprefix": "Số tạp chí: ",
   
   // "journalvolume.page.volume": "Volume",
   "journalvolume.page.volume": "Volume",
@@ -2957,222 +2957,222 @@
   
   
   // "loading.bitstream": "Loading bitstream...",
-  "loading.bitstream": "Loading bitstream...",
+  "loading.bitstream": "Đang tải dòng bit...",
   
   // "loading.bitstreams": "Loading bitstreams...",
-  "loading.bitstreams": "Loading bitstreams...",
+  "loading.bitstreams": "Đang tải dòng bit...",
   
   // "loading.browse-by": "Loading items...",
-  "loading.browse-by": "Loading items...",
+  "loading.browse-by": "Đang tải các mục...",
   
   // "loading.browse-by-page": "Loading page...",
-  "loading.browse-by-page": "Loading page...",
+  "loading.browse-by-page": "Đang tải trang...",
   
   // "loading.collection": "Loading collection...",
-  "loading.collection": "Loading collection...",
+  "loading.collection": "Đang tải bộ sưu tập...",
   
   // "loading.collections": "Loading collections...",
-  "loading.collections": "Loading collections...",
+  "loading.collections": "Đang tải bộ sưu tập...",
   
   // "loading.content-source": "Loading content source...",
-  "loading.content-source": "Loading content source...",
+  "loading.content-source": "Đang tải nội dung nguồn...",
   
   // "loading.community": "Loading community...",
-  "loading.community": "Loading community...",
+  "loading.community": "Đang tải cộng đồng...",
   
   // "loading.default": "Loading...",
-  "loading.default": "Loading...",
+  "loading.default": "Đang tải...",
   
   // "loading.item": "Loading item...",
-  "loading.item": "Loading item...",
+  "loading.item": "Đang tải mục...",
   
   // "loading.items": "Loading items...",
-  "loading.items": "Loading items...",
+  "loading.items": "Đang tải các mục...",
   
   // "loading.mydspace-results": "Loading items...",
-  "loading.mydspace-results": "Loading items...",
+  "loading.mydspace-results": "Đang tải các mục...",
   
   // "loading.objects": "Loading...",
-  "loading.objects": "Loading...",
+  "loading.objects": "Đang tải...",
   
   // "loading.recent-submissions": "Loading recent submissions...",
-  "loading.recent-submissions": "Loading recent submissions...",
+  "loading.recent-submissions": "Đang tải các bài gửi gần đây...",
   
   // "loading.search-results": "Loading search results...",
-  "loading.search-results": "Loading search results...",
+  "loading.search-results": "Đang tải kết quả tìm kiếm...",
   
   // "loading.sub-collections": "Loading sub-collections...",
-  "loading.sub-collections": "Loading sub-collections...",
+  "loading.sub-collections": "Đang tải các bộ sưu tập con...",
   
   // "loading.sub-communities": "Loading sub-communities...",
-  "loading.sub-communities": "Loading sub-communities...",
+  "loading.sub-communities": "Đang tải các cộng đồng con...",
   
   // "loading.top-level-communities": "Loading top-level communities...",
-  "loading.top-level-communities": "Loading top-level communities...",
+  "loading.top-level-communities": "Đang tải cộng đồng cấp cao nhất...",
   
   
   
   // "login.form.email": "Email address",
-  "login.form.email": "Email address",
+  "login.form.email": "Địa chỉ email",
   
   // "login.form.forgot-password": "Have you forgotten your password?",
-  "login.form.forgot-password": "Have you forgotten your password?",
+  "login.form.forgot-password": "Bạn đã quên mật khẩu của mình?",
   
   // "login.form.header": "Please log in to DSpace",
-  "login.form.header": "Please log in to DSpace",
+  "login.form.header": "Vui lòng đăng nhập vào DSpace",
   
   // "login.form.new-user": "New user? Click here to register.",
-  "login.form.new-user": "New user? Click here to register.",
+  "login.form.new-user": "Người dùng mới? Nhấn vào đây để đăng ký.",
   
   // "login.form.or-divider": "or",
-  "login.form.or-divider": "or",
+  "login.form.or-divider": "hoặc",
   
   // "login.form.password": "Password",
-  "login.form.password": "Password",
+  "login.form.password": "Mật khẩu",
   
   // "login.form.shibboleth": "Log in with Shibboleth",
-  "login.form.shibboleth": "Log in with Shibboleth",
+  "login.form.shibboleth": "Đăng nhập bằng Shibboleth",
   
   // "login.form.submit": "Log in",
-  "login.form.submit": "Log in",
+  "login.form.submit": "Đăng nhập",
   
   // "login.title": "Login",
-  "login.title": "Login",
+  "login.title": "Đăng nhập",
   
   // "login.breadcrumbs": "Login",
-  "login.breadcrumbs": "Login",
+  "login.breadcrumbs": "Đăng nhập",
   
   
   
   // "logout.form.header": "Log out from DSpace",
-  "logout.form.header": "Log out from DSpace",
+  "logout.form.header": "Đăng xuất khỏi DSpace",
   
   // "logout.form.submit": "Log out",
-  "logout.form.submit": "Log out",
+  "logout.form.submit": "Đăng xuất",
   
   // "logout.title": "Logout",
-  "logout.title": "Logout",
+  "logout.title": "Đăng xuất",
   
   
   
   // "menu.header.admin": "Management",
-  "menu.header.admin": "Management",
+  "menu.header.admin": "Quản lý",
   
   // "menu.header.image.logo": "Repository logo",
-  "menu.header.image.logo": "Repository logo",
+  "menu.header.image.logo": "Biểu tượng kho lưu trữ",
   
   // "menu.header.admin.description": "Management menu",
-  "menu.header.admin.description": "Management menu",
+  "menu.header.admin.description": "Trình quản lý",
   
   
   
   // "menu.section.access_control": "Access Control",
-  "menu.section.access_control": "Access Control",
+  "menu.section.access_control": "Kiểm soát truy cập",
   
   // "menu.section.access_control_authorizations": "Authorizations",
-  "menu.section.access_control_authorizations": "Authorizations",
+  "menu.section.access_control_authorizations": "Ủy quyền",
   
   // "menu.section.access_control_groups": "Groups",
-  "menu.section.access_control_groups": "Groups",
+  "menu.section.access_control_groups": "Nhóm",
   
   // "menu.section.access_control_people": "People",
-  "menu.section.access_control_people": "People",
+  "menu.section.access_control_people": "Mọi người",
   
   
   
   // "menu.section.admin_search": "Admin Search",
-  "menu.section.admin_search": "Admin Search",
+  "menu.section.admin_search": "Tìm kiếm của quản trị viên",
   
   
   
   // "menu.section.browse_community": "This Community",
-  "menu.section.browse_community": "This Community",
+  "menu.section.browse_community": "Cộng đồng này",
   
   // "menu.section.browse_community_by_author": "By Author",
-  "menu.section.browse_community_by_author": "By Author",
+  "menu.section.browse_community_by_author": "Theo Tác giả",
   
   // "menu.section.browse_community_by_issue_date": "By Issue Date",
-  "menu.section.browse_community_by_issue_date": "By Issue Date",
+  "menu.section.browse_community_by_issue_date": "Theo ngày phát hành",
   
   // "menu.section.browse_community_by_title": "By Title",
-  "menu.section.browse_community_by_title": "By Title",
+  "menu.section.browse_community_by_title": "Theo tiêu đề",
   
   // "menu.section.browse_global": "All of DSpace",
-  "menu.section.browse_global": "All of DSpace",
+  "menu.section.browse_global": "Tất cả DSpace",
   
   // "menu.section.browse_global_by_author": "By Author",
-  "menu.section.browse_global_by_author": "By Author",
+  "menu.section.browse_global_by_author": "Theo tác giả",
   
   // "menu.section.browse_global_by_dateissued": "By Issue Date",
-  "menu.section.browse_global_by_dateissued": "By Issue Date",
+  "menu.section.browse_global_by_dateissued": "Theo ngày phát hành",
   
   // "menu.section.browse_global_by_subject": "By Subject",
-  "menu.section.browse_global_by_subject": "By Subject",
+  "menu.section.browse_global_by_subject": "Theo chủ đề",
   
   // "menu.section.browse_global_by_title": "By Title",
-  "menu.section.browse_global_by_title": "By Title",
+  "menu.section.browse_global_by_title": "Theo tiêu đề",
   
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
-  "menu.section.browse_global_communities_and_collections": "Communities & Collections",
+  "menu.section.browse_global_communities_and_collections": "Cộng đồng & Bộ sưu tập",
   
   
   
   // "menu.section.control_panel": "Control Panel",
-  "menu.section.control_panel": "Control Panel",
+  "menu.section.control_panel": "Bảng điều khiển",
   
   // "menu.section.curation_task": "Curation Task",
-  "menu.section.curation_task": "Curation Task",
+  "menu.section.curation_task": "Nhiệm vụ giám tuyển",
   
   
   
   // "menu.section.edit": "Edit",
-  "menu.section.edit": "Edit",
+  "menu.section.edit": "Sửa",
   
   // "menu.section.edit_collection": "Collection",
-  "menu.section.edit_collection": "Collection",
+  "menu.section.edit_collection": "Bộ sưu tập",
   
   // "menu.section.edit_community": "Community",
-  "menu.section.edit_community": "Community",
+  "menu.section.edit_community": "Cộng đồng",
   
   // "menu.section.edit_item": "Item",
-  "menu.section.edit_item": "Item",
+  "menu.section.edit_item": "Mục",
   
   
   
   // "menu.section.export": "Export",
-  "menu.section.export": "Export",
+  "menu.section.export": "Xuất",
   
   // "menu.section.export_collection": "Collection",
-  "menu.section.export_collection": "Collection",
+  "menu.section.export_collection": "Bộ sưu tập",
   
   // "menu.section.export_community": "Community",
-  "menu.section.export_community": "Community",
+  "menu.section.export_community": "Cộng đồng",
   
   // "menu.section.export_item": "Item",
-  "menu.section.export_item": "Item",
+  "menu.section.export_item": "Mục",
   
   // "menu.section.export_metadata": "Metadata",
-  "menu.section.export_metadata": "Metadata",
+  "menu.section.export_metadata": "Siêu dữ liệu",
   
   
   
   // "menu.section.icon.access_control": "Access Control menu section",
-  "menu.section.icon.access_control": "Access Control menu section",
+  "menu.section.icon.access_control": "Trình kiểm soát truy cập",
   
   // "menu.section.icon.admin_search": "Admin search menu section",
-  "menu.section.icon.admin_search": "Admin search menu section",
+  "menu.section.icon.admin_search": "Trình đơn tìm kiếm của quản trị viên",
   
   // "menu.section.icon.control_panel": "Control Panel menu section",
-  "menu.section.icon.control_panel": "Control Panel menu section",
+  "menu.section.icon.control_panel": "Trình đơn Bảng điều khiển",
   
   // "menu.section.icon.curation_task": "Curation Task menu section",
-  "menu.section.icon.curation_task": "Curation Task menu section",
+  "menu.section.icon.curation_task": "Trình đơn nhiệm vụ giám tuyển",
   
   // "menu.section.icon.edit": "Edit menu section",
-  "menu.section.icon.edit": "Edit menu section",
+  "menu.section.icon.edit": "Chỉnh sửa trình đơn",
   
   // "menu.section.icon.export": "Export menu section",
-  "menu.section.icon.export": "Export menu section",
+  "menu.section.icon.export": "Xuất trình đơn",
   
   // "menu.section.icon.find": "Find menu section",
   "menu.section.icon.find": "Find menu section",
