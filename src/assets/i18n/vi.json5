@@ -1485,145 +1485,145 @@
   "comcol-role.edit.bitstream_read.name": "Quyền chỉ đọc dòng bit mặc định",
   
   // "comcol-role.edit.bitstream_read.description": "Community administrators can create sub-communities or collections, and manage or assign management for those sub-communities or collections. In addition, they decide who can submit items to any sub-collections, edit item metadata (after submission), and add (map) existing items from other collections (subject to authorization).",
-  "comcol-role.edit.bitstream_read.description": "Community administrators can create sub-communities or collections, and manage or assign management for those sub-communities or collections. In addition, they decide who can submit items to any sub-collections, edit item metadata (after submission), and add (map) existing items from other collections (subject to authorization).",
+  "comcol-role.edit.bitstream_read.description": "Quản trị viên cộng đồng có thể tạo các cộng đồng con hoặc bộ sưu tập và quản lý hoặc chỉ định quản lý cho các cộng đồng con hoặc bộ sưu tập đó. Ngoài ra, họ quyết định ai có thể gửi các mục vào bất kỳ bộ sưu tập phụ nào, chỉnh sửa siêu dữ liệu của mục (sau khi gửi) và thêm (ánh xạ) các mục hiện có từ các bộ sưu tập khác (tùy thuộc vào sự cho phép).",
   
   // "comcol-role.edit.bitstream_read.anonymous-group": "Default read for incoming bitstreams is currently set to Anonymous.",
-  "comcol-role.edit.bitstream_read.anonymous-group": "Default read for incoming bitstreams is currently set to Anonymous.",
+  "comcol-role.edit.bitstream_read.anonymous-group": "Quyền chỉ đọc mặc định cho dòng bit hiện được đặt thành Ẩn danh.",
   
   
   // "comcol-role.edit.editor.name": "Editors",
-  "comcol-role.edit.editor.name": "Editors",
+  "comcol-role.edit.editor.name": "Biên tập viên",
   
   // "comcol-role.edit.editor.description": "Editors are able to edit the metadata of incoming submissions, and then accept or reject them.",
-  "comcol-role.edit.editor.description": "Editors are able to edit the metadata of incoming submissions, and then accept or reject them.",
+  "comcol-role.edit.editor.description": "Biên tập viên có thể chỉnh sửa siêu dữ liệu của các nội dung gửi đến, sau đó chấp nhận hoặc từ chối chúng.",
   
   
   // "comcol-role.edit.finaleditor.name": "Final editors",
-  "comcol-role.edit.finaleditor.name": "Final editors",
+  "comcol-role.edit.finaleditor.name": "Biên tập viên cuối cùng",
   
   // "comcol-role.edit.finaleditor.description": "Final editors are able to edit the metadata of incoming submissions, but will not be able to reject them.",
-  "comcol-role.edit.finaleditor.description": "Final editors are able to edit the metadata of incoming submissions, but will not be able to reject them.",
+  "comcol-role.edit.finaleditor.description": "Biên tập viên cuối cùng có thể chỉnh sửa siêu dữ liệu của các nội dung gửi đến, nhưng sẽ không thể từ chối chúng.",
   
   
   // "comcol-role.edit.reviewer.name": "Reviewers",
-  "comcol-role.edit.reviewer.name": "Reviewers",
+  "comcol-role.edit.reviewer.name": "Người đánh giá",
   
   // "comcol-role.edit.reviewer.description": "Reviewers are able to accept or reject incoming submissions. However, they are not able to edit the submission's metadata.",
-  "comcol-role.edit.reviewer.description": "Reviewers are able to accept or reject incoming submissions. However, they are not able to edit the submission's metadata.",
+  "comcol-role.edit.reviewer.description": "Người đánh giá có thể chấp nhận hoặc từ chối các bài nộp đến. Tuy nhiên, họ không thể chỉnh sửa siêu dữ liệu của bài nộp.",
   
   
   
   // "community.form.abstract": "Short Description",
-  "community.form.abstract": "Short Description",
+  "community.form.abstract": "Mô tả ngắn",
   
   // "community.form.description": "Introductory text (HTML)",
-  "community.form.description": "Introductory text (HTML)",
+  "community.form.description": "Giới thiệu (HTML)",
   
   // "community.form.errors.title.required": "Please enter a community name",
-  "community.form.errors.title.required": "Please enter a community name",
+  "community.form.errors.title.required": "Vui lòng nhập tên cộng đồng",
   
   // "community.form.rights": "Copyright text (HTML)",
-  "community.form.rights": "Copyright text (HTML)",
+  "community.form.rights": "Bản quyền (HTML)",
   
   // "community.form.tableofcontents": "News (HTML)",
-  "community.form.tableofcontents": "News (HTML)",
+  "community.form.tableofcontents": "Tin tức (HTML)",
   
   // "community.form.title": "Name",
-  "community.form.title": "Name",
+  "community.form.title": "Tên",
   
   // "community.page.edit": "Edit this community",
-  "community.page.edit": "Edit this community",
+  "community.page.edit": "Chỉnh sửa cộng đồng này",
   
   // "community.page.handle": "Permanent URI for this community",
-  "community.page.handle": "Permanent URI for this community",
+  "community.page.handle": "URI vĩnh viễn cho cộng đồng này",
   
   // "community.page.license": "License",
-  "community.page.license": "License",
+  "community.page.license": "Giấy phép",
   
   // "community.page.news": "News",
-  "community.page.news": "News",
+  "community.page.news": "Tin tức",
   
   // "community.all-lists.head": "Subcommunities and Collections",
-  "community.all-lists.head": "Subcommunities and Collections",
+  "community.all-lists.head": "Cộng đồng con và Bộ sưu tập",
   
   // "community.sub-collection-list.head": "Collections of this Community",
-  "community.sub-collection-list.head": "Collections of this Community",
+  "community.sub-collection-list.head": "Bộ sưu tập của cộng đồng này",
   
   // "community.sub-community-list.head": "Communities of this Community",
-  "community.sub-community-list.head": "Communities of this Community",
+  "community.sub-community-list.head": "Cộng đồng của cộng đồng này",
   
   
   
   // "cookies.consent.accept-all": "Accept all",
-  "cookies.consent.accept-all": "Accept all",
+  "cookies.consent.accept-all": "Chấp nhận tất cả",
   
   // "cookies.consent.accept-selected": "Accept selected",
-  "cookies.consent.accept-selected": "Accept selected",
+  "cookies.consent.accept-selected": "Chấp nhận đã chọn",
   
   // "cookies.consent.app.opt-out.description": "This app is loaded by default (but you can opt out)",
-  "cookies.consent.app.opt-out.description": "This app is loaded by default (but you can opt out)",
+  "cookies.consent.app.opt-out.description": "Ứng dụng này được tải theo mặc định (nhưng bạn có thể chọn không tham gia)",
   
   // "cookies.consent.app.opt-out.title": "(opt-out)",
-  "cookies.consent.app.opt-out.title": "(opt-out)",
+  "cookies.consent.app.opt-out.title": "(chọn không tham gia)",
   
   // "cookies.consent.app.purpose": "purpose",
-  "cookies.consent.app.purpose": "purpose",
+  "cookies.consent.app.purpose": "mục đích",
   
   // "cookies.consent.app.required.description": "This application is always required",
-  "cookies.consent.app.required.description": "This application is always required",
+  "cookies.consent.app.required.description": "Ứng dụng này luôn được yêu cầu",
   
   // "cookies.consent.app.required.title": "(always required)",
-  "cookies.consent.app.required.title": "(always required)",
+  "cookies.consent.app.required.title": "(luôn được yêu cầu)",
   
   // "cookies.consent.update": "There were changes since your last visit, please update your consent.",
-  "cookies.consent.update": "There were changes since your last visit, please update your consent.",
+  "cookies.consent.update": "Đã có những thay đổi kể từ lần truy cập cuối cùng của bạn, vui lòng cập nhật sự đồng ý của bạn.",
   
   // "cookies.consent.close": "Close",
-  "cookies.consent.close": "Close",
+  "cookies.consent.close": "Đóng",
   
   // "cookies.consent.decline": "Decline",
-  "cookies.consent.decline": "Decline",
+  "cookies.consent.decline": "Từ chối",
   
   // "cookies.consent.content-notice.description": "We collect and process your personal information for the following purposes: <strong>Authentication, Preferences, Acknowledgement and Statistics</strong>. <br/> To learn more, please read our {privacyPolicy}.",
-  "cookies.consent.content-notice.description": "We collect and process your personal information for the following purposes: <strong>Authentication, Preferences, Acknowledgement and Statistics</strong>. <br/> To learn more, please read our {privacyPolicy}.",
+  "cookies.consent.content-notice.description": "Chúng tôi thu thập và xử lý thông tin cá nhân của bạn cho các mục đích sau: <strong>Xác thực, Tùy chọn, Xác nhận và Thống kê</strong>. <br/> Để tìm hiểu thêm, xin vui lòng đọc {privacyPolicy}.",
   
   // "cookies.consent.content-notice.learnMore": "Customize",
-  "cookies.consent.content-notice.learnMore": "Customize",
+  "cookies.consent.content-notice.learnMore": "Tùy chỉnh",
   
   // "cookies.consent.content-modal.description": "Here you can see and customize the information that we collect about you.",
-  "cookies.consent.content-modal.description": "Here you can see and customize the information that we collect about you.",
+  "cookies.consent.content-modal.description": "Tại đây bạn có thể xem và tùy chỉnh thông tin mà chúng tôi thu thập về bạn.",
   
   // "cookies.consent.content-modal.privacy-policy.name": "privacy policy",
-  "cookies.consent.content-modal.privacy-policy.name": "privacy policy",
+  "cookies.consent.content-modal.privacy-policy.name": "chính sách bảo mật",
   
   // "cookies.consent.content-modal.privacy-policy.text": "To learn more, please read our {privacyPolicy}.",
-  "cookies.consent.content-modal.privacy-policy.text": "To learn more, please read our {privacyPolicy}.",
+  "cookies.consent.content-modal.privacy-policy.text": "Để tìm hiểu thêm, xin vui lòng đọc chính sách bảo mật của chúng tôi {privacyPolicy}.",
   
   // "cookies.consent.content-modal.title": "Information that we collect",
-  "cookies.consent.content-modal.title": "Information that we collect",
+  "cookies.consent.content-modal.title": "Thông tin mà chúng tôi thu thập",
   
   
   
   // "cookies.consent.app.title.authentication": "Authentication",
-  "cookies.consent.app.title.authentication": "Authentication",
+  "cookies.consent.app.title.authentication": "Xác thực",
   
   // "cookies.consent.app.description.authentication": "Required for signing you in",
-  "cookies.consent.app.description.authentication": "Required for signing you in",
+  "cookies.consent.app.description.authentication": "Yêu cầu đăng nhập",
   
   
   // "cookies.consent.app.title.preferences": "Preferences",
-  "cookies.consent.app.title.preferences": "Preferences",
+  "cookies.consent.app.title.preferences": "Tùy chọn",
   
   // "cookies.consent.app.description.preferences": "Required for saving your preferences",
-  "cookies.consent.app.description.preferences": "Required for saving your preferences",
+  "cookies.consent.app.description.preferences": "Cần thiết để lưu tùy chọn của bạn",
   
   
   
   // "cookies.consent.app.title.acknowledgement": "Acknowledgement",
-  "cookies.consent.app.title.acknowledgement": "Acknowledgement",
+  "cookies.consent.app.title.acknowledgement": "Công nhận",
   
   // "cookies.consent.app.description.acknowledgement": "Required for saving your acknowledgements and consents",
-  "cookies.consent.app.description.acknowledgement": "Required for saving your acknowledgements and consents",
+  "cookies.consent.app.description.acknowledgement": "Yêu cầu để lưu xác nhận và đồng ý của bạn",
   
   
   
@@ -1631,206 +1631,206 @@
   "cookies.consent.app.title.google-analytics": "Google Analytics",
   
   // "cookies.consent.app.description.google-analytics": "Allows us to track statistical data",
-  "cookies.consent.app.description.google-analytics": "Allows us to track statistical data",
+  "cookies.consent.app.description.google-analytics": "Cho phép chúng tôi theo dõi dữ liệu thống kê",
   
   
   
   // "cookies.consent.purpose.functional": "Functional",
-  "cookies.consent.purpose.functional": "Functional",
+  "cookies.consent.purpose.functional": "Chức năng",
   
   // "cookies.consent.purpose.statistical": "Statistical",
-  "cookies.consent.purpose.statistical": "Statistical",
+  "cookies.consent.purpose.statistical": "Thống kê",
   
   
   // "curation-task.task.checklinks.label":  "Check Links in Metadata",
-  "curation-task.task.checklinks.label":  "Check Links in Metadata",
+  "curation-task.task.checklinks.label":  "Kiểm tra liên kết trong siêu dữ liệu",
   
   // "curation-task.task.noop.label": "NOOP",
   "curation-task.task.noop.label": "NOOP",
   
   // "curation-task.task.profileformats.label": "Profile Bitstream Formats",
-  "curation-task.task.profileformats.label": "Profile Bitstream Formats",
+  "curation-task.task.profileformats.label": "Hồ sơ định dạng dòng bit",
   
   // "curation-task.task.requiredmetadata.label": "Check for Required Metadata",
-  "curation-task.task.requiredmetadata.label": "Check for Required Metadata",
+  "curation-task.task.requiredmetadata.label": "Bắt buộc kiểm tra siêu dữ liệu",
   
   // "curation-task.task.translate.label": "Microsoft Translator",
   "curation-task.task.translate.label": "Microsoft Translator",
   
   // "curation-task.task.vscan.label": "Virus Scan",
-  "curation-task.task.vscan.label": "Virus Scan",
+  "curation-task.task.vscan.label": "Quét Virus",
   
   
   
   // "curation.form.task-select.label": "Task:",
-  "curation.form.task-select.label": "Task:",
+  "curation.form.task-select.label": "Nhiệm vụ:",
   
   // "curation.form.submit": "Start",
-  "curation.form.submit": "Start",
+  "curation.form.submit": "Khởi động",
   
   // "curation.form.submit.success.head": "The curation task has been started successfully",
-  "curation.form.submit.success.head": "The curation task has been started successfully",
+  "curation.form.submit.success.head": "Nhiệm vụ giám tuyển đã được khởi động thành công",
   
   // "curation.form.submit.success.content": "You will be redirected to the corresponding process page.",
-  "curation.form.submit.success.content": "You will be redirected to the corresponding process page.",
+  "curation.form.submit.success.content": "Bạn sẽ được chuyển hướng đến trang quy trình tương ứng.",
   
   // "curation.form.submit.error.head": "Running the curation task failed",
-  "curation.form.submit.error.head": "Running the curation task failed",
+  "curation.form.submit.error.head": "Chạy tác vụ giám tuyển không thành công",
   
   // "curation.form.submit.error.content": "An error occured when trying to start the curation task.",
-  "curation.form.submit.error.content": "An error occured when trying to start the curation task.",
+  "curation.form.submit.error.content": "Đã xảy ra lỗi khi cố gắng khởi động tác vụ giám tuyển.",
   
   // "curation.form.handle.label": "Handle:",
-  "curation.form.handle.label": "Handle:",
+  "curation.form.handle.label": "Thủ công:",
   
   // "curation.form.handle.hint": "Hint: Enter [your-handle-prefix]/0 to run a task across entire site (not all tasks may support this capability)",
-  "curation.form.handle.hint": "Hint: Enter [your-handle-prefix]/0 to run a task across entire site (not all tasks may support this capability)",
+  "curation.form.handle.hint": "Gợi ý: Nhập [your-handle-prefix]/0 để chạy một tác vụ trên toàn bộ trang web (không phải tất cả các tác vụ đều có thể hỗ trợ khả năng này)",
   
   
   
   // "dso.name.untitled": "Untitled",
-  "dso.name.untitled": "Untitled",
+  "dso.name.untitled": "Không có tiêu đề",
   
   
   
   // "dso-selector.create.collection.head": "New collection",
-  "dso-selector.create.collection.head": "New collection",
+  "dso-selector.create.collection.head": "Bộ sưu tập mới",
   
   // "dso-selector.create.collection.sub-level": "Create a new collection in",
-  "dso-selector.create.collection.sub-level": "Create a new collection in",
+  "dso-selector.create.collection.sub-level": "Tạo một bộ sưu tập mới trong",
   
   // "dso-selector.create.community.head": "New community",
-  "dso-selector.create.community.head": "New community",
+  "dso-selector.create.community.head": "Bộ sưu tập mới",
   
   // "dso-selector.create.community.sub-level": "Create a new community in",
-  "dso-selector.create.community.sub-level": "Create a new community in",
+  "dso-selector.create.community.sub-level": "Tạo một bộ sưu tập mới trong",
   
   // "dso-selector.create.community.top-level": "Create a new top-level community",
-  "dso-selector.create.community.top-level": "Create a new top-level community",
+  "dso-selector.create.community.top-level": "Tạo mới một cộng đồng cấp cao nhất",
   
   // "dso-selector.create.item.head": "New item",
-  "dso-selector.create.item.head": "New item",
+  "dso-selector.create.item.head": "Mục mới",
   
   // "dso-selector.create.item.sub-level": "Create a new item in",
-  "dso-selector.create.item.sub-level": "Create a new item in",
+  "dso-selector.create.item.sub-level": "Tạo một mục mới trong",
   
   // "dso-selector.create.submission.head": "New submission",
-  "dso-selector.create.submission.head": "New submission",
+  "dso-selector.create.submission.head": "Đệ trình mới",
   
   // "dso-selector.edit.collection.head": "Edit collection",
-  "dso-selector.edit.collection.head": "Edit collection",
+  "dso-selector.edit.collection.head": "Chỉnh sửa Bộ sưu tập",
   
   // "dso-selector.edit.community.head": "Edit community",
-  "dso-selector.edit.community.head": "Edit community",
+  "dso-selector.edit.community.head": "Chỉnh sửa Cộng đồng",
   
   // "dso-selector.edit.item.head": "Edit item",
-  "dso-selector.edit.item.head": "Edit item",
+  "dso-selector.edit.item.head": "Chỉnh sửa mục",
   
   // "dso-selector.error.title": "An error occurred searching for a {{ type }}",
-  "dso-selector.error.title": "An error occurred searching for a {{ type }}",
+  "dso-selector.error.title": "Đã xảy ra lỗi khi tìm kiếm {{ type }}",
   
   // "dso-selector.export-metadata.dspaceobject.head": "Export metadata from",
-  "dso-selector.export-metadata.dspaceobject.head": "Export metadata from",
+  "dso-selector.export-metadata.dspaceobject.head": "Xuất siêu dữ liệu từ",
   
   // "dso-selector.no-results": "No {{ type }} found",
-  "dso-selector.no-results": "No {{ type }} found",
+  "dso-selector.no-results": "Không tìm thấy {{ type }}",
   
   // "dso-selector.placeholder": "Search for a {{ type }}",
-  "dso-selector.placeholder": "Search for a {{ type }}",
+  "dso-selector.placeholder": "Tìm kiếm {{ type }}",
   
   
   
   // "confirmation-modal.export-metadata.header": "Export metadata for {{ dsoName }}",
-  "confirmation-modal.export-metadata.header": "Export metadata for {{ dsoName }}",
+  "confirmation-modal.export-metadata.header": "Xuất siêu dữ liệu cho {{ dsoName }}",
   
   // "confirmation-modal.export-metadata.info": "Are you sure you want to export metadata for {{ dsoName }}",
-  "confirmation-modal.export-metadata.info": "Are you sure you want to export metadata for {{ dsoName }}",
+  "confirmation-modal.export-metadata.info": "Bạn có chắc chắn muốn xuất siêu dữ liệu cho {{ dsoName }}",
   
   // "confirmation-modal.export-metadata.cancel": "Cancel",
-  "confirmation-modal.export-metadata.cancel": "Cancel",
+  "confirmation-modal.export-metadata.cancel": "Hủy",
   
   // "confirmation-modal.export-metadata.confirm": "Export",
-  "confirmation-modal.export-metadata.confirm": "Export",
+  "confirmation-modal.export-metadata.confirm": "Xuất",
   
   // "confirmation-modal.delete-eperson.header": "Delete EPerson \"{{ dsoName }}\"",
-  "confirmation-modal.delete-eperson.header": "Delete EPerson \"{{ dsoName }}\"",
+  "confirmation-modal.delete-eperson.header": "Xóa EPerson \"{{ dsoName }}\"",
   
   // "confirmation-modal.delete-eperson.info": "Are you sure you want to delete EPerson \"{{ dsoName }}\"",
-  "confirmation-modal.delete-eperson.info": "Are you sure you want to delete EPerson \"{{ dsoName }}\"",
+  "confirmation-modal.delete-eperson.info": "Bạn có chắc chắn muốn xóa EPerson \"{{ dsoName }}\"",
   
   // "confirmation-modal.delete-eperson.cancel": "Cancel",
-  "confirmation-modal.delete-eperson.cancel": "Cancel",
+  "confirmation-modal.delete-eperson.cancel": "Hủy",
   
   // "confirmation-modal.delete-eperson.confirm": "Delete",
-  "confirmation-modal.delete-eperson.confirm": "Delete",
+  "confirmation-modal.delete-eperson.confirm": "Xóa",
   
   
   // "error.bitstream": "Error fetching bitstream",
-  "error.bitstream": "Error fetching bitstream",
+  "error.bitstream": "Lỗi khi tìm nạp luồng bit",
   
   // "error.browse-by": "Error fetching items",
-  "error.browse-by": "Error fetching items",
+  "error.browse-by": "Lỗi khi tìm nạp các mục",
   
   // "error.collection": "Error fetching collection",
-  "error.collection": "Error fetching collection",
+  "error.collection": "Lỗi khi tìm nạp bộ sưu tập",
   
   // "error.collections": "Error fetching collections",
-  "error.collections": "Error fetching collections",
+  "error.collections": "Lỗi khi tìm nạp bộ sưu tập",
   
   // "error.community": "Error fetching community",
-  "error.community": "Error fetching community",
+  "error.community": "Lỗi khi tìm nạp cộng đồng",
   
   // "error.identifier": "No item found for the identifier",
-  "error.identifier": "No item found for the identifier",
+  "error.identifier": "Không tìm thấy mục nào cho số nhận dạng",
   
   // "error.default": "Error",
-  "error.default": "Error",
+  "error.default": "Lỗi",
   
   // "error.item": "Error fetching item",
-  "error.item": "Error fetching item",
+  "error.item": "Lỗi khi tìm nạp mục",
   
   // "error.items": "Error fetching items",
-  "error.items": "Error fetching items",
+  "error.items": "Lỗi khi tìm nạp các mục",
   
   // "error.objects": "Error fetching objects",
-  "error.objects": "Error fetching objects",
+  "error.objects": "Lỗi khi tìm nạp đối tượng",
   
   // "error.recent-submissions": "Error fetching recent submissions",
-  "error.recent-submissions": "Error fetching recent submissions",
+  "error.recent-submissions": "Lỗi khi tìm nạp các nội dung gửi gần đây",
   
   // "error.search-results": "Error fetching search results",
-  "error.search-results": "Error fetching search results",
+  "error.search-results": "Lỗi tìm nạp kết quả tìm kiếm",
   
   // "error.sub-collections": "Error fetching sub-collections",
-  "error.sub-collections": "Error fetching sub-collections",
+  "error.sub-collections": "Lỗi khi tìm nạp bộ sưu tập con",
   
   // "error.sub-communities": "Error fetching sub-communities",
-  "error.sub-communities": "Error fetching sub-communities",
+  "error.sub-communities": "Lỗi khi tìm nạp cộng đồng con",
   
   // "error.submission.sections.init-form-error": "An error occurred during section initialize, please check your input-form configuration. Details are below : <br> <br>",
-  "error.submission.sections.init-form-error": "An error occurred during section initialize, please check your input-form configuration. Details are below : <br> <br>",
+  "error.submission.sections.init-form-error": "Đã xảy ra lỗi trong quá trình khởi tạo, vui lòng kiểm tra cấu hình biểu mẫu nhập liệu của bạn. Chi tiết dưới đây : <br> <br>",
   
   // "error.top-level-communities": "Error fetching top-level communities",
-  "error.top-level-communities": "Error fetching top-level communities",
+  "error.top-level-communities": "Lỗi khi tìm nạp cộng đồng cấp cao nhất",
   
   // "error.validation.license.notgranted": "You must grant this license to complete your submission. If you are unable to grant this license at this time you may save your work and return later or remove the submission.",
-  "error.validation.license.notgranted": "You must grant this license to complete your submission. If you are unable to grant this license at this time you may save your work and return later or remove the submission.",
+  "error.validation.license.notgranted": "Bạn phải cấp giấy phép này để hoàn thành việc gửi của bạn. Nếu bạn không thể cấp giấy phép này vào lúc này, bạn có thể lưu công việc của mình và quay lại sau hoặc xóa bài nộp.",
   
   // "error.validation.pattern": "This input is restricted by the current pattern: {{ pattern }}.",
-  "error.validation.pattern": "This input is restricted by the current pattern: {{ pattern }}.",
+  "error.validation.pattern": "Đầu vào này bị hạn chế bởi mẫu hiện tại: {{ pattern }}.",
   
   // "error.validation.filerequired": "The file upload is mandatory",
-  "error.validation.filerequired": "The file upload is mandatory",
+  "error.validation.filerequired": "Tải lên tập tin là bắt buộc",
   
   
   
   // "file-section.error.header": "Error obtaining files for this item",
-  "file-section.error.header": "Error obtaining files for this item",
+  "file-section.error.header": "Lỗi lấy tệp cho mục này",
   
   
   
   // "footer.copyright": "copyright © 2002-{{ year }}",
-  "footer.copyright": "copyright © 2002-{{ year }}",
+  "footer.copyright": "Bản quyền © 2002-{{ year }}",
   
   // "footer.link.dspace": "DSpace software",
   "footer.link.dspace": "DSpace software",
@@ -1839,299 +1839,299 @@
   "footer.link.lyrasis": "LYRASIS",
   
   // "footer.link.cookies": "Cookie settings",
-  "footer.link.cookies": "Cookie settings",
+  "footer.link.cookies": "Cài đặt Cookie",
   
   // "footer.link.privacy-policy": "Privacy policy",
-  "footer.link.privacy-policy": "Privacy policy",
+  "footer.link.privacy-policy": "Chính sách bảo mật",
   
   // "footer.link.end-user-agreement":"End User Agreement",
-  "footer.link.end-user-agreement":"End User Agreement",
+  "footer.link.end-user-agreement":"Thỏa thuận người dùng cuối",
   
   
   
   // "forgot-email.form.header": "Forgot Password",
-  "forgot-email.form.header": "Forgot Password",
+  "forgot-email.form.header": "Quên mật khẩu",
   
   // "forgot-email.form.info": "Enter Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
-  "forgot-email.form.info": "Enter Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
+  "forgot-email.form.info": "Đăng ký tài khoản để đăng ký các bộ sưu tập, cập nhật email và gửi các mục mới tới DSpace.",
   
   // "forgot-email.form.email": "Email Address *",
-  "forgot-email.form.email": "Email Address *",
+  "forgot-email.form.email": "Địa chỉ Email *",
   
   // "forgot-email.form.email.error.required": "Please fill in an email address",
-  "forgot-email.form.email.error.required": "Please fill in an email address",
+  "forgot-email.form.email.error.required": "Vui lòng điền địa chỉ email",
   
   // "forgot-email.form.email.error.pattern": "Please fill in a valid email address",
-  "forgot-email.form.email.error.pattern": "Please fill in a valid email address",
+  "forgot-email.form.email.error.pattern": "Hãy điền địa chỉ email hợp lệ",
   
   // "forgot-email.form.email.hint": "This address will be verified and used as your login name.",
-  "forgot-email.form.email.hint": "This address will be verified and used as your login name.",
+  "forgot-email.form.email.hint": "Địa chỉ này sẽ được xác minh và sử dụng làm tên đăng nhập của bạn.",
   
   // "forgot-email.form.submit": "Save",
-  "forgot-email.form.submit": "Save",
+  "forgot-email.form.submit": "Lưu",
   
   // "forgot-email.form.success.head": "Verification email sent",
-  "forgot-email.form.success.head": "Verification email sent",
+  "forgot-email.form.success.head": "Gửi email xác minh",
   
   // "forgot-email.form.success.content": "An email has been sent to {{ email }} containing a special URL and further instructions.",
-  "forgot-email.form.success.content": "An email has been sent to {{ email }} containing a special URL and further instructions.",
+  "forgot-email.form.success.content": "Một email đã được gửi tới {{ email }} có chứa một URL hướng dẫn xác minh.",
   
   // "forgot-email.form.error.head": "Error when trying to register email",
-  "forgot-email.form.error.head": "Error when trying to register email",
+  "forgot-email.form.error.head": "Lỗi khi đăng ký email",
   
   // "forgot-email.form.error.content": "An error occured when registering the following email address: {{ email }}",
-  "forgot-email.form.error.content": "An error occured when registering the following email address: {{ email }}",
+  "forgot-email.form.error.content": "Đã xảy ra lỗi khi đăng ký địa chỉ email sau: {{ email }}",
   
   
   
   // "forgot-password.title": "Forgot Password",
-  "forgot-password.title": "Forgot Password",
+  "forgot-password.title": "Quên mật khẩu",
   
   // "forgot-password.form.head": "Forgot Password",
-  "forgot-password.form.head": "Forgot Password",
+  "forgot-password.form.head": "Quên mật khẩu",
   
   // "forgot-password.form.info": "Enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
-  "forgot-password.form.info": "Enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
+  "forgot-password.form.info": "Nhập mật khẩu mới vào ô bên dưới và xác nhận bằng cách nhập lại mật khẩu vào ô thứ hai. Nó phải dài ít nhất sáu ký tự.",
   
   // "forgot-password.form.card.security": "Security",
-  "forgot-password.form.card.security": "Security",
+  "forgot-password.form.card.security": "Bảo vệ",
   
   // "forgot-password.form.identification.header": "Identify",
-  "forgot-password.form.identification.header": "Identify",
+  "forgot-password.form.identification.header": "Định danh",
   
   // "forgot-password.form.identification.email": "Email address: ",
-  "forgot-password.form.identification.email": "Email address: ",
+  "forgot-password.form.identification.email": "Địa chỉ Email: ",
   
   // "forgot-password.form.label.password": "Password",
-  "forgot-password.form.label.password": "Password",
+  "forgot-password.form.label.password": "Mật khẩu",
   
   // "forgot-password.form.label.passwordrepeat": "Retype to confirm",
-  "forgot-password.form.label.passwordrepeat": "Retype to confirm",
+  "forgot-password.form.label.passwordrepeat": "Nhập lại để xác nhận",
   
   // "forgot-password.form.error.empty-password": "Please enter a password in the box below.",
-  "forgot-password.form.error.empty-password": "Please enter a password in the box below.",
+  "forgot-password.form.error.empty-password": "Vui lòng nhập mật khẩu vào ô bên dưới.",
   
   // "forgot-password.form.error.matching-passwords": "The passwords do not match.",
-  "forgot-password.form.error.matching-passwords": "The passwords do not match.",
+  "forgot-password.form.error.matching-passwords": "Mật khẩu không trùng khớp.",
   
   // "forgot-password.form.error.password-length": "The password should be at least 6 characters long.",
-  "forgot-password.form.error.password-length": "The password should be at least 6 characters long.",
+  "forgot-password.form.error.password-length": "Mật khẩu phải dài ít nhất 6 ký tự.",
   
   // "forgot-password.form.notification.error.title": "Error when trying to submit new password",
-  "forgot-password.form.notification.error.title": "Error when trying to submit new password",
+  "forgot-password.form.notification.error.title": "Lỗi khi cố gửi mật khẩu mới",
   
   // "forgot-password.form.notification.success.content": "The password reset was successful. You have been logged in as the created user.",
-  "forgot-password.form.notification.success.content": "The password reset was successful. You have been logged in as the created user.",
+  "forgot-password.form.notification.success.content": "Đặt lại mật khẩu thành công. Bạn đã đăng nhập với tư cách người dùng đã tạo.",
   
   // "forgot-password.form.notification.success.title": "Password reset completed",
-  "forgot-password.form.notification.success.title": "Password reset completed",
+  "forgot-password.form.notification.success.title": "Đã hoàn tất đặt lại mật khẩu",
   
   // "forgot-password.form.submit": "Submit password",
-  "forgot-password.form.submit": "Submit password",
+  "forgot-password.form.submit": "Gửi mật khẩu",
   
   
   
   // "form.add": "Add more",
-  "form.add": "Add more",
+  "form.add": "Bổ sung thêm",
   
   // "form.add-help": "Click here to add the current entry and to add another one",
-  "form.add-help": "Click here to add the current entry and to add another one",
+  "form.add-help": "Bấm vào đây để thêm mục hiện tại và để thêm một mục khác",
   
   // "form.cancel": "Cancel",
-  "form.cancel": "Cancel",
+  "form.cancel": "Hủy",
   
   // "form.clear": "Clear",
-  "form.clear": "Clear",
+  "form.clear": "Xóa",
   
   // "form.clear-help": "Click here to remove the selected value",
-  "form.clear-help": "Click here to remove the selected value",
+  "form.clear-help": "Nhấp vào đây để xóa giá trị đã chọn",
   
   // "form.discard": "Discard",
-  "form.discard": "Discard",
+  "form.discard": "Bỏ qua",
   
   // "form.drag": "Drag",
-  "form.drag": "Drag",
+  "form.drag": "Kéo thả",
   
   // "form.edit": "Edit",
-  "form.edit": "Edit",
+  "form.edit": "Sửa",
   
   // "form.edit-help": "Click here to edit the selected value",
-  "form.edit-help": "Click here to edit the selected value",
+  "form.edit-help": "Nhấn vào đây để chỉnh sửa giá trị đã chọn",
   
   // "form.first-name": "First name",
-  "form.first-name": "First name",
+  "form.first-name": "Họ",
   
   // "form.group-collapse": "Collapse",
-  "form.group-collapse": "Collapse",
+  "form.group-collapse": "Thu gọn",
   
   // "form.group-collapse-help": "Click here to collapse",
-  "form.group-collapse-help": "Click here to collapse",
+  "form.group-collapse-help": "Nhấn vào đây để thu gọn",
   
   // "form.group-expand": "Expand",
-  "form.group-expand": "Expand",
+  "form.group-expand": "Mở rộng",
   
   // "form.group-expand-help": "Click here to expand and add more elements",
   "form.group-expand-help": "Click here to expand and add more elements",
   
   // "form.last-name": "Last name",
-  "form.last-name": "Last name",
+  "form.last-name": "Tên",
   
   // "form.loading": "Loading...",
-  "form.loading": "Loading...",
+  "form.loading": "Đang tải...",
   
   // "form.lookup": "Lookup",
-  "form.lookup": "Lookup",
+  "form.lookup": "Tra cứu",
   
   // "form.lookup-help": "Click here to look up an existing relation",
-  "form.lookup-help": "Click here to look up an existing relation",
+  "form.lookup-help": "Nhấn vào đây để tra cứu một mối quan hệ hiện có",
   
   // "form.no-results": "No results found",
-  "form.no-results": "No results found",
+  "form.no-results": "không có kết quả nào được tìm thấy",
   
   // "form.no-value": "No value entered",
-  "form.no-value": "No value entered",
+  "form.no-value": "Không có giá trị nào được nhập",
   
   // "form.other-information": {},
   "form.other-information": {},
   
   // "form.remove": "Remove",
-  "form.remove": "Remove",
+  "form.remove": "Xóa",
   
   // "form.save": "Save",
-  "form.save": "Save",
+  "form.save": "Lưu",
   
   // "form.save-help": "Save changes",
-  "form.save-help": "Save changes",
+  "form.save-help": "Lưu các thay đổi",
   
   // "form.search": "Search",
-  "form.search": "Search",
+  "form.search": "Tìm kiếm",
   
   // "form.search-help": "Click here to look for an existing correspondence",
-  "form.search-help": "Click here to look for an existing correspondence",
+  "form.search-help": "Nhấn vào đây để tìm thư từ hiện có",
   
   // "form.submit": "Save",
-  "form.submit": "Save",
+  "form.submit": "Lưu",
   
   // "form.repeatable.sort.tip": "Drop the item in the new position",
-  "form.repeatable.sort.tip": "Drop the item in the new position",
+  "form.repeatable.sort.tip": "Kéo thả mục vào vị trí mới",
   
   
   // "home.description": "",
   "home.description": "",
   
   // "home.breadcrumbs": "Home",
-  "home.breadcrumbs": "Home",
+  "home.breadcrumbs": "Trang chủ",
   
   // "home.search-form.placeholder": "Search the repository ...",
-  "home.search-form.placeholder": "Search the repository ...",
+  "home.search-form.placeholder": "Tìm kiếm kho lưu trữ ...",
   
   // "home.title": "Home",
-  "home.title": "Home",
+  "home.title": "Trang chủ",
   
   // "home.top-level-communities.head": "Communities in DSpace",
-  "home.top-level-communities.head": "Communities in DSpace",
+  "home.top-level-communities.head": "Cộng đồng trong DSpace",
   
   // "home.top-level-communities.help": "Select a community to browse its collections.",
-  "home.top-level-communities.help": "Select a community to browse its collections.",
+  "home.top-level-communities.help": "Chọn một cộng đồng để duyệt các bộ sưu tập của cộng đồng đó.",
   
   
   
   // "info.end-user-agreement.accept": "I have read and I agree to the End User Agreement",
-  "info.end-user-agreement.accept": "I have read and I agree to the End User Agreement",
+  "info.end-user-agreement.accept": "Tôi đã đọc và tôi đồng ý với Thỏa thuận người dùng cuối",
   
   // "info.end-user-agreement.accept.error": "An error occurred accepting the End User Agreement",
-  "info.end-user-agreement.accept.error": "An error occurred accepting the End User Agreement",
+  "info.end-user-agreement.accept.error": "Đã xảy ra lỗi khi chấp nhận Thỏa thuận người dùng cuối",
   
   // "info.end-user-agreement.accept.success": "Successfully updated the End User Agreement",
-  "info.end-user-agreement.accept.success": "Successfully updated the End User Agreement",
+  "info.end-user-agreement.accept.success": "Đã cập nhật thành công Thỏa thuận người dùng cuối",
   
   // "info.end-user-agreement.breadcrumbs": "End User Agreement",
-  "info.end-user-agreement.breadcrumbs": "End User Agreement",
+  "info.end-user-agreement.breadcrumbs": "Thỏa thuận người dùng cuối",
   
   // "info.end-user-agreement.buttons.cancel": "Cancel",
-  "info.end-user-agreement.buttons.cancel": "Cancel",
+  "info.end-user-agreement.buttons.cancel": "Hủy",
   
   // "info.end-user-agreement.buttons.save": "Save",
-  "info.end-user-agreement.buttons.save": "Save",
+  "info.end-user-agreement.buttons.save": "Lưu",
   
   // "info.end-user-agreement.head": "End User Agreement",
-  "info.end-user-agreement.head": "End User Agreement",
+  "info.end-user-agreement.head": "Thỏa thuận người dùng cuối",
   
   // "info.end-user-agreement.title": "End User Agreement",
-  "info.end-user-agreement.title": "End User Agreement",
+  "info.end-user-agreement.title": "Thỏa thuận người dùng cuối",
   
   // "info.privacy.breadcrumbs": "Privacy Statement",
-  "info.privacy.breadcrumbs": "Privacy Statement",
+  "info.privacy.breadcrumbs": "Cam kết bảo mật",
   
   // "info.privacy.head": "Privacy Statement",
-  "info.privacy.head": "Privacy Statement",
+  "info.privacy.head": "Cam kết bảo mậtt",
   
   // "info.privacy.title": "Privacy Statement",
-  "info.privacy.title": "Privacy Statement",
+  "info.privacy.title": "Cam kết bảo mật",
   
   
   
   // "item.alerts.private": "This item is private",
-  "item.alerts.private": "This item is private",
+  "item.alerts.private": "Mục này là riêng tư",
   
   // "item.alerts.withdrawn": "This item has been withdrawn",
-  "item.alerts.withdrawn": "This item has been withdrawn",
+  "item.alerts.withdrawn": "Mục này đã bị thu hồi",
   
   
   
   // "item.edit.authorizations.heading": "With this editor you can view and alter the policies of an item, plus alter policies of individual item components: bundles and bitstreams. Briefly, an item is a container of bundles, and bundles are containers of bitstreams. Containers usually have ADD/REMOVE/READ/WRITE policies, while bitstreams only have READ/WRITE policies.",
-  "item.edit.authorizations.heading": "With this editor you can view and alter the policies of an item, plus alter policies of individual item components: bundles and bitstreams. Briefly, an item is a container of bundles, and bundles are containers of bitstreams. Containers usually have ADD/REMOVE/READ/WRITE policies, while bitstreams only have READ/WRITE policies.",
+  "item.edit.authorizations.heading": "Với trình chỉnh sửa này, bạn có thể xem và thay đổi chính sách của một mục, đồng thời thay đổi chính sách của các thành phần mục riêng lẻ: gói và dòng bit. Tóm lại, một mục là một vùng chứa các gói và các gói là vùng chứa các dòng bit. Các bộ chứa thường có các chính sách THÊM/XÓA/ĐỌC/GHI, trong khi các luồng bit chỉ có các chính sách ĐỌC/GHI.",
   
   // "item.edit.authorizations.title": "Edit item's Policies",
-  "item.edit.authorizations.title": "Edit item's Policies",
+  "item.edit.authorizations.title": "Chỉnh sửa chính sách của mục",
   
   
   
   // "item.badge.private": "Private",
-  "item.badge.private": "Private",
+  "item.badge.private": "Riêng tư",
   
   // "item.badge.withdrawn": "Withdrawn",
-  "item.badge.withdrawn": "Withdrawn",
+  "item.badge.withdrawn": "Thu hồi",
   
   
   
   // "item.bitstreams.upload.bundle": "Bundle",
-  "item.bitstreams.upload.bundle": "Bundle",
+  "item.bitstreams.upload.bundle": "Gói",
   
   // "item.bitstreams.upload.bundle.placeholder": "Select a bundle",
-  "item.bitstreams.upload.bundle.placeholder": "Select a bundle",
+  "item.bitstreams.upload.bundle.placeholder": "Chọn một gói",
   
   // "item.bitstreams.upload.bundle.new": "Create bundle",
-  "item.bitstreams.upload.bundle.new": "Create bundle",
+  "item.bitstreams.upload.bundle.new": "Tạo gói",
   
   // "item.bitstreams.upload.bundles.empty": "This item doesn\'t contain any bundles to upload a bitstream to.",
-  "item.bitstreams.upload.bundles.empty": "This item doesn\'t contain any bundles to upload a bitstream to.",
+  "item.bitstreams.upload.bundles.empty": "Mục này không chứa bất kỳ gói nào để tải dòng bit lên.",
   
   // "item.bitstreams.upload.cancel": "Cancel",
-  "item.bitstreams.upload.cancel": "Cancel",
+  "item.bitstreams.upload.cancel": "Hủy",
   
   // "item.bitstreams.upload.drop-message": "Drop a file to upload",
-  "item.bitstreams.upload.drop-message": "Drop a file to upload",
+  "item.bitstreams.upload.drop-message": "Kéo thả một tập tin để tải lên",
   
   // "item.bitstreams.upload.item": "Item: ",
-  "item.bitstreams.upload.item": "Item: ",
+  "item.bitstreams.upload.item": "Mục: ",
   
   // "item.bitstreams.upload.notifications.bundle.created.content": "Successfully created new bundle.",
-  "item.bitstreams.upload.notifications.bundle.created.content": "Successfully created new bundle.",
+  "item.bitstreams.upload.notifications.bundle.created.content": "Đã tạo thành công gói mới.",
   
   // "item.bitstreams.upload.notifications.bundle.created.title": "Created bundle",
-  "item.bitstreams.upload.notifications.bundle.created.title": "Created bundle",
+  "item.bitstreams.upload.notifications.bundle.created.title": "Đã tạo gói",
   
   // "item.bitstreams.upload.notifications.upload.failed": "Upload failed. Please verify the content before retrying.",
-  "item.bitstreams.upload.notifications.upload.failed": "Upload failed. Please verify the content before retrying.",
+  "item.bitstreams.upload.notifications.upload.failed": "Tải lên không thành công. Vui lòng xác minh nội dung trước khi thử lại.",
   
   // "item.bitstreams.upload.title": "Upload bitstream",
-  "item.bitstreams.upload.title": "Upload bitstream",
+  "item.bitstreams.upload.title": "Tải lên dòng bit",
   
   
   
   // "item.edit.bitstreams.bundle.edit.buttons.upload": "Upload",
-  "item.edit.bitstreams.bundle.edit.buttons.upload": "Upload",
+  "item.edit.bitstreams.bundle.edit.buttons.upload": "Tải lên",
   
   // "item.edit.bitstreams.bundle.displaying": "Currently displaying {{ amount }} bitstreams of {{ total }}.",
   "item.edit.bitstreams.bundle.displaying": "Currently displaying {{ amount }} bitstreams of {{ total }}.",
