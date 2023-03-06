@@ -241,43 +241,43 @@
   "admin.registries.schema.fields.table.scopenote": "Phạm vi ghi chú",
   
   // "admin.registries.schema.form.create": "Create metadata field",
-  "admin.registries.schema.form.create": "Create metadata field",
+  "admin.registries.schema.form.create": "Tạo trường siêu dữ liệu",
   
   // "admin.registries.schema.form.edit": "Edit metadata field",
-  "admin.registries.schema.form.edit": "Edit metadata field",
+  "admin.registries.schema.form.edit": "Chỉnh sửa trường siêu dữ liệu",
   
   // "admin.registries.schema.form.element": "Element",
-  "admin.registries.schema.form.element": "Element",
+  "admin.registries.schema.form.element": "Yếu tố",
   
   // "admin.registries.schema.form.qualifier": "Qualifier",
-  "admin.registries.schema.form.qualifier": "Qualifier",
+  "admin.registries.schema.form.qualifier": "Vòng ngoài",
   
   // "admin.registries.schema.form.scopenote": "Scope Note",
-  "admin.registries.schema.form.scopenote": "Scope Note",
+  "admin.registries.schema.form.scopenote": "Phạm vi ghi chú",
   
   // "admin.registries.schema.head": "Metadata Schema",
-  "admin.registries.schema.head": "Metadata Schema",
+  "admin.registries.schema.head": "Lược đồ siêu dữ liệu",
   
   // "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.created": "Successfully created metadata schema \"{{prefix}}\"",
+  "admin.registries.schema.notification.created": "Đã tạo thành công lược đồ siêu dữ liệu \"{{prefix}}\"",
   
   // "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
-  "admin.registries.schema.notification.deleted.failure": "Failed to delete {{amount}} metadata schemas",
+  "admin.registries.schema.notification.deleted.failure": "Không thể xóa {{amount}} lược đồ siêu dữ liệu",
   
   // "admin.registries.schema.notification.deleted.success": "Successfully deleted {{amount}} metadata schemas",
-  "admin.registries.schema.notification.deleted.success": "Successfully deleted {{amount}} metadata schemas",
+  "admin.registries.schema.notification.deleted.success": "Xóa thành công {{amount}} lược đồ siêu dữ liệu",
   
   // "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
-  "admin.registries.schema.notification.edited": "Successfully edited metadata schema \"{{prefix}}\"",
+  "admin.registries.schema.notification.edited": "Đã chỉnh sửa thành công giản đồ siêu dữ liệu \"{{prefix}}\"",
   
   // "admin.registries.schema.notification.failure": "Error",
-  "admin.registries.schema.notification.failure": "Error",
+  "admin.registries.schema.notification.failure": "Lỗi",
   
   // "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
-  "admin.registries.schema.notification.field.created": "Successfully created metadata field \"{{field}}\"",
+  "admin.registries.schema.notification.field.created": "Đã tạo thành công trường siêu dữ liệu \"{{field}}\"",
   
   // "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
-  "admin.registries.schema.notification.field.deleted.failure": "Failed to delete {{amount}} metadata fields",
+  "admin.registries.schema.notification.field.deleted.failure": "Không thể xóa {{amount}} trường siêu dữ liệu",
   
   // "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
   "admin.registries.schema.notification.field.deleted.success": "Successfully deleted {{amount}} metadata fields",
