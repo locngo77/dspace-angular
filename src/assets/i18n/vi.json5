@@ -837,284 +837,284 @@
   "bitstream.edit.form.selectedFormat.unknown": "Định dạng không có trong danh sách",
   
   // "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
-  "bitstream.edit.notifications.error.format.title": "An error occurred saving the bitstream's format",
+  "bitstream.edit.notifications.error.format.title": "Đã xảy ra lỗi khi lưu định dạng dòng bit",
   
   // "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
-  "bitstream.edit.notifications.saved.content": "Your changes to this bitstream were saved.",
+  "bitstream.edit.notifications.saved.content": "Các thay đổi của bạn đối với dòng bit này đã được lưu.",
   
   // "bitstream.edit.notifications.saved.title": "Bitstream saved",
-  "bitstream.edit.notifications.saved.title": "Bitstream saved",
+  "bitstream.edit.notifications.saved.title": "Đã lưu dòng bit",
   
   // "bitstream.edit.title": "Edit bitstream",
-  "bitstream.edit.title": "Edit bitstream",
+  "bitstream.edit.title": "Chỉnh sửa dòng bit",
   
   
   
   // "browse.comcol.by.author": "By Author",
-  "browse.comcol.by.author": "By Author",
+  "browse.comcol.by.author": "Theo tác giả",
   
   // "browse.comcol.by.dateissued": "By Issue Date",
-  "browse.comcol.by.dateissued": "By Issue Date",
+  "browse.comcol.by.dateissued": "Theo ngày phát hành",
   
   // "browse.comcol.by.subject": "By Subject",
-  "browse.comcol.by.subject": "By Subject",
+  "browse.comcol.by.subject": "Theo Chủ đề",
   
   // "browse.comcol.by.title": "By Title",
-  "browse.comcol.by.title": "By Title",
+  "browse.comcol.by.title": "Theo tiêu đề",
   
   // "browse.comcol.head": "Browse",
-  "browse.comcol.head": "Browse",
+  "browse.comcol.head": "Duyệt",
   
   // "browse.empty": "No items to show.",
-  "browse.empty": "No items to show.",
+  "browse.empty": "Không có mục nào để hiển thị.",
   
   // "browse.metadata.author": "Author",
-  "browse.metadata.author": "Author",
+  "browse.metadata.author": "Tác giả",
   
   // "browse.metadata.dateissued": "Issue Date",
-  "browse.metadata.dateissued": "Issue Date",
+  "browse.metadata.dateissued": "Ngày phát hành",
   
   // "browse.metadata.subject": "Subject",
-  "browse.metadata.subject": "Subject",
+  "browse.metadata.subject": "Chủ đề",
   
   // "browse.metadata.title": "Title",
-  "browse.metadata.title": "Title",
+  "browse.metadata.title": "Tiêu đề",
   
   // "browse.metadata.author.breadcrumbs": "Browse by Author",
-  "browse.metadata.author.breadcrumbs": "Browse by Author",
+  "browse.metadata.author.breadcrumbs": "Duyệt theo tác giả",
   
   // "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
-  "browse.metadata.dateissued.breadcrumbs": "Browse by Date",
+  "browse.metadata.dateissued.breadcrumbs": "Duyệt theo ngày",
   
   // "browse.metadata.subject.breadcrumbs": "Browse by Subject",
-  "browse.metadata.subject.breadcrumbs": "Browse by Subject",
+  "browse.metadata.subject.breadcrumbs": "Duyệt theo chủ đề",
   
   // "browse.metadata.title.breadcrumbs": "Browse by Title",
-  "browse.metadata.title.breadcrumbs": "Browse by Title",
+  "browse.metadata.title.breadcrumbs": "Duyệt theo tiêu đề",
   
   // "browse.next.button": "Next",
-  "browse.next.button": "Next",
+  "browse.next.button": "Kế",
   
   // "browse.previous.button": "Previous",
-  "browse.previous.button": "Previous",
+  "browse.previous.button": "Trước",
   
   // "browse.startsWith.choose_start": "(Choose start)",
-  "browse.startsWith.choose_start": "(Choose start)",
+  "browse.startsWith.choose_start": "(Chọn để bắt đầu)",
   
   // "browse.startsWith.choose_year": "(Choose year)",
-  "browse.startsWith.choose_year": "(Choose year)",
+  "browse.startsWith.choose_year": "(Chọn năm)",
   
   // "browse.startsWith.choose_year.label": "Choose the issue year",
-  "browse.startsWith.choose_year.label": "Choose the issue year",
+  "browse.startsWith.choose_year.label": "Chọn năm phát hành",
   
   // "browse.startsWith.jump": "Jump to a point in the index:",
-  "browse.startsWith.jump": "Jump to a point in the index:",
+  "browse.startsWith.jump": "Chuyển đến một điểm trong chỉ mục:",
   
   // "browse.startsWith.months.april": "April",
-  "browse.startsWith.months.april": "April",
+  "browse.startsWith.months.april": "Tháng 4",
   
   // "browse.startsWith.months.august": "August",
-  "browse.startsWith.months.august": "August",
+  "browse.startsWith.months.august": "Tháng 8",
   
   // "browse.startsWith.months.december": "December",
-  "browse.startsWith.months.december": "December",
+  "browse.startsWith.months.december": "Tháng 12",
   
   // "browse.startsWith.months.february": "February",
-  "browse.startsWith.months.february": "February",
+  "browse.startsWith.months.february": "Tháng 2",
   
   // "browse.startsWith.months.january": "January",
-  "browse.startsWith.months.january": "January",
+  "browse.startsWith.months.january": "Tháng 1",
   
   // "browse.startsWith.months.july": "July",
-  "browse.startsWith.months.july": "July",
+  "browse.startsWith.months.july": "Tháng 7",
   
   // "browse.startsWith.months.june": "June",
-  "browse.startsWith.months.june": "June",
+  "browse.startsWith.months.june": "Tháng 6",
   
   // "browse.startsWith.months.march": "March",
-  "browse.startsWith.months.march": "March",
+  "browse.startsWith.months.march": "Tháng 3",
   
   // "browse.startsWith.months.may": "May",
-  "browse.startsWith.months.may": "May",
+  "browse.startsWith.months.may": "Tháng 5",
   
   // "browse.startsWith.months.none": "(Choose month)",
-  "browse.startsWith.months.none": "(Choose month)",
+  "browse.startsWith.months.none": "(Chọn tháng)",
   
   // "browse.startsWith.months.none.label": "Choose the issue month",
-  "browse.startsWith.months.none.label": "Choose the issue month",
+  "browse.startsWith.months.none.label": "Chọn tháng phát hành",
   
   // "browse.startsWith.months.november": "November",
-  "browse.startsWith.months.november": "November",
+  "browse.startsWith.months.november": "Tháng 11",
   
   // "browse.startsWith.months.october": "October",
-  "browse.startsWith.months.october": "October",
+  "browse.startsWith.months.october": "Tháng 10",
   
   // "browse.startsWith.months.september": "September",
-  "browse.startsWith.months.september": "September",
+  "browse.startsWith.months.september": "Tháng 9",
   
   // "browse.startsWith.submit": "Browse",
-  "browse.startsWith.submit": "Browse",
+  "browse.startsWith.submit": "Duyệt qua",
   
   // "browse.startsWith.type_date": "Or type in a date (year-month) and click 'Browse'",
-  "browse.startsWith.type_date": "Or type in a date (year-month) and click 'Browse'",
+  "browse.startsWith.type_date": "Hoặc nhập một ngày (năm-tháng) và nhấp vào 'Duyệt qua'",
   
   // "browse.startsWith.type_date.label": "Or type in a date (year-month) and click on the Browse button",
-  "browse.startsWith.type_date.label": "Or type in a date (year-month) and click on the Browse button",
+  "browse.startsWith.type_date.label": "Hoặc nhập một ngày (năm-tháng) và nhấp vào nút Duyệt qua",
   
   // "browse.startsWith.type_text": "Type the first few letters and click on the Browse button",
-  "browse.startsWith.type_text": "Type the first few letters and click on the Browse button",
+  "browse.startsWith.type_text": "Đầu tiên nhập vào một vài chữ cái và nhấp vào nút Duyệt qua",
   
   // "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
-  "browse.title": "Browsing {{ collection }} by {{ field }} {{ value }}",
+  "browse.title": "Duyệt {{ collection }} bởi {{ field }} {{ value }}",
   
   
   // "chips.remove": "Remove chip",
-  "chips.remove": "Remove chip",
+  "chips.remove": "Xóa chip",
   
   
   
   // "collection.create.head": "Create a Collection",
-  "collection.create.head": "Create a Collection",
+  "collection.create.head": "Tạo một Bộ sưu tập",
   
   // "collection.create.notifications.success": "Successfully created the Collection",
-  "collection.create.notifications.success": "Successfully created the Collection",
+  "collection.create.notifications.success": "Đã tạo thành công Bộ sưu tập",
   
   // "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
-  "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
+  "collection.create.sub-head": "Tạo Bộ sưu tập cho cộng đồng {{ parent }}",
   
   // "collection.curate.header": "Curate Collection: {{collection}}",
-  "collection.curate.header": "Curate Collection: {{collection}}",
+  "collection.curate.header": "Bộ sưu tập giám tuyển: {{collection}}",
   
   // "collection.delete.cancel": "Cancel",
-  "collection.delete.cancel": "Cancel",
+  "collection.delete.cancel": "Hủy",
   
   // "collection.delete.confirm": "Confirm",
-  "collection.delete.confirm": "Confirm",
+  "collection.delete.confirm": "Xác nhận",
   
   // "collection.delete.processing": "Deleting",
-  "collection.delete.processing": "Deleting",
+  "collection.delete.processing": "Đang xóa",
   
   // "collection.delete.head": "Delete Collection",
-  "collection.delete.head": "Delete Collection",
+  "collection.delete.head": "Xóa Bộ sưu tập",
   
   // "collection.delete.notification.fail": "Collection could not be deleted",
-  "collection.delete.notification.fail": "Collection could not be deleted",
+  "collection.delete.notification.fail": "Không thể xóa bộ sưu tập",
   
   // "collection.delete.notification.success": "Successfully deleted collection",
-  "collection.delete.notification.success": "Successfully deleted collection",
+  "collection.delete.notification.success": "Đã xóa thành công bộ sưu tập",
   
   // "collection.delete.text": "Are you sure you want to delete collection \"{{ dso }}\"",
-  "collection.delete.text": "Are you sure you want to delete collection \"{{ dso }}\"",
+  "collection.delete.text": "Bạn có chắc chắn muốn xóa bộ sưu tập \"{{ dso }}\"",
   
   
   
   // "collection.edit.delete": "Delete this collection",
-  "collection.edit.delete": "Delete this collection",
+  "collection.edit.delete": "Xóa Bộ sưu tập này",
   
   // "collection.edit.head": "Edit Collection",
-  "collection.edit.head": "Edit Collection",
+  "collection.edit.head": "Chỉnh sửa Bộ sưu tập",
   
   // "collection.edit.breadcrumbs": "Edit Collection",
-  "collection.edit.breadcrumbs": "Edit Collection",
+  "collection.edit.breadcrumbs": "Chỉnh sửa Bộ sưu tập",
   
   
   
   // "collection.edit.tabs.mapper.head": "Item Mapper",
-  "collection.edit.tabs.mapper.head": "Item Mapper",
+  "collection.edit.tabs.mapper.head": "Ánh xạ mục",
   
   // "collection.edit.tabs.item-mapper.title": "Collection Edit - Item Mapper",
-  "collection.edit.tabs.item-mapper.title": "Collection Edit - Item Mapper",
+  "collection.edit.tabs.item-mapper.title": "Chỉnh sửa Bộ sưu tập - Ánh xạ mục",
   
   // "collection.edit.item-mapper.cancel": "Cancel",
-  "collection.edit.item-mapper.cancel": "Cancel",
+  "collection.edit.item-mapper.cancel": "Hủy",
   
   // "collection.edit.item-mapper.collection": "Collection: \"<b>{{name}}</b>\"",
-  "collection.edit.item-mapper.collection": "Collection: \"<b>{{name}}</b>\"",
+  "collection.edit.item-mapper.collection": "Bộ sưu tập: \"<b>{{name}}</b>\"",
   
   // "collection.edit.item-mapper.confirm": "Map selected items",
-  "collection.edit.item-mapper.confirm": "Map selected items",
+  "collection.edit.item-mapper.confirm": "Ánh xạ các mục đã chọn",
   
   // "collection.edit.item-mapper.description": "This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.",
-  "collection.edit.item-mapper.description": "This is the item mapper tool that allows collection administrators to map items from other collections into this collection. You can search for items from other collections and map them, or browse the list of currently mapped items.",
+  "collection.edit.item-mapper.description": "Đây là công cụ ánh xạ mục cho phép quản trị viên bộ sưu tập ánh xạ các mục từ các bộ sưu tập khác vào bộ sưu tập này. Bạn có thể tìm kiếm các mục từ các bộ sưu tập khác và ánh xạ chúng hoặc duyệt qua danh sách các mục hiện được ánh xạ.",
   
   // "collection.edit.item-mapper.head": "Item Mapper - Map Items from Other Collections",
-  "collection.edit.item-mapper.head": "Item Mapper - Map Items from Other Collections",
+  "collection.edit.item-mapper.head": "Trình ánh xạ mục - Các mục ánh xạ từ các bộ sưu tập khác",
   
   // "collection.edit.item-mapper.no-search": "Please enter a query to search",
-  "collection.edit.item-mapper.no-search": "Please enter a query to search",
+  "collection.edit.item-mapper.no-search": "Vui lòng nhập truy vấn để tìm kiếm",
   
   // "collection.edit.item-mapper.notifications.map.error.content": "Errors occurred for mapping of {{amount}} items.",
-  "collection.edit.item-mapper.notifications.map.error.content": "Errors occurred for mapping of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.map.error.content": "Đã xảy ra lỗi khi ánh xạ {{amount}} mục.",
   
   // "collection.edit.item-mapper.notifications.map.error.head": "Mapping errors",
-  "collection.edit.item-mapper.notifications.map.error.head": "Mapping errors",
+  "collection.edit.item-mapper.notifications.map.error.head": "Lỗi ánh xạ",
   
   // "collection.edit.item-mapper.notifications.map.success.content": "Successfully mapped {{amount}} items.",
-  "collection.edit.item-mapper.notifications.map.success.content": "Successfully mapped {{amount}} items.",
+  "collection.edit.item-mapper.notifications.map.success.content": "Đã ánh xạ thành công {{amount}} mục.",
   
   // "collection.edit.item-mapper.notifications.map.success.head": "Mapping completed",
-  "collection.edit.item-mapper.notifications.map.success.head": "Mapping completed",
+  "collection.edit.item-mapper.notifications.map.success.head": "Ánh xạ hoàn thành",
   
   // "collection.edit.item-mapper.notifications.unmap.error.content": "Errors occurred for removing the mappings of {{amount}} items.",
-  "collection.edit.item-mapper.notifications.unmap.error.content": "Errors occurred for removing the mappings of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.unmap.error.content": "Đã xảy ra lỗi khi xóa ánh xạ của {{amount}} mục.",
   
   // "collection.edit.item-mapper.notifications.unmap.error.head": "Remove mapping errors",
-  "collection.edit.item-mapper.notifications.unmap.error.head": "Remove mapping errors",
+  "collection.edit.item-mapper.notifications.unmap.error.head": "Lỗi khi xóa ánh xạ",
   
   // "collection.edit.item-mapper.notifications.unmap.success.content": "Successfully removed the mappings of {{amount}} items.",
-  "collection.edit.item-mapper.notifications.unmap.success.content": "Successfully removed the mappings of {{amount}} items.",
+  "collection.edit.item-mapper.notifications.unmap.success.content": "Đã xóa thành công ánh xạ của {{amount}} mục.",
   
   // "collection.edit.item-mapper.notifications.unmap.success.head": "Remove mapping completed",
-  "collection.edit.item-mapper.notifications.unmap.success.head": "Remove mapping completed",
+  "collection.edit.item-mapper.notifications.unmap.success.head": "Xóa ánh xạ đã hoàn tất",
   
   // "collection.edit.item-mapper.remove": "Remove selected item mappings",
-  "collection.edit.item-mapper.remove": "Remove selected item mappings",
+  "collection.edit.item-mapper.remove": "Xóa ánh xạ mục đã chọn",
   
   // "collection.edit.item-mapper.search-form.placeholder": "Search items...",
-  "collection.edit.item-mapper.search-form.placeholder": "Search items...",
+  "collection.edit.item-mapper.search-form.placeholder": "Tìm kiếm các mục...",
   
   // "collection.edit.item-mapper.tabs.browse": "Browse mapped items",
-  "collection.edit.item-mapper.tabs.browse": "Browse mapped items",
+  "collection.edit.item-mapper.tabs.browse": "BDuyệt qua các mục được ánh xạ",
   
   // "collection.edit.item-mapper.tabs.map": "Map new items",
-  "collection.edit.item-mapper.tabs.map": "Map new items",
+  "collection.edit.item-mapper.tabs.map": "Ánh xạ các mục mới",
   
   
   
   // "collection.edit.logo.delete.title": "Delete logo",
-  "collection.edit.logo.delete.title": "Delete logo",
+  "collection.edit.logo.delete.title": "Xóa biểu trượng",
   
   // "collection.edit.logo.delete-undo.title": "Undo delete",
-  "collection.edit.logo.delete-undo.title": "Undo delete",
+  "collection.edit.logo.delete-undo.title": "Hoàn tác xóa",
   
   // "collection.edit.logo.label": "Collection logo",
-  "collection.edit.logo.label": "Collection logo",
+  "collection.edit.logo.label": "Biểu tượng bộ sưu tập",
   
   // "collection.edit.logo.notifications.add.error": "Uploading Collection logo failed. Please verify the content before retrying.",
-  "collection.edit.logo.notifications.add.error": "Uploading Collection logo failed. Please verify the content before retrying.",
+  "collection.edit.logo.notifications.add.error": "Tải lên biểu tượng Bộ sưu tập không thành công. Vui lòng xác minh nội dung trước khi thử lại.",
   
   // "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
-  "collection.edit.logo.notifications.add.success": "Upload Collection logo successful.",
+  "collection.edit.logo.notifications.add.success": "Tải lên biểu tượng Bộ sưu tập thành công.",
   
   // "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
-  "collection.edit.logo.notifications.delete.success.title": "Logo deleted",
+  "collection.edit.logo.notifications.delete.success.title": "Đã xóa biểu tượng",
   
   // "collection.edit.logo.notifications.delete.success.content": "Successfully deleted the collection's logo",
-  "collection.edit.logo.notifications.delete.success.content": "Successfully deleted the collection's logo",
+  "collection.edit.logo.notifications.delete.success.content": "Đã xóa thành công biểu tượng của bộ sưu tập",
   
   // "collection.edit.logo.notifications.delete.error.title": "Error deleting logo",
-  "collection.edit.logo.notifications.delete.error.title": "Error deleting logo",
+  "collection.edit.logo.notifications.delete.error.title": "Lỗi xóa biểu tượng",
   
   // "collection.edit.logo.upload": "Drop a Collection Logo to upload",
-  "collection.edit.logo.upload": "Drop a Collection Logo to upload",
+  "collection.edit.logo.upload": "Kéo thả biểu tượng Bộ sưu tập để tải lên",
   
   
   
   // "collection.edit.notifications.success": "Successfully edited the Collection",
-  "collection.edit.notifications.success": "Successfully edited the Collection",
+  "collection.edit.notifications.success": "Chỉnh sửa thành công Bộ sưu tập",
   
   // "collection.edit.return": "Back",
-  "collection.edit.return": "Back",
+  "collection.edit.return": "Lùi",
   
   
   
