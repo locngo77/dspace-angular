@@ -318,197 +318,197 @@
   "admin.access-control.epeople.head": "EPeople",
   
   // "admin.access-control.epeople.search.head": "Search",
-  "admin.access-control.epeople.search.head": "Search",
+  "admin.access-control.epeople.search.head": "Tìm kiếm",
   
   // "admin.access-control.epeople.button.see-all": "Browse All",
-  "admin.access-control.epeople.button.see-all": "Browse All",
+  "admin.access-control.epeople.button.see-all": "Duyệt tất cả",
   
   // "admin.access-control.epeople.search.scope.metadata": "Metadata",
-  "admin.access-control.epeople.search.scope.metadata": "Metadata",
+  "admin.access-control.epeople.search.scope.metadata": "Siêu dữ liệu",
   
   // "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
-  "admin.access-control.epeople.search.scope.email": "E-mail (exact)",
+  "admin.access-control.epeople.search.scope.email": "E-mail (chính xác)",
   
   // "admin.access-control.epeople.search.button": "Search",
-  "admin.access-control.epeople.search.button": "Search",
+  "admin.access-control.epeople.search.button": "Tìm kiếm",
   
   // "admin.access-control.epeople.search.placeholder": "Search people...",
-  "admin.access-control.epeople.search.placeholder": "Search people...",
+  "admin.access-control.epeople.search.placeholder": "Tìm kiếm người dùng...",
   
   // "admin.access-control.epeople.button.add": "Add EPerson",
-  "admin.access-control.epeople.button.add": "Add EPerson",
+  "admin.access-control.epeople.button.add": "Thêm EPerson",
   
   // "admin.access-control.epeople.table.id": "ID",
   "admin.access-control.epeople.table.id": "ID",
   
   // "admin.access-control.epeople.table.name": "Name",
-  "admin.access-control.epeople.table.name": "Name",
+  "admin.access-control.epeople.table.name": "Tên",
   
   // "admin.access-control.epeople.table.email": "E-mail (exact)",
-  "admin.access-control.epeople.table.email": "E-mail (exact)",
+  "admin.access-control.epeople.table.email": "E-mail (chính xác)",
   
   // "admin.access-control.epeople.table.edit": "Edit",
-  "admin.access-control.epeople.table.edit": "Edit",
+  "admin.access-control.epeople.table.edit": "Sửa",
   
   // "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
-  "admin.access-control.epeople.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.edit": "Sửa \"{{name}}\"",
   
   // "admin.access-control.epeople.table.edit.buttons.edit-disabled": "You are not authorized to edit this group",
-  "admin.access-control.epeople.table.edit.buttons.edit-disabled": "You are not authorized to edit this group",
+  "admin.access-control.epeople.table.edit.buttons.edit-disabled": "Bạn không được phép chỉnh sửa nhóm này",
   
   // "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
-  "admin.access-control.epeople.table.edit.buttons.remove": "Delete \"{{name}}\"",
+  "admin.access-control.epeople.table.edit.buttons.remove": "Xóa \"{{name}}\"",
   
   // "admin.access-control.epeople.no-items": "No EPeople to show.",
-  "admin.access-control.epeople.no-items": "No EPeople to show.",
+  "admin.access-control.epeople.no-items": "Không có EPeople nào để hiển thị.",
   
   // "admin.access-control.epeople.form.create": "Create EPerson",
-  "admin.access-control.epeople.form.create": "Create EPerson",
+  "admin.access-control.epeople.form.create": "Tạo EPerson",
   
   // "admin.access-control.epeople.form.edit": "Edit EPerson",
-  "admin.access-control.epeople.form.edit": "Edit EPerson",
+  "admin.access-control.epeople.form.edit": "Sửa EPerson",
   
   // "admin.access-control.epeople.form.firstName": "First name",
-  "admin.access-control.epeople.form.firstName": "First name",
+  "admin.access-control.epeople.form.firstName": "Họ",
   
   // "admin.access-control.epeople.form.lastName": "Last name",
-  "admin.access-control.epeople.form.lastName": "Last name",
+  "admin.access-control.epeople.form.lastName": "Tên",
   
   // "admin.access-control.epeople.form.email": "E-mail",
   "admin.access-control.epeople.form.email": "E-mail",
   
   // "admin.access-control.epeople.form.emailHint": "Must be valid e-mail address",
-  "admin.access-control.epeople.form.emailHint": "Must be valid e-mail address",
+  "admin.access-control.epeople.form.emailHint": "Địa chỉ email phải hợp lệ",
   
   // "admin.access-control.epeople.form.canLogIn": "Can log in",
-  "admin.access-control.epeople.form.canLogIn": "Can log in",
+  "admin.access-control.epeople.form.canLogIn": "Có thể đăng nhập",
   
   // "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
-  "admin.access-control.epeople.form.requireCertificate": "Requires certificate",
+  "admin.access-control.epeople.form.requireCertificate": "Yêu cầu chứng chỉ",
   
   // "admin.access-control.epeople.form.return": "Back",
-  "admin.access-control.epeople.form.return": "Back",
+  "admin.access-control.epeople.form.return": "Lùi",
   
   // "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.created.success": "Successfully created EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.success": "Đã tạo thành công EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.created.failure": "Failed to create EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.created.failure": "Không thể tạo EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
-  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Failed to create EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.created.failure.emailInUse": "Không thể tạo EPerson \"{{name}}\", email \"{{email}}\" đã được sử dụng.",
   
   // "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
-  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Failed to edit EPerson \"{{name}}\", email \"{{email}}\" already in use.",
+  "admin.access-control.epeople.form.notification.edited.failure.emailInUse": "Không thể sửa EPerson \"{{name}}\", email \"{{email}}\" đã được sử dụng.",
   
   // "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.edited.success": "Successfully edited EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.success": "Đã chỉnh sửa thành công EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.edited.failure": "Failed to edit EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.edited.failure": "Không thể chỉnh sửa EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.deleted.success": "Successfully deleted EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.success": "Đã xóa thành công EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
-  "admin.access-control.epeople.form.notification.deleted.failure": "Failed to delete EPerson \"{{name}}\"",
+  "admin.access-control.epeople.form.notification.deleted.failure": "Không xóa được EPerson \"{{name}}\"",
   
   // "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
-  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Member of these groups:",
+  "admin.access-control.epeople.form.groupsEPersonIsMemberOf": "Thành viên của các nhóm này:",
   
   // "admin.access-control.epeople.form.table.id": "ID",
   "admin.access-control.epeople.form.table.id": "ID",
   
   // "admin.access-control.epeople.form.table.name": "Name",
-  "admin.access-control.epeople.form.table.name": "Name",
+  "admin.access-control.epeople.form.table.name": "Tên",
   
   // "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
-  "admin.access-control.epeople.form.memberOfNoGroups": "This EPerson is not a member of any groups",
+  "admin.access-control.epeople.form.memberOfNoGroups": "EPerson này không phải là thành viên của bất kỳ nhóm nào",
   
   // "admin.access-control.epeople.form.goToGroups": "Add to groups",
-  "admin.access-control.epeople.form.goToGroups": "Add to groups",
+  "admin.access-control.epeople.form.goToGroups": "Thêm vào nhóm",
   
   // "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
-  "admin.access-control.epeople.notification.deleted.failure": "Failed to delete EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.failure": "Không thể xóa EPerson: \"{{name}}\"",
   
   // "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
-  "admin.access-control.epeople.notification.deleted.success": "Successfully deleted EPerson: \"{{name}}\"",
+  "admin.access-control.epeople.notification.deleted.success": "Đã xóa thành công EPerson: \"{{name}}\"",
   
   
   
   // "admin.access-control.groups.title": "Groups",
-  "admin.access-control.groups.title": "Groups",
+  "admin.access-control.groups.title": "Các nhóm",
   
   // "admin.access-control.groups.breadcrumbs": "Groups",
-  "admin.access-control.groups.breadcrumbs": "Groups",
+  "admin.access-control.groups.breadcrumbs": "Các nhóm",
   
   // "admin.access-control.groups.singleGroup.breadcrumbs": "Edit Group",
-  "admin.access-control.groups.singleGroup.breadcrumbs": "Edit Group",
+  "admin.access-control.groups.singleGroup.breadcrumbs": "Sửa nhóm",
   
   // "admin.access-control.groups.title.singleGroup": "Edit Group",
-  "admin.access-control.groups.title.singleGroup": "Edit Group",
+  "admin.access-control.groups.title.singleGroup": "Sửa nhóm",
   
   // "admin.access-control.groups.title.addGroup": "New Group",
-  "admin.access-control.groups.title.addGroup": "New Group",
+  "admin.access-control.groups.title.addGroup": "Nhóm mới",
   
   // "admin.access-control.groups.addGroup.breadcrumbs": "New Group",
-  "admin.access-control.groups.addGroup.breadcrumbs": "New Group",
+  "admin.access-control.groups.addGroup.breadcrumbs": "Nhóm mới",
   
   // "admin.access-control.groups.head": "Groups",
-  "admin.access-control.groups.head": "Groups",
+  "admin.access-control.groups.head": "Các nhóm",
   
   // "admin.access-control.groups.button.add": "Add group",
-  "admin.access-control.groups.button.add": "Add group",
+  "admin.access-control.groups.button.add": "Thêm nhóm",
   
   // "admin.access-control.groups.search.head": "Search groups",
-  "admin.access-control.groups.search.head": "Search groups",
+  "admin.access-control.groups.search.head": "Tìm kiếm nhóm",
   
   // "admin.access-control.groups.button.see-all": "Browse all",
-  "admin.access-control.groups.button.see-all": "Browse all",
+  "admin.access-control.groups.button.see-all": "Duyệt tất cả",
   
   // "admin.access-control.groups.search.button": "Search",
-  "admin.access-control.groups.search.button": "Search",
+  "admin.access-control.groups.search.button": "Tìm kiếm",
   
   // "admin.access-control.groups.search.placeholder": "Search groups...",
-  "admin.access-control.groups.search.placeholder": "Search groups...",
+  "admin.access-control.groups.search.placeholder": "Tìm kiếm các nhóm...",
   
   // "admin.access-control.groups.table.id": "ID",
   "admin.access-control.groups.table.id": "ID",
   
   // "admin.access-control.groups.table.name": "Name",
-  "admin.access-control.groups.table.name": "Name",
+  "admin.access-control.groups.table.name": "Tên",
   
   // "admin.access-control.groups.table.members": "Members",
-  "admin.access-control.groups.table.members": "Members",
+  "admin.access-control.groups.table.members": "Các thành viên",
   
   // "admin.access-control.groups.table.edit": "Edit",
-  "admin.access-control.groups.table.edit": "Edit",
+  "admin.access-control.groups.table.edit": "Sửa",
   
   // "admin.access-control.groups.table.edit.buttons.edit": "Edit \"{{name}}\"",
-  "admin.access-control.groups.table.edit.buttons.edit": "Edit \"{{name}}\"",
+  "admin.access-control.groups.table.edit.buttons.edit": "Sửa \"{{name}}\"",
   
   // "admin.access-control.groups.table.edit.buttons.remove": "Delete \"{{name}}\"",
-  "admin.access-control.groups.table.edit.buttons.remove": "Delete \"{{name}}\"",
+  "admin.access-control.groups.table.edit.buttons.remove": "Xóa \"{{name}}\"",
   
   // "admin.access-control.groups.no-items": "No groups found with this in their name or this as UUID",
-  "admin.access-control.groups.no-items": "No groups found with this in their name or this as UUID",
+  "admin.access-control.groups.no-items": "Không tìm thấy nhóm nào có tên là UUID",
   
   // "admin.access-control.groups.notification.deleted.success": "Successfully deleted group \"{{name}}\"",
-  "admin.access-control.groups.notification.deleted.success": "Successfully deleted group \"{{name}}\"",
+  "admin.access-control.groups.notification.deleted.success": "Đã xóa thành công nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.notification.deleted.failure.title": "Failed to delete group \"{{name}}\"",
-  "admin.access-control.groups.notification.deleted.failure.title": "Failed to delete group \"{{name}}\"",
+  "admin.access-control.groups.notification.deleted.failure.title": "Không thể xóa nhóm \"{{name}}\"",
   
   // "admin.access-control.groups.notification.deleted.failure.content": "Cause: \"{{cause}}\"",
-  "admin.access-control.groups.notification.deleted.failure.content": "Cause: \"{{cause}}\"",
+  "admin.access-control.groups.notification.deleted.failure.content": "Nguyên nhân: \"{{cause}}\"",
   
   
   
   // "admin.access-control.groups.form.alert.permanent": "This group is permanent, so it can't be edited or deleted. You can still add and remove group members using this page.",
-  "admin.access-control.groups.form.alert.permanent": "This group is permanent, so it can't be edited or deleted. You can still add and remove group members using this page.",
+  "admin.access-control.groups.form.alert.permanent": "Nhóm này tồn tại vĩnh viễn nên không thể chỉnh sửa hoặc xóa. Bạn vẫn có thể thêm và xóa thành viên nhóm bằng trang này.",
   
   // "admin.access-control.groups.form.alert.workflowGroup": "This group can’t be modified or deleted because it corresponds to a role in the submission and workflow process in the \"{{name}}\" {{comcol}}. You can delete it from the <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> tab on the edit {{comcol}} page. You can still add and remove group members using this page.",
-  "admin.access-control.groups.form.alert.workflowGroup": "This group can’t be modified or deleted because it corresponds to a role in the submission and workflow process in the \"{{name}}\" {{comcol}}. You can delete it from the <a href='{{comcolEditRolesRoute}}'>\"assign roles\"</a> tab on the edit {{comcol}} page. You can still add and remove group members using this page.",
+  "admin.access-control.groups.form.alert.workflowGroup": "Không thể sửa đổi hoặc xóa nhóm này vì nó tương ứng với một vai trò trong quy trình gửi và quy trình làm việc trong \"{{name}}\" {{comcol}}. Bạn có thể xóa nó khỏi tab <a href='{{comcolEditRolesRoute}}'>\"gán vai trò\"</a> trên trang chỉnh sửa {{comcol}}. Bạn vẫn có thể thêm và xóa thành viên nhóm bằng trang này.",
   
   // "admin.access-control.groups.form.head.create": "Create group",
   "admin.access-control.groups.form.head.create": "Create group",
