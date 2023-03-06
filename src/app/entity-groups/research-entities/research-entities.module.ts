@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { NgbTooltipModule } from '@ng-bootstrap/ng-bootstrap';
 import { SharedModule } from '../../shared/shared.module';
 import { OrgUnitComponent } from './item-pages/org-unit/org-unit.component';
 import { PersonComponent } from './item-pages/person/person.component';
@@ -27,6 +28,9 @@ import { ExternalSourceEntryListSubmissionElementComponent } from './submission/
 import { OrgUnitSidebarSearchListElementComponent } from './item-list-elements/sidebar-search-list-elements/org-unit/org-unit-sidebar-search-list-element.component';
 import { PersonSidebarSearchListElementComponent } from './item-list-elements/sidebar-search-list-elements/person/person-sidebar-search-list-element.component';
 import { ProjectSidebarSearchListElementComponent } from './item-list-elements/sidebar-search-list-elements/project/project-sidebar-search-list-element.component';
+import { ItemSharedModule } from '../../item-page/item-shared.module';
+import { ResultsBackButtonModule } from '../../shared/results-back-button/results-back-button.module';
+import { DsoPageModule } from '../../shared/dso-page/dso-page.module';
 
 const ENTRY_COMPONENTS = [
 // put only entry components that use custom decorator
@@ -65,7 +69,11 @@ const COMPONENTS = [
 @NgModule({
   imports: [
     CommonModule,
-    SharedModule
+    ItemSharedModule,
+    SharedModule,
+    NgbTooltipModule,
+    ResultsBackButtonModule,
+    DsoPageModule,
   ],
   declarations: [
     ...COMPONENTS,
@@ -74,12 +82,12 @@ const COMPONENTS = [
 export class ResearchEntitiesModule {
   /**
    * NOTE: this method allows to resolve issue with components that using a custom decorator
-   * which are not loaded during CSR otherwise
+   * which are not loaded during SSR otherwise
    */
   static withEntryComponents() {
     return {
       ngModule: ResearchEntitiesModule,
-      providers: ENTRY_COMPONENTS.map((component) => ({provide: component}))
+      providers: ENTRY_COMPONENTS.map((component) => ({ provide: component }))
     };
   }
 }

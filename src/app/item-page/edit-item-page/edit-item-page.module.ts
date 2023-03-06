@@ -1,5 +1,8 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
+
+import { NgbTooltipModule, NgbModule } from '@ng-bootstrap/ng-bootstrap';
+
 import { SharedModule } from '../../shared/shared.module';
 import { EditItemPageRoutingModule } from './edit-item-page.routing.module';
 import { EditItemPageComponent } from './edit-item-page.component';
@@ -11,8 +14,6 @@ import { AbstractSimpleItemActionComponent } from './simple-item-action/abstract
 import { ItemPrivateComponent } from './item-private/item-private.component';
 import { ItemPublicComponent } from './item-public/item-public.component';
 import { ItemDeleteComponent } from './item-delete/item-delete.component';
-import { ItemMetadataComponent } from './item-metadata/item-metadata.component';
-import { EditInPlaceFieldComponent } from './item-metadata/edit-in-place-field/edit-in-place-field.component';
 import { ItemBitstreamsComponent } from './item-bitstreams/item-bitstreams.component';
 import { ItemEditBitstreamComponent } from './item-bitstreams/item-edit-bitstream/item-edit-bitstream.component';
 import { SearchPageModule } from '../../search-page/search-page.module';
@@ -31,6 +32,13 @@ import { VirtualMetadataComponent } from './virtual-metadata/virtual-metadata.co
 import { ItemVersionHistoryComponent } from './item-version-history/item-version-history.component';
 import { ItemAuthorizationsComponent } from './item-authorizations/item-authorizations.component';
 import { ObjectValuesPipe } from '../../shared/utils/object-values-pipe';
+import { ResourcePoliciesModule } from '../../shared/resource-policies/resource-policies.module';
+import { ItemVersionsModule } from '../versions/item-versions.module';
+import { IdentifierDataService } from '../../core/data/identifier-data.service';
+import { IdentifierDataComponent } from '../../shared/object-list/identifier-data/identifier-data.component';
+import { ItemRegisterDoiComponent } from './item-register-doi/item-register-doi.component';
+import { DsoSharedModule } from '../../dso-shared/dso-shared.module';
+
 
 /**
  * Module that contains all components related to the Edit Item page administrator functionality
@@ -39,9 +47,14 @@ import { ObjectValuesPipe } from '../../shared/utils/object-values-pipe';
   imports: [
     CommonModule,
     SharedModule,
+    NgbTooltipModule,
     EditItemPageRoutingModule,
     SearchPageModule,
-    DragDropModule
+    DragDropModule,
+    ResourcePoliciesModule,
+    NgbModule,
+    ItemVersionsModule,
+    DsoSharedModule,
   ],
   declarations: [
     EditItemPageComponent,
@@ -54,30 +67,27 @@ import { ObjectValuesPipe } from '../../shared/utils/object-values-pipe';
     ItemPublicComponent,
     ItemDeleteComponent,
     ItemStatusComponent,
-    ItemMetadataComponent,
     ItemRelationshipsComponent,
     ItemBitstreamsComponent,
     ItemVersionHistoryComponent,
-    EditInPlaceFieldComponent,
     ItemEditBitstreamComponent,
     ItemEditBitstreamBundleComponent,
     PaginatedDragAndDropBitstreamListComponent,
-    EditInPlaceFieldComponent,
     EditRelationshipComponent,
     EditRelationshipListComponent,
     ItemCollectionMapperComponent,
     ItemMoveComponent,
     ItemEditBitstreamDragHandleComponent,
     VirtualMetadataComponent,
-    ItemAuthorizationsComponent
+    ItemAuthorizationsComponent,
+    IdentifierDataComponent,
+    ItemRegisterDoiComponent
   ],
   providers: [
     BundleDataService,
+    IdentifierDataService,
     ObjectValuesPipe
   ],
-  exports: [
-    ItemMetadataComponent
-  ]
 })
 export class EditItemPageModule {
 

@@ -1,20 +1,24 @@
 import { first } from 'rxjs/operators';
 import { BrowseByGuard } from './browse-by-guard';
 import { of as observableOf } from 'rxjs';
+import { createSuccessfulRemoteDataObject$ } from '../shared/remote-data.utils';
+import { BrowseDefinition } from '../core/shared/browse-definition.model';
+import { BrowseByDataType } from './browse-by-switcher/browse-by-decorator';
 
 describe('BrowseByGuard', () => {
   describe('canActivate', () => {
     let guard: BrowseByGuard;
     let dsoService: any;
     let translateService: any;
+    let browseDefinitionService: any;
 
     const name = 'An interesting DSO';
     const title = 'Author';
     const field = 'Author';
     const id = 'author';
-    const metadataField = 'dc.contributor';
     const scope = '1234-65487-12354-1235';
     const value = 'Filter';
+    const browseDefinition = Object.assign(new BrowseDefinition(), { type: BrowseByDataType.Metadata, metadataKeys: ['dc.contributor'] });
 
     beforeEach(() => {
       dsoService = {
@@ -24,14 +28,19 @@ describe('BrowseByGuard', () => {
       translateService = {
         instant: () => field
       };
-      guard = new BrowseByGuard(dsoService, translateService);
+
+      browseDefinitionService = {
+        findById: () => createSuccessfulRemoteDataObject$(browseDefinition)
+      };
+
+      guard = new BrowseByGuard(dsoService, translateService, browseDefinitionService);
     });
 
     it('should return true, and sets up the data correctly, with a scope and value', () => {
       const scopedRoute = {
         data: {
           title: field,
-          metadataField,
+          browseDefinition,
         },
         params: {
           id,
@@ -48,7 +57,7 @@ describe('BrowseByGuard', () => {
             const result = {
               title,
               id,
-              metadataField,
+              browseDefinition,
               collection: name,
               field,
               value: '"' + value + '"'
@@ -63,7 +72,7 @@ describe('BrowseByGuard', () => {
       const scopedNoValueRoute = {
         data: {
           title: field,
-          metadataField,
+          browseDefinition,
         },
         params: {
           id,
@@ -80,7 +89,7 @@ describe('BrowseByGuard', () => {
             const result = {
               title,
               id,
-              metadataField,
+              browseDefinition,
               collection: name,
               field,
               value: ''
@@ -95,7 +104,7 @@ describe('BrowseByGuard', () => {
       const route = {
         data: {
           title: field,
-          metadataField,
+          browseDefinition,
         },
         params: {
           id,
@@ -111,7 +120,7 @@ describe('BrowseByGuard', () => {
             const result = {
               title,
               id,
-              metadataField,
+              browseDefinition,
               collection: '',
               field,
               value: '"' + value + '"'

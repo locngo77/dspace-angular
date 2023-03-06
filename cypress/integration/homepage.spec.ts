@@ -1,3 +1,5 @@
+import { testA11y } from 'cypress/support/utils';
+
 describe('Homepage', () => {
   beforeEach(() => {
     // All tests start with visiting homepage
@@ -14,24 +16,17 @@ describe('Homepage', () => {
 
   it('should have a working search box', () => {
     const queryString = 'test';
-    cy.get('ds-search-form input[name="query"]').type(queryString);
-    cy.get('ds-search-form button.search-button').click();
+    cy.get('[data-test="search-box"]').type(queryString);
+    cy.get('[data-test="search-button"]').click();
     cy.url().should('include', '/search');
     cy.url().should('include', 'query=' + encodeURI(queryString));
   });
 
-  // it('should pass accessibility tests', () => {
-  //   // first must inject Axe into current page
-  //   cy.injectAxe();
+  it('should pass accessibility tests', () => {
+    // Wait for homepage tag to appear
+    cy.get('ds-home-page').should('be.visible');
 
-  //   // Analyze entire page for accessibility issues
-  //   // NOTE: this test checks accessibility of header/footer as well
-  //   cy.checkA11y({
-  //     exclude: [
-  //       ['#klaro'],                   // Klaro plugin (privacy policy popup) has color contrast issues
-  //       ['#search-navbar-container'], // search in navbar has duplicative ID. Will be fixed in #1174
-  //       ['.dropdownLogin']            // "Log in" link in header has color contrast issues
-  //     ],
-  //   });
-  // });
+    // Analyze <ds-home-page> for accessibility issues
+    testA11y('ds-home-page');
+  });
 });

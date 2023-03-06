@@ -2,22 +2,20 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { CoreModule } from '../core/core.module';
 import { SharedModule } from '../shared/shared.module';
-import { SearchComponent } from './search.component';
 import { SidebarService } from '../shared/sidebar/sidebar.service';
 import { ConfigurationSearchPageGuard } from './configuration-search-page.guard';
 import { SearchTrackerComponent } from './search-tracker.component';
 import { StatisticsModule } from '../statistics/statistics.module';
 import { SearchPageComponent } from './search-page.component';
-import { SidebarFilterService } from '../shared/sidebar/filter/sidebar-filter.service';
 import { SearchFilterService } from '../core/shared/search/search-filter.service';
 import { SearchConfigurationService } from '../core/shared/search/search-configuration.service';
 import { JournalEntitiesModule } from '../entity-groups/journal-entities/journal-entities.module';
 import { ResearchEntitiesModule } from '../entity-groups/research-entities/research-entities.module';
 import { ThemedSearchPageComponent } from './themed-search-page.component';
+import { SearchModule } from '../shared/search/search.module';
 
 const components = [
   SearchPageComponent,
-  SearchComponent,
   SearchTrackerComponent,
   ThemedSearchPageComponent
 ];
@@ -25,6 +23,7 @@ const components = [
 @NgModule({
   imports: [
     CommonModule,
+    SearchModule,
     SharedModule.withEntryComponents(),
     CoreModule.forRoot(),
     StatisticsModule.forRoot(),
@@ -34,7 +33,6 @@ const components = [
   declarations: components,
   providers: [
     SidebarService,
-    SidebarFilterService,
     SearchFilterService,
     ConfigurationSearchPageGuard,
     SearchConfigurationService
