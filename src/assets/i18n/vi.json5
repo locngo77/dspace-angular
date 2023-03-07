@@ -2759,7 +2759,7 @@
   "item.page.related-items.view-more": "Hiển thị thêm {{ amount }}",
   
   // "item.page.related-items.view-less": "Hide last {{ amount }}",
-  "item.page.related-items.view-less": "Hide last {{ amount }}",
+  "item.page.related-items.view-less": "Ẩn lần cuối {{ amount }}",
   
   // "item.page.relationships.isAuthorOfPublication": "Publications",
   "item.page.relationships.isAuthorOfPublication": "Ấn phẩm",
@@ -3175,127 +3175,127 @@
   "menu.section.icon.export": "Xuất trình đơn",
   
   // "menu.section.icon.find": "Find menu section",
-  "menu.section.icon.find": "Find menu section",
+  "menu.section.icon.find": "Phần menu tìm kiếm",
   
   // "menu.section.icon.import": "Import menu section",
-  "menu.section.icon.import": "Import menu section",
+  "menu.section.icon.import": "Phần menu nhập",
   
   // "menu.section.icon.new": "New menu section",
-  "menu.section.icon.new": "New menu section",
+  "menu.section.icon.new": "Phần menu mới",
   
   // "menu.section.icon.pin": "Pin sidebar",
-  "menu.section.icon.pin": "Pin sidebar",
+  "menu.section.icon.pin": "Ghim lên sidebar",
   
   // "menu.section.icon.processes": "Processes menu section",
-  "menu.section.icon.processes": "Processes menu section",
+  "menu.section.icon.processes": "Phần menu quy trình",
   
   // "menu.section.icon.registries": "Registries menu section",
-  "menu.section.icon.registries": "Registries menu section",
+  "menu.section.icon.registries": "Phần menu đăng ký ",
   
   // "menu.section.icon.statistics_task": "Statistics Task menu section",
-  "menu.section.icon.statistics_task": "Statistics Task menu section",
+  "menu.section.icon.statistics_task": "Phần menu Nhiệm vụ thống kê",
   
   // "menu.section.icon.unpin": "Unpin sidebar",
-  "menu.section.icon.unpin": "Unpin sidebar",
+  "menu.section.icon.unpin": "Bỏ ghim sidebar",
   
   
   
   // "menu.section.import": "Import",
-  "menu.section.import": "Import",
+  "menu.section.import": "Nhập",
   
   // "menu.section.import_batch": "Batch Import (ZIP)",
-  "menu.section.import_batch": "Batch Import (ZIP)",
+  "menu.section.import_batch": "Nhập hàng loạt (ZIP)",
   
   // "menu.section.import_metadata": "Metadata",
-  "menu.section.import_metadata": "Metadata",
+  "menu.section.import_metadata": "Siêu dữ liệu",
   
   
   
   // "menu.section.new": "New",
-  "menu.section.new": "New",
+  "menu.section.new": "Mới",
   
   // "menu.section.new_collection": "Collection",
-  "menu.section.new_collection": "Collection",
+  "menu.section.new_collection": "Bộ sưu tập",
   
   // "menu.section.new_community": "Community",
-  "menu.section.new_community": "Community",
+  "menu.section.new_community": "Cộng đồng",
   
   // "menu.section.new_item": "Item",
-  "menu.section.new_item": "Item",
+  "menu.section.new_item": "Mục",
   
   // "menu.section.new_item_version": "Item Version",
-  "menu.section.new_item_version": "Item Version",
+  "menu.section.new_item_version": "Phiên bản mục/ấn phẩm",
   
   // "menu.section.new_process": "Process",
-  "menu.section.new_process": "Process",
+  "menu.section.new_process": "Quá trình",
   
   
   
   // "menu.section.pin": "Pin sidebar",
-  "menu.section.pin": "Pin sidebar",
+  "menu.section.pin": "Ghim lên sidebar",
   
   // "menu.section.unpin": "Unpin sidebar",
-  "menu.section.unpin": "Unpin sidebar",
+  "menu.section.unpin": "Bỏ ghi sidebar",
   
   
   
   // "menu.section.processes": "Processes",
-  "menu.section.processes": "Processes",
+  "menu.section.processes": "Quá trình",
   
   
   
   // "menu.section.registries": "Registries",
-  "menu.section.registries": "Registries",
+  "menu.section.registries": "Đăng ký",
   
   // "menu.section.registries_format": "Format",
-  "menu.section.registries_format": "Format",
+  "menu.section.registries_format": "Định dạng",
   
   // "menu.section.registries_metadata": "Metadata",
-  "menu.section.registries_metadata": "Metadata",
+  "menu.section.registries_metadata": "Siêu dữ liệu",
   
   
   
   // "menu.section.statistics": "Statistics",
-  "menu.section.statistics": "Statistics",
+  "menu.section.statistics": "Thống kê",
   
   // "menu.section.statistics_task": "Statistics Task",
-  "menu.section.statistics_task": "Statistics Task",
+  "menu.section.statistics_task": "Thống kê nhiệm vụ",
   
   
   
   // "menu.section.toggle.access_control": "Toggle Access Control section",
-  "menu.section.toggle.access_control": "Toggle Access Control section",
+  "menu.section.toggle.access_control": "Chuyển đổi Kiểm soát truy cập",
   
   // "menu.section.toggle.control_panel": "Toggle Control Panel section",
-  "menu.section.toggle.control_panel": "Toggle Control Panel section",
+  "menu.section.toggle.control_panel": "Chuyển đổi Bảng điều khiển",
   
   // "menu.section.toggle.curation_task": "Toggle Curation Task section",
-  "menu.section.toggle.curation_task": "Toggle Curation Task section",
+  "menu.section.toggle.curation_task": "Chuyển đổi Nhiệm vụ giám tuyển",
   
   // "menu.section.toggle.edit": "Toggle Edit section",
-  "menu.section.toggle.edit": "Toggle Edit section",
+  "menu.section.toggle.edit": "Chuyển đổi phần Chỉnh sửa",
   
   // "menu.section.toggle.export": "Toggle Export section",
-  "menu.section.toggle.export": "Toggle Export section",
+  "menu.section.toggle.export": "Chuyển đổi phần Xuất",
   
   // "menu.section.toggle.find": "Toggle Find section",
-  "menu.section.toggle.find": "Toggle Find section",
+  "menu.section.toggle.find": "Chuyển đổi phần Tìm kiếm",
   
   // "menu.section.toggle.import": "Toggle Import section",
-  "menu.section.toggle.import": "Toggle Import section",
+  "menu.section.toggle.import": "Chuyển đổi phần Nhập",
   
   // "menu.section.toggle.new": "Toggle New section",
-  "menu.section.toggle.new": "Toggle New section",
+  "menu.section.toggle.new": "Chuyển đổi phần Mới",
   
   // "menu.section.toggle.registries": "Toggle Registries section",
-  "menu.section.toggle.registries": "Toggle Registries section",
+  "menu.section.toggle.registries": "Chuyển đổi phần Đăng ký",
   
   // "menu.section.toggle.statistics_task": "Toggle Statistics Task section",
-  "menu.section.toggle.statistics_task": "Toggle Statistics Task section",
+  "menu.section.toggle.statistics_task": "Chuyển đổi phần Nhiệm vụ thống kê",
   
   
   // "menu.section.workflow": "Administer Workflow",
-  "menu.section.workflow": "Administer Workflow",
+  "menu.section.workflow": "Quản lý quy trình làm việc",
   
   
   // "mydspace.breadcrumbs": "MyDSpace",
@@ -3305,448 +3305,448 @@
   "mydspace.description": "",
   
   // "mydspace.general.text-here": "here",
-  "mydspace.general.text-here": "here",
+  "mydspace.general.text-here": "đây",
   
   // "mydspace.messages.controller-help": "Select this option to send a message to item's submitter.",
-  "mydspace.messages.controller-help": "Select this option to send a message to item's submitter.",
+  "mydspace.messages.controller-help": "Chọn tùy chọn này để gửi tin nhắn đến người gửi mục.",
   
   // "mydspace.messages.description-placeholder": "Insert your message here...",
-  "mydspace.messages.description-placeholder": "Insert your message here...",
+  "mydspace.messages.description-placeholder": "Chèn tin nhắn của bạn ở đây...",
   
   // "mydspace.messages.hide-msg": "Hide message",
-  "mydspace.messages.hide-msg": "Hide message",
+  "mydspace.messages.hide-msg": "Ẩn tin nhắn",
   
   // "mydspace.messages.mark-as-read": "Mark as read",
-  "mydspace.messages.mark-as-read": "Mark as read",
+  "mydspace.messages.mark-as-read": "Đánh dấu đã đọc",
   
   // "mydspace.messages.mark-as-unread": "Mark as unread",
-  "mydspace.messages.mark-as-unread": "Mark as unread",
+  "mydspace.messages.mark-as-unread": "Đánh dấu chưa đọc",
   
   // "mydspace.messages.no-content": "No content.",
-  "mydspace.messages.no-content": "No content.",
+  "mydspace.messages.no-content": "Không có nội dung.",
   
   // "mydspace.messages.no-messages": "No messages yet.",
-  "mydspace.messages.no-messages": "No messages yet.",
+  "mydspace.messages.no-messages": "Chưa có tin nhắn nào.",
   
   // "mydspace.messages.send-btn": "Send",
-  "mydspace.messages.send-btn": "Send",
+  "mydspace.messages.send-btn": "Gửi",
   
   // "mydspace.messages.show-msg": "Show message",
-  "mydspace.messages.show-msg": "Show message",
+  "mydspace.messages.show-msg": "Hiển thị tin nhắn",
   
   // "mydspace.messages.subject-placeholder": "Subject...",
-  "mydspace.messages.subject-placeholder": "Subject...",
+  "mydspace.messages.subject-placeholder": "Chủ đề...",
   
   // "mydspace.messages.submitter-help": "Select this option to send a message to controller.",
-  "mydspace.messages.submitter-help": "Select this option to send a message to controller.",
+  "mydspace.messages.submitter-help": "Chọn tùy chọn này để gửi tin nhắn đến bộ điều khiển.",
   
   // "mydspace.messages.title": "Messages",
-  "mydspace.messages.title": "Messages",
+  "mydspace.messages.title": "Tin nhắn",
   
   // "mydspace.messages.to": "To",
-  "mydspace.messages.to": "To",
+  "mydspace.messages.to": "Đến",
   
   // "mydspace.new-submission": "New submission",
-  "mydspace.new-submission": "New submission",
+  "mydspace.new-submission": "Đệ trình mới",
   
   // "mydspace.new-submission-external": "Import metadata from external source",
-  "mydspace.new-submission-external": "Import metadata from external source",
+  "mydspace.new-submission-external": "Nhập siêu dữ liệu từ nguồn bên ngoài",
   
   // "mydspace.new-submission-external-short": "Import metadata",
-  "mydspace.new-submission-external-short": "Import metadata",
+  "mydspace.new-submission-external-short": "Nhập siêu dữ liệu",
   
   // "mydspace.results.head": "Your submissions",
-  "mydspace.results.head": "Your submissions",
+  "mydspace.results.head": "Bài nộp của bạn",
   
   // "mydspace.results.no-abstract": "No Abstract",
-  "mydspace.results.no-abstract": "No Abstract",
+  "mydspace.results.no-abstract": "Không có trích yếu",
   
   // "mydspace.results.no-authors": "No Authors",
-  "mydspace.results.no-authors": "No Authors",
+  "mydspace.results.no-authors": "Không có tác giả",
   
   // "mydspace.results.no-collections": "No Collections",
-  "mydspace.results.no-collections": "No Collections",
+  "mydspace.results.no-collections": "Không có bộ sưu tập",
   
   // "mydspace.results.no-date": "No Date",
-  "mydspace.results.no-date": "No Date",
+  "mydspace.results.no-date": "Không có ngày",
   
   // "mydspace.results.no-files": "No Files",
-  "mydspace.results.no-files": "No Files",
+  "mydspace.results.no-files": "Không có tập tin",
   
   // "mydspace.results.no-results": "There were no items to show",
-  "mydspace.results.no-results": "There were no items to show",
+  "mydspace.results.no-results": "Không có mục để hiển thị",
   
   // "mydspace.results.no-title": "No title",
-  "mydspace.results.no-title": "No title",
+  "mydspace.results.no-title": "Không có tiêu đề",
   
   // "mydspace.results.no-uri": "No Uri",
-  "mydspace.results.no-uri": "No Uri",
+  "mydspace.results.no-uri": "Không có Uri",
   
   // "mydspace.search-form.placeholder": "Search in mydspace...",
-  "mydspace.search-form.placeholder": "Search in mydspace...",
+  "mydspace.search-form.placeholder": "Tìm kiếm trong mydspace...",
   
   // "mydspace.show.workflow": "All tasks",
-  "mydspace.show.workflow": "All tasks",
+  "mydspace.show.workflow": "Tất cả nhiệm vụ",
   
   // "mydspace.show.workspace": "Your Submissions",
-  "mydspace.show.workspace": "Your Submissions",
+  "mydspace.show.workspace": "Đệ trình của bạn",
   
   // "mydspace.status.archived": "Archived",
-  "mydspace.status.archived": "Archived",
+  "mydspace.status.archived": "Đã lưu trữ",
   
   // "mydspace.status.validation": "Validation",
-  "mydspace.status.validation": "Validation",
+  "mydspace.status.validation": "Thẩm định",
   
   // "mydspace.status.waiting-for-controller": "Waiting for controller",
-  "mydspace.status.waiting-for-controller": "Waiting for controller",
+  "mydspace.status.waiting-for-controller": "Đang chờ bộ điều khiển",
   
   // "mydspace.status.workflow": "Workflow",
-  "mydspace.status.workflow": "Workflow",
+  "mydspace.status.workflow": "Quy trình làm việc",
   
   // "mydspace.status.workspace": "Workspace",
-  "mydspace.status.workspace": "Workspace",
+  "mydspace.status.workspace": "Không gian làm việc",
   
   // "mydspace.title": "MyDSpace",
   "mydspace.title": "MyDSpace",
   
   // "mydspace.upload.upload-failed": "Error creating new workspace. Please verify the content uploaded before retry.",
-  "mydspace.upload.upload-failed": "Error creating new workspace. Please verify the content uploaded before retry.",
+  "mydspace.upload.upload-failed": "Lỗi khi tạo không gian làm việc mới. Vui lòng xác minh nội dung đã tải lên trước khi thử lại.",
   
   // "mydspace.upload.upload-failed-manyentries": "Unprocessable file. Detected too many entries but allowed only one for file.",
-  "mydspace.upload.upload-failed-manyentries": "Unprocessable file. Detected too many entries but allowed only one for file.",
+  "mydspace.upload.upload-failed-manyentries": "Tệp không thể xử lý. Đã phát hiện quá nhiều mục nhưng chỉ cho phép một mục cho tệp.",
   
   // "mydspace.upload.upload-failed-moreonefile": "Unprocessable request. Only one file is allowed.",
-  "mydspace.upload.upload-failed-moreonefile": "Unprocessable request. Only one file is allowed.",
+  "mydspace.upload.upload-failed-moreonefile": "Yêu cầu không thể xử lý. Chỉ cho phép một tệp.",
   
   // "mydspace.upload.upload-multiple-successful": "{{qty}} new workspace items created.",
-  "mydspace.upload.upload-multiple-successful": "{{qty}} new workspace items created.",
+  "mydspace.upload.upload-multiple-successful": "{{qty}} mục mới được tạo trong không gian làm việc.",
   
   // "mydspace.upload.upload-successful": "New workspace item created. Click {{here}} for edit it.",
-  "mydspace.upload.upload-successful": "New workspace item created. Click {{here}} for edit it.",
+  "mydspace.upload.upload-successful": "Đã tạo mục không gian làm việc mới. Nhấn {{here}} để chỉnh sửa.",
   
   // "mydspace.view-btn": "View",
-  "mydspace.view-btn": "View",
+  "mydspace.view-btn": "Xem",
   
   
   
   // "nav.browse.header": "All of DSpace",
-  "nav.browse.header": "All of DSpace",
+  "nav.browse.header": "Tất cả trong DSpace",
   
   // "nav.community-browse.header": "By Community",
-  "nav.community-browse.header": "By Community",
+  "nav.community-browse.header": "Theo Cộng đồng",
   
   // "nav.language": "Language switch",
-  "nav.language": "Language switch",
+  "nav.language": "Chuyển đổi ngôn ngữ",
   
   // "nav.login": "Log In",
-  "nav.login": "Log In",
+  "nav.login": "Đăng nhập",
   
   // "nav.logout": "User profile menu and Log Out",
-  "nav.logout": "User profile menu and Log Out",
+  "nav.logout": "Hồ sơ người dùng và Đăng xuất",
   
   // "nav.main.description": "Main navigation bar",
-  "nav.main.description": "Main navigation bar",
+  "nav.main.description": "Thanh điều hướng chính",
   
   // "nav.mydspace": "MyDSpace",
   "nav.mydspace": "MyDSpace",
   
   // "nav.profile": "Profile",
-  "nav.profile": "Profile",
+  "nav.profile": "Hồ sơ",
   
   // "nav.search": "Search",
-  "nav.search": "Search",
+  "nav.search": "Tìm kiếm",
   
   // "nav.statistics.header": "Statistics",
-  "nav.statistics.header": "Statistics",
+  "nav.statistics.header": "Thống kê",
   
   // "nav.stop-impersonating": "Stop impersonating EPerson",
-  "nav.stop-impersonating": "Stop impersonating EPerson",
+  "nav.stop-impersonating": "Dừng mạo danh EPerson",
   
   // "nav.toggle" : "Toggle navigation",
-  "nav.toggle" : "Toggle navigation",
+  "nav.toggle" : "Chuyển đổi thanh điều hướng",
   
   // "nav.user.description" : "User profile bar",
-  "nav.user.description" : "User profile bar",
+  "nav.user.description" : "Thanh hồ sơ người dùng",
   
   
   
   // "orgunit.listelement.badge": "Organizational Unit",
-  "orgunit.listelement.badge": "Organizational Unit",
+  "orgunit.listelement.badge": "Đơn vị tổ chức",
   
   // "orgunit.page.city": "City",
-  "orgunit.page.city": "City",
+  "orgunit.page.city": "Thành phố",
   
   // "orgunit.page.country": "Country",
-  "orgunit.page.country": "Country",
+  "orgunit.page.country": "Quốc gia",
   
   // "orgunit.page.dateestablished": "Date established",
-  "orgunit.page.dateestablished": "Date established",
+  "orgunit.page.dateestablished": "Ngày thành lập",
   
   // "orgunit.page.description": "Description",
-  "orgunit.page.description": "Description",
+  "orgunit.page.description": "Mô tả",
   
   // "orgunit.page.edit": "Edit this item",
-  "orgunit.page.edit": "Edit this item",
+  "orgunit.page.edit": "Chỉnh sửa mục này",
   
   // "orgunit.page.id": "ID",
   "orgunit.page.id": "ID",
   
   // "orgunit.page.titleprefix": "Organizational Unit: ",
-  "orgunit.page.titleprefix": "Organizational Unit: ",
+  "orgunit.page.titleprefix": "Đơn vị tổ chức: ",
   
   
   
   // "pagination.options.description": "Pagination options",
-  "pagination.options.description": "Pagination options",
+  "pagination.options.description": "Tùy chọn phân trang",
   
   // "pagination.results-per-page": "Results Per Page",
-  "pagination.results-per-page": "Results Per Page",
+  "pagination.results-per-page": "Kết quả mỗi trang",
   
   // "pagination.showing.detail": "{{ range }} of {{ total }}",
-  "pagination.showing.detail": "{{ range }} of {{ total }}",
+  "pagination.showing.detail": "{{ range }} trên {{ total }}",
   
   // "pagination.showing.label": "Now showing ",
-  "pagination.showing.label": "Now showing ",
+  "pagination.showing.label": "Hiển thị ngay ",
   
   // "pagination.sort-direction": "Sort Options",
-  "pagination.sort-direction": "Sort Options",
+  "pagination.sort-direction": "Tùy chọn sắp xếp",
   
   
   
   // "person.listelement.badge": "Person",
-  "person.listelement.badge": "Person",
+  "person.listelement.badge": "Người dùng",
   
   // "person.listelement.no-title": "No name found",
-  "person.listelement.no-title": "No name found",
+  "person.listelement.no-title": "Không tìm thấy tên",
   
   // "person.page.birthdate": "Birth Date",
-  "person.page.birthdate": "Birth Date",
+  "person.page.birthdate": "Ngày sinh",
   
   // "person.page.edit": "Edit this item",
-  "person.page.edit": "Edit this item",
+  "person.page.edit": "Chỉnh sửa mục này",
   
   // "person.page.email": "Email Address",
-  "person.page.email": "Email Address",
+  "person.page.email": "Địa chỉ email",
   
   // "person.page.firstname": "First Name",
-  "person.page.firstname": "First Name",
+  "person.page.firstname": "Họ",
   
   // "person.page.jobtitle": "Job Title",
-  "person.page.jobtitle": "Job Title",
+  "person.page.jobtitle": "Chức vụ",
   
   // "person.page.lastname": "Last Name",
-  "person.page.lastname": "Last Name",
+  "person.page.lastname": "Tên",
   
   // "person.page.link.full": "Show all metadata",
-  "person.page.link.full": "Show all metadata",
+  "person.page.link.full": "Hiển thị tất cả siêu dữ liệu",
   
   // "person.page.orcid": "ORCID",
   "person.page.orcid": "ORCID",
   
   // "person.page.staffid": "Staff ID",
-  "person.page.staffid": "Staff ID",
+  "person.page.staffid": "ID nhân viên",
   
   // "person.page.titleprefix": "Person: ",
-  "person.page.titleprefix": "Person: ",
+  "person.page.titleprefix": "Người dùng: ",
   
   // "person.search.results.head": "Person Search Results",
-  "person.search.results.head": "Person Search Results",
+  "person.search.results.head": "Kết quả tìm kiếm người dùng",
   
   // "person.search.title": "Person Search",
-  "person.search.title": "Person Search",
+  "person.search.title": "Tìm kiếm người dùng",
   
   
   
   // "process.new.select-parameters": "Parameters",
-  "process.new.select-parameters": "Parameters",
+  "process.new.select-parameters": "Tham số",
   
   // "process.new.cancel": "Cancel",
-  "process.new.cancel": "Cancel",
+  "process.new.cancel": "Hủy",
   
   // "process.new.submit": "Save",
-  "process.new.submit": "Save",
+  "process.new.submit": "Lưu",
   
   // "process.new.select-script": "Script",
-  "process.new.select-script": "Script",
+  "process.new.select-script": "Kịch bản",
   
   // "process.new.select-script.placeholder": "Choose a script...",
-  "process.new.select-script.placeholder": "Choose a script...",
+  "process.new.select-script.placeholder": "Chọn một kịch bản...",
   
   // "process.new.select-script.required": "Script is required",
-  "process.new.select-script.required": "Script is required",
+  "process.new.select-script.required": "Kịch bản là bắt buộc",
   
   // "process.new.parameter.file.upload-button": "Select file...",
-  "process.new.parameter.file.upload-button": "Select file...",
+  "process.new.parameter.file.upload-button": "Chọn tập tin...",
   
   // "process.new.parameter.file.required": "Please select a file",
-  "process.new.parameter.file.required": "Please select a file",
+  "process.new.parameter.file.required": "Vui lòng chọn một tập tin",
   
   // "process.new.parameter.string.required": "Parameter value is required",
-  "process.new.parameter.string.required": "Parameter value is required",
+  "process.new.parameter.string.required": "Giá trị tham số là bắt buộc",
   
   // "process.new.parameter.type.value": "value",
-  "process.new.parameter.type.value": "value",
+  "process.new.parameter.type.value": "Giá trị",
   
   // "process.new.parameter.type.file": "file",
-  "process.new.parameter.type.file": "file",
+  "process.new.parameter.type.file": "tập tin",
   
   // "process.new.parameter.required.missing": "The following parameters are required but still missing:",
-  "process.new.parameter.required.missing": "The following parameters are required but still missing:",
+  "process.new.parameter.required.missing": "Các tham số sau là bắt buộc nhưng vẫn còn thiếu:",
   
   // "process.new.notification.success.title": "Success",
-  "process.new.notification.success.title": "Success",
+  "process.new.notification.success.title": "Thành công",
   
   // "process.new.notification.success.content": "The process was successfully created",
-  "process.new.notification.success.content": "The process was successfully created",
+  "process.new.notification.success.content": "Quá trình đã được tạo thành công",
   
   // "process.new.notification.error.title": "Error",
-  "process.new.notification.error.title": "Error",
+  "process.new.notification.error.title": "Lỗi",
   
   // "process.new.notification.error.content": "An error occurred while creating this process",
-  "process.new.notification.error.content": "An error occurred while creating this process",
+  "process.new.notification.error.content": "Đã xảy ra lỗi khi tạo quy trình này",
   
   // "process.new.header": "Create a new process",
-  "process.new.header": "Create a new process",
+  "process.new.header": "Tạo một quy trình mới",
   
   // "process.new.title": "Create a new process",
-  "process.new.title": "Create a new process",
+  "process.new.title": "Tạo một quy trình mới",
   
   // "process.new.breadcrumbs": "Create a new process",
-  "process.new.breadcrumbs": "Create a new process",
+  "process.new.breadcrumbs": "Tạo một quy trình mới",
   
   
   
   // "process.detail.arguments" : "Arguments",
-  "process.detail.arguments" : "Arguments",
+  "process.detail.arguments" : "Đối số",
   
   // "process.detail.arguments.empty" : "This process doesn't contain any arguments",
-  "process.detail.arguments.empty" : "This process doesn't contain any arguments",
+  "process.detail.arguments.empty" : "Quá trình này không chứa bất kỳ đối số nào",
   
   // "process.detail.back" : "Back",
-  "process.detail.back" : "Back",
+  "process.detail.back" : "Lùi",
   
   // "process.detail.output" : "Process Output",
-  "process.detail.output" : "Process Output",
+  "process.detail.output" : "Đầu ra quy trình",
   
   // "process.detail.logs.button": "Retrieve process output",
-  "process.detail.logs.button": "Retrieve process output",
+  "process.detail.logs.button": "Truy xuất đầu ra của quy trình",
   
   // "process.detail.logs.loading": "Retrieving",
-  "process.detail.logs.loading": "Retrieving",
+  "process.detail.logs.loading": "Truy xuất",
   
   // "process.detail.logs.none": "This process has no output",
-  "process.detail.logs.none": "This process has no output",
+  "process.detail.logs.none": "Quá trình này không có đầu ra",
   
   // "process.detail.output-files" : "Output Files",
-  "process.detail.output-files" : "Output Files",
+  "process.detail.output-files" : "Tập tin đầu ra",
   
   // "process.detail.output-files.empty" : "This process doesn't contain any output files",
-  "process.detail.output-files.empty" : "This process doesn't contain any output files",
+  "process.detail.output-files.empty" : "Quá trình này không chứa bất kỳ tệp đầu ra nào",
   
   // "process.detail.script" : "Script",
-  "process.detail.script" : "Script",
+  "process.detail.script" : "Kịch bản",
   
   // "process.detail.title" : "Process: {{ id }} - {{ name }}",
-  "process.detail.title" : "Process: {{ id }} - {{ name }}",
+  "process.detail.title" : "Quy trình: {{ id }} - {{ name }}",
   
   // "process.detail.start-time" : "Start time",
-  "process.detail.start-time" : "Start time",
+  "process.detail.start-time" : "Thời gian bắt đầu",
   
   // "process.detail.end-time" : "Finish time",
-  "process.detail.end-time" : "Finish time",
+  "process.detail.end-time" : "Thời gian kết thúc",
   
   // "process.detail.status" : "Status",
-  "process.detail.status" : "Status",
+  "process.detail.status" : "Trạng thái",
   
   // "process.detail.create" : "Create similar process",
-  "process.detail.create" : "Create similar process",
+  "process.detail.create" : "Tạo quy trình tương tự",
   
   
   
   // "process.overview.table.finish" : "Finish time",
-  "process.overview.table.finish" : "Finish time",
+  "process.overview.table.finish" : "Thời gian kết thúc",
   
   // "process.overview.table.id" : "Process ID",
-  "process.overview.table.id" : "Process ID",
+  "process.overview.table.id" : "ID Quy trình",
   
   // "process.overview.table.name" : "Name",
-  "process.overview.table.name" : "Name",
+  "process.overview.table.name" : "Tên",
   
   // "process.overview.table.start" : "Start time",
-  "process.overview.table.start" : "Start time",
+  "process.overview.table.start" : "Thời gian bắt đầu",
   
   // "process.overview.table.status" : "Status",
-  "process.overview.table.status" : "Status",
+  "process.overview.table.status" : "Trạng thái",
   
   // "process.overview.table.user" : "User",
-  "process.overview.table.user" : "User",
+  "process.overview.table.user" : "Người dùng",
   
   // "process.overview.title": "Processes Overview",
-  "process.overview.title": "Processes Overview",
+  "process.overview.title": "Tổng quan về quy trình",
   
   // "process.overview.breadcrumbs": "Processes Overview",
-  "process.overview.breadcrumbs": "Processes Overview",
+  "process.overview.breadcrumbs": "Tổng quan về quy trình",
   
   // "process.overview.new": "New",
-  "process.overview.new": "New",
+  "process.overview.new": "Mới",
   
   
   // "profile.breadcrumbs": "Update Profile",
-  "profile.breadcrumbs": "Update Profile",
+  "profile.breadcrumbs": "Cập nhật hồ sơ",
   
   // "profile.card.identify": "Identify",
-  "profile.card.identify": "Identify",
+  "profile.card.identify": "Định danh",
   
   // "profile.card.security": "Security",
-  "profile.card.security": "Security",
+  "profile.card.security": "Bảo vệ",
   
   // "profile.form.submit": "Save",
-  "profile.form.submit": "Save",
+  "profile.form.submit": "Lưu",
   
   // "profile.groups.head": "Authorization groups you belong to",
-  "profile.groups.head": "Authorization groups you belong to",
+  "profile.groups.head": "Các nhóm ủy quyền mà bạn thuộc về",
   
   // "profile.head": "Update Profile",
-  "profile.head": "Update Profile",
+  "profile.head": "Cập nhật hồ sơ",
   
   // "profile.metadata.form.error.firstname.required": "First Name is required",
-  "profile.metadata.form.error.firstname.required": "First Name is required",
+  "profile.metadata.form.error.firstname.required": "Họ là bắt buộc",
   
   // "profile.metadata.form.error.lastname.required": "Last Name is required",
-  "profile.metadata.form.error.lastname.required": "Last Name is required",
+  "profile.metadata.form.error.lastname.required": "Tên là bắt buộc",
   
   // "profile.metadata.form.label.email": "Email Address",
-  "profile.metadata.form.label.email": "Email Address",
+  "profile.metadata.form.label.email": "Địa chỉ email",
   
   // "profile.metadata.form.label.firstname": "First Name",
-  "profile.metadata.form.label.firstname": "First Name",
+  "profile.metadata.form.label.firstname": "Họ",
   
   // "profile.metadata.form.label.language": "Language",
-  "profile.metadata.form.label.language": "Language",
+  "profile.metadata.form.label.language": "Ngôn ngữ",
   
   // "profile.metadata.form.label.lastname": "Last Name",
-  "profile.metadata.form.label.lastname": "Last Name",
+  "profile.metadata.form.label.lastname": "Tên",
   
   // "profile.metadata.form.label.phone": "Contact Telephone",
-  "profile.metadata.form.label.phone": "Contact Telephone",
+  "profile.metadata.form.label.phone": "Điện thoại liên hệ",
   
   // "profile.metadata.form.notifications.success.content": "Your changes to the profile were saved.",
-  "profile.metadata.form.notifications.success.content": "Your changes to the profile were saved.",
+  "profile.metadata.form.notifications.success.content": "Những thay đổi hồ sơ của bạn đã được lưu.",
   
   // "profile.metadata.form.notifications.success.title": "Profile saved",
-  "profile.metadata.form.notifications.success.title": "Profile saved",
+  "profile.metadata.form.notifications.success.title": "Đã lưu hồ sơ",
   
   // "profile.notifications.warning.no-changes.content": "No changes were made to the Profile.",
-  "profile.notifications.warning.no-changes.content": "No changes were made to the Profile.",
+  "profile.notifications.warning.no-changes.content": "Không có thay đổi nào được thực hiện đối với Hồ sơ.",
   
   // "profile.notifications.warning.no-changes.title": "No changes",
-  "profile.notifications.warning.no-changes.title": "No changes",
+  "profile.notifications.warning.no-changes.title": "Không thay đổi",
   
   // "profile.security.form.error.matching-passwords": "The passwords do not match.",
-  "profile.security.form.error.matching-passwords": "The passwords do not match.",
+  "profile.security.form.error.matching-passwords": "Mật khẩu không trùng khớp.",
   
   // "profile.security.form.error.password-length": "The password should be at least 6 characters long.",
-  "profile.security.form.error.password-length": "The password should be at least 6 characters long.",
+  "profile.security.form.error.password-length": "Mật khẩu phải dài ít nhất 6 ký tự.",
   
   // "profile.security.form.info": "Optionally, you can enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
   "profile.security.form.info": "Optionally, you can enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
