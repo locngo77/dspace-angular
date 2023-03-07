@@ -4407,7 +4407,7 @@
   "search.filters.filter.organizationFoundingDate.label": "Tìm kiếm Ngày thành lập",
   
   // "search.filters.filter.scope.head": "Scope",
-  "search.filters.filter.scope.head": "Phạm vị",
+  "search.filters.filter.scope.head": "Phạm vi",
   
   // "search.filters.filter.scope.placeholder": "Scope filter",
   "search.filters.filter.scope.placeholder": "Phạm vi bộ lọc",
@@ -4442,451 +4442,451 @@
   
   
   // "search.filters.entityType.JournalIssue": "Journal Issue",
-  "search.filters.entityType.JournalIssue": "Journal Issue",
+  "search.filters.entityType.JournalIssue": "Số tạp chí",
   
   // "search.filters.entityType.JournalVolume": "Journal Volume",
-  "search.filters.entityType.JournalVolume": "Journal Volume",
+  "search.filters.entityType.JournalVolume": "Số tạp chí",
   
   // "search.filters.entityType.OrgUnit": "Organizational Unit",
-  "search.filters.entityType.OrgUnit": "Organizational Unit",
+  "search.filters.entityType.OrgUnit": "Đơn vị tổ chức",
   
   // "search.filters.has_content_in_original_bundle.true": "Yes",
-  "search.filters.has_content_in_original_bundle.true": "Yes",
+  "search.filters.has_content_in_original_bundle.true": "Có",
   
   // "search.filters.has_content_in_original_bundle.false": "No",
-  "search.filters.has_content_in_original_bundle.false": "No",
+  "search.filters.has_content_in_original_bundle.false": "Không",
   
   // "search.filters.discoverable.true": "No",
-  "search.filters.discoverable.true": "No",
+  "search.filters.discoverable.true": "Không",
   
   // "search.filters.discoverable.false": "Yes",
-  "search.filters.discoverable.false": "Yes",
+  "search.filters.discoverable.false": "Có",
   
   // "search.filters.withdrawn.true": "Yes",
-  "search.filters.withdrawn.true": "Yes",
+  "search.filters.withdrawn.true": "Có",
   
   // "search.filters.withdrawn.false": "No",
-  "search.filters.withdrawn.false": "No",
+  "search.filters.withdrawn.false": "Không",
   
   
   // "search.filters.head": "Filters",
-  "search.filters.head": "Filters",
+  "search.filters.head": "Bộ lọc",
   
   // "search.filters.reset": "Reset filters",
-  "search.filters.reset": "Reset filters",
+  "search.filters.reset": "Đặt lại bộ lọc",
   
   // "search.filters.search.submit": "Submit",
-  "search.filters.search.submit": "Submit",
+  "search.filters.search.submit": "Gửi",
   
   
   
   // "search.form.search": "Search",
-  "search.form.search": "Search",
+  "search.form.search": "Tìm kiếm",
   
   // "search.form.search_dspace": "All repository",
-  "search.form.search_dspace": "All repository",
+  "search.form.search_dspace": "Tất cả kho lưu trữ",
   
   
   
   // "search.results.head": "Search Results",
-  "search.results.head": "Search Results",
+  "search.results.head": "Kết quả tìm kiếm",
   
   // "search.results.no-results": "Your search returned no results. Having trouble finding what you're looking for? Try putting",
-  "search.results.no-results": "Your search returned no results. Having trouble finding what you're looking for? Try putting",
+  "search.results.no-results": "Không tìm thấy kết quả. Nếu bạn gặp khó khăn trong việc tìm kiếm? thử đặt lại từ khóa",
   
   // "search.results.no-results-link": "quotes around it",
-  "search.results.no-results-link": "quotes around it",
+  "search.results.no-results-link": "trích dẫn xung quanh",
   
   // "search.results.empty": "Your search returned no results.",
-  "search.results.empty": "Your search returned no results.",
+  "search.results.empty": "Không tìm thấy kết quả.",
   
   
   // "default.search.results.head": "Search Results",
-  "default.search.results.head": "Search Results",
+  "default.search.results.head": "Kết quả tìm kiếm",
   
   
   // "search.sidebar.close": "Back to results",
-  "search.sidebar.close": "Back to results",
+  "search.sidebar.close": "Lùi lại kết quả",
   
   // "search.sidebar.filters.title": "Filters",
-  "search.sidebar.filters.title": "Filters",
+  "search.sidebar.filters.title": "Bộ lọc",
   
   // "search.sidebar.open": "Search Tools",
-  "search.sidebar.open": "Search Tools",
+  "search.sidebar.open": "Công cụ tìm kiếm",
   
   // "search.sidebar.results": "results",
-  "search.sidebar.results": "results",
+  "search.sidebar.results": "kết quả",
   
   // "search.sidebar.settings.rpp": "Results per page",
-  "search.sidebar.settings.rpp": "Results per page",
+  "search.sidebar.settings.rpp": "Kết quả mỗi trang",
   
   // "search.sidebar.settings.sort-by": "Sort By",
-  "search.sidebar.settings.sort-by": "Sort By",
+  "search.sidebar.settings.sort-by": "Sắp xếp theo",
   
   // "search.sidebar.settings.title": "Settings",
-  "search.sidebar.settings.title": "Settings",
+  "search.sidebar.settings.title": "Cài đặt",
   
   
   
   // "search.view-switch.show-detail": "Show detail",
-  "search.view-switch.show-detail": "Show detail",
+  "search.view-switch.show-detail": "Hiển thị chi tiết",
   
   // "search.view-switch.show-grid": "Show as grid",
-  "search.view-switch.show-grid": "Show as grid",
+  "search.view-switch.show-grid": "Hiển thị dạng lưới",
   
   // "search.view-switch.show-list": "Show as list",
-  "search.view-switch.show-list": "Show as list",
+  "search.view-switch.show-list": "Hiển thị dạng danh sách",
   
   
   
   // "sorting.ASC": "Ascending",
-  "sorting.ASC": "Ascending",
+  "sorting.ASC": "Tăng dần",
   
   // "sorting.DESC": "Descending",
-  "sorting.DESC": "Descending",
+  "sorting.DESC": "Giảm dần",
   
   // "sorting.dc.title.ASC": "Title Ascending",
-  "sorting.dc.title.ASC": "Title Ascending",
+  "sorting.dc.title.ASC": "Tăng dần tiêu đề",
   
   // "sorting.dc.title.DESC": "Title Descending",
-  "sorting.dc.title.DESC": "Title Descending",
+  "sorting.dc.title.DESC": "Giảm dần tiêu đề",
   
   // "sorting.score.ASC": "Least Relevant",
-  "sorting.score.ASC": "Least Relevant",
+  "sorting.score.ASC": "liên quan ít nhất",
   
   // "sorting.score.DESC": "Most Relevant",
-  "sorting.score.DESC": "Most Relevant",
+  "sorting.score.DESC": "Liên quan nhiều nhất",
   
   // "sorting.dc.date.issued.ASC": "Date Issued Ascending",
-  "sorting.dc.date.issued.ASC": "Date Issued Ascending",
+  "sorting.dc.date.issued.ASC": "Ngày ban hành tăng dần",
   
   // "sorting.dc.date.issued.DESC": "Date Issued Descending",
-  "sorting.dc.date.issued.DESC": "Date Issued Descending",
+  "sorting.dc.date.issued.DESC": "Ngày ban hành giảm dần",
   
   // "sorting.dc.date.accessioned.ASC": "Accessioned Date Ascending",
-  "sorting.dc.date.accessioned.ASC": "Accessioned Date Ascending",
+  "sorting.dc.date.accessioned.ASC": "Ngày tham gia tăng dần",
   
   // "sorting.dc.date.accessioned.DESC": "Accessioned Date Descending",
-  "sorting.dc.date.accessioned.DESC": "Accessioned Date Descending",
+  "sorting.dc.date.accessioned.DESC": "Ngày tham gia giảm dần",
   
   // "sorting.lastModified.ASC": "Last modified Ascending",
-  "sorting.lastModified.ASC": "Last modified Ascending",
+  "sorting.lastModified.ASC": "Sửa đổi lần cuối Tăng dần",
   
   // "sorting.lastModified.DESC": "Last modified Descending",
-  "sorting.lastModified.DESC": "Last modified Descending",
+  "sorting.lastModified.DESC": "Sửa đổi lần cuối Giảm dần",
   
   
   // "statistics.title": "Statistics",
-  "statistics.title": "Statistics",
+  "statistics.title": "Thống kê",
   
   // "statistics.header": "Statistics for {{ scope }}",
-  "statistics.header": "Statistics for {{ scope }}",
+  "statistics.header": "Thống kê cho {{ scope }}",
   
   // "statistics.breadcrumbs": "Statistics",
-  "statistics.breadcrumbs": "Statistics",
+  "statistics.breadcrumbs": "Thống kê",
   
   // "statistics.page.no-data": "No data available",
-  "statistics.page.no-data": "No data available",
+  "statistics.page.no-data": "Không có dữ liệu",
   
   // "statistics.table.no-data": "No data available",
-  "statistics.table.no-data": "No data available",
+  "statistics.table.no-data": "Không có dữ liệu",
   
   // "statistics.table.title.TotalVisits": "Total visits",
-  "statistics.table.title.TotalVisits": "Total visits",
+  "statistics.table.title.TotalVisits": "Tổng số lượt truy cập",
   
   // "statistics.table.title.TotalVisitsPerMonth": "Total visits per month",
-  "statistics.table.title.TotalVisitsPerMonth": "Total visits per month",
+  "statistics.table.title.TotalVisitsPerMonth": "Tổng lượt truy cập mỗi tháng",
   
   // "statistics.table.title.TotalDownloads": "File Visits",
-  "statistics.table.title.TotalDownloads": "File Visits",
+  "statistics.table.title.TotalDownloads": "Lượt truy cập tập tin",
   
   // "statistics.table.title.TopCountries": "Top country views",
-  "statistics.table.title.TopCountries": "Top country views",
+  "statistics.table.title.TopCountries": "Quốc gia xem hàng đầu",
   
   // "statistics.table.title.TopCities": "Top city views",
-  "statistics.table.title.TopCities": "Top city views",
+  "statistics.table.title.TopCities": "Thành phố xem hàng đầu",
   
   // "statistics.table.header.views": "Views",
-  "statistics.table.header.views": "Views",
+  "statistics.table.header.views": "Xem",
   
   
   
   // "submission.edit.breadcrumbs": "Edit Submission",
-  "submission.edit.breadcrumbs": "Edit Submission",
+  "submission.edit.breadcrumbs": "Chỉnh sửa nội dung gửi",
   
   // "submission.edit.title": "Edit Submission",
-  "submission.edit.title": "Edit Submission",
+  "submission.edit.title": "Chỉnh sửa nội dung gửi",
   
   // "submission.general.cancel": "Cancel",
-  "submission.general.cancel": "Cancel",
+  "submission.general.cancel": "Hủy",
   
   // "submission.general.cannot_submit": "You have not the privilege to make a new submission.",
-  "submission.general.cannot_submit": "You have not the privilege to make a new submission.",
+  "submission.general.cannot_submit": "Bạn không có quyền gửi bài mới.",
   
   // "submission.general.deposit": "Deposit",
-  "submission.general.deposit": "Deposit",
+  "submission.general.deposit": "Tiền gửi",
   
   // "submission.general.discard.confirm.cancel": "Cancel",
-  "submission.general.discard.confirm.cancel": "Cancel",
+  "submission.general.discard.confirm.cancel": "Hủy",
   
   // "submission.general.discard.confirm.info": "This operation can't be undone. Are you sure?",
-  "submission.general.discard.confirm.info": "This operation can't be undone. Are you sure?",
+  "submission.general.discard.confirm.info": "Không thể hoàn tác thao tác này. Bạn có chắc không?",
   
   // "submission.general.discard.confirm.submit": "Yes, I'm sure",
-  "submission.general.discard.confirm.submit": "Yes, I'm sure",
+  "submission.general.discard.confirm.submit": "Vâng, tôi chắc chắn",
   
   // "submission.general.discard.confirm.title": "Discard submission",
-  "submission.general.discard.confirm.title": "Discard submission",
+  "submission.general.discard.confirm.title": "Hủy gửi",
   
   // "submission.general.discard.submit": "Discard",
-  "submission.general.discard.submit": "Discard",
+  "submission.general.discard.submit": "Loại bỏ",
   
   // "submission.general.info.saved": "Saved",
-  "submission.general.info.saved": "Saved",
+  "submission.general.info.saved": "Đã lưu",
   
   // "submission.general.info.pending-changes": "Unsaved changes",
-  "submission.general.info.pending-changes": "Unsaved changes",
+  "submission.general.info.pending-changes": "Các thay đổi chưa được lưu",
   
   // "submission.general.save": "Save",
-  "submission.general.save": "Save",
+  "submission.general.save": "Lưu",
   
   // "submission.general.save-later": "Save for later",
-  "submission.general.save-later": "Save for later",
+  "submission.general.save-later": "Lưu lại sau",
   
   
   // "submission.import-external.page.title": "Import metadata from an external source",
-  "submission.import-external.page.title": "Import metadata from an external source",
+  "submission.import-external.page.title": "Nhập siêu dữ liệu từ một nguồn bên ngoài",
   
   // "submission.import-external.title": "Import metadata from an external source",
-  "submission.import-external.title": "Import metadata from an external source",
+  "submission.import-external.title": "Nhập siêu dữ liệu từ một nguồn bên ngoài",
   
   // "submission.import-external.page.hint": "Enter a query above to find items from the web to import in to DSpace.",
-  "submission.import-external.page.hint": "Enter a query above to find items from the web to import in to DSpace.",
+  "submission.import-external.page.hint": "Nhập truy vấn ở trên để tìm các mục từ web để nhập vào DSpace.",
   
   // "submission.import-external.back-to-my-dspace": "Back to MyDSpace",
-  "submission.import-external.back-to-my-dspace": "Back to MyDSpace",
+  "submission.import-external.back-to-my-dspace": "Trở lại MyDSpace",
   
   // "submission.import-external.search.placeholder": "Search the external source",
-  "submission.import-external.search.placeholder": "Search the external source",
+  "submission.import-external.search.placeholder": "Tìm kiếm nguồn bên ngoài",
   
   // "submission.import-external.search.button": "Search",
-  "submission.import-external.search.button": "Search",
+  "submission.import-external.search.button": "Tìm kiếm",
   
   // "submission.import-external.search.button.hint": "Write some words to search",
-  "submission.import-external.search.button.hint": "Write some words to search",
+  "submission.import-external.search.button.hint": "Nhập một số từ khóa để tìm kiếm",
   
   // "submission.import-external.search.source.hint": "Pick an external source",
-  "submission.import-external.search.source.hint": "Pick an external source",
+  "submission.import-external.search.source.hint": "Chọn một nguồn bên ngoài",
   
   // "submission.import-external.source.arxiv": "arXiv",
   "submission.import-external.source.arxiv": "arXiv",
   
   // "submission.import-external.source.loading": "Loading ...",
-  "submission.import-external.source.loading": "Loading ...",
+  "submission.import-external.source.loading": "Đang tải ...",
   
   // "submission.import-external.source.sherpaJournal": "SHERPA Journals",
-  "submission.import-external.source.sherpaJournal": "SHERPA Journals",
+  "submission.import-external.source.sherpaJournal": "Tạp chí SHERPA",
   
   // "submission.import-external.source.sherpaJournalIssn": "SHERPA Journals by ISSN",
-  "submission.import-external.source.sherpaJournalIssn": "SHERPA Journals by ISSN",
+  "submission.import-external.source.sherpaJournalIssn": "Tạp chí SHERPA của ISSN",
   
   // "submission.import-external.source.sherpaPublisher": "SHERPA Publishers",
-  "submission.import-external.source.sherpaPublisher": "SHERPA Publishers",
+  "submission.import-external.source.sherpaPublisher": "Nhà xuất bản SHERPA",
   
   // "submission.import-external.source.orcid": "ORCID",
   "submission.import-external.source.orcid": "ORCID",
   
   // "submission.import-external.source.pubmed": "Pubmed",
-  "submission.import-external.source.pubmed": "Pubmed",
+  "submission.import-external.source.pubmed": "Đã xuất bản",
   
   // "submission.import-external.source.lcname": "Library of Congress Names",
-  "submission.import-external.source.lcname": "Library of Congress Names",
+  "submission.import-external.source.lcname": "Tên thư viện Quốc hội",
   
   // "submission.import-external.preview.title": "Item Preview",
-  "submission.import-external.preview.title": "Item Preview",
+  "submission.import-external.preview.title": "Xem trước mục",
   
   // "submission.import-external.preview.subtitle": "The metadata below was imported from an external source. It will be pre-filled when you start the submission.",
-  "submission.import-external.preview.subtitle": "The metadata below was imported from an external source. It will be pre-filled when you start the submission.",
+  "submission.import-external.preview.subtitle": "Siêu dữ liệu bên dưới được nhập từ một nguồn bên ngoài. Nó sẽ được điền sẵn khi bạn bắt đầu gửi.",
   
   // "submission.import-external.preview.button.import": "Start submission",
-  "submission.import-external.preview.button.import": "Start submission",
+  "submission.import-external.preview.button.import": "Bắt đầu gửi",
   
   // "submission.import-external.preview.error.import.title": "Submission error",
-  "submission.import-external.preview.error.import.title": "Submission error",
+  "submission.import-external.preview.error.import.title": "Lỗi gửi",
   
   // "submission.import-external.preview.error.import.body": "An error occurs during the external source entry import process.",
-  "submission.import-external.preview.error.import.body": "An error occurs during the external source entry import process.",
+  "submission.import-external.preview.error.import.body": "Xảy ra lỗi trong quá trình nhập các mục từ nguồn bên ngoài.",
   
   // "submission.sections.describe.relationship-lookup.close": "Close",
-  "submission.sections.describe.relationship-lookup.close": "Close",
+  "submission.sections.describe.relationship-lookup.close": "Đóng",
   
   // "submission.sections.describe.relationship-lookup.external-source.added": "Successfully added local entry to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.added": "Successfully added local entry to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.added": "Đã thêm thành công mục địa phương vào vùng chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-button-title.isAuthorOfPublication": "Import remote author",
-  "submission.sections.describe.relationship-lookup.external-source.import-button-title.isAuthorOfPublication": "Import remote author",
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.isAuthorOfPublication": "Nhập tác giả từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal": "Import remote journal",
-  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal": "Import remote journal",
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal": "Nhập tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Issue": "Import remote journal issue",
-  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Issue": "Import remote journal issue",
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Issue": "Nhập số tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Volume": "Import remote journal volume",
-  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Volume": "Import remote journal volume",
+  "submission.sections.describe.relationship-lookup.external-source.import-button-title.Journal Volume": "Nhập số tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.title": "Import Remote Author",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.title": "Import Remote Author",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.title": "Nhập tác giả từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.local-entity": "Successfully added local author to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.local-entity": "Successfully added local author to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.local-entity": "Đã thêm thành công tác giả địa phương vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.new-entity": "Successfully imported and added external author to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.new-entity": "Successfully imported and added external author to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.isAuthorOfPublication.added.new-entity": "Đã nhập thành công và thêm tác giả bên ngoài vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.authority": "Authority",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority": "Authority",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority": "Thẩm quyền",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.authority.new": "Import as a new local authority entry",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority.new": "Import as a new local authority entry",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.authority.new": "Nhập dưới dạng mục chính quyền cục bộ mới",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.cancel": "Cancel",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.cancel": "Cancel",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.cancel": "Hủy",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.collection": "Select a collection to import new entries to",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.collection": "Select a collection to import new entries to",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.collection": "Chọn một bộ sưu tập để nhập các mục mới vào",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.entities": "Entities",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities": "Entities",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities": "Thực thể",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.entities.new": "Import as a new local entity",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities.new": "Import as a new local entity",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.entities.new": "Nhập dưới dạng thực thể cục bộ mới",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "Importing from LC Name",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "Importing from LC Name",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.lcname": "Nhập từ tên LC",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcid": "Importing from ORCID",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcid": "Importing from ORCID",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.orcid": "Nhập từ ORCID",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importing from Sherpa Journal",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Importing from Sherpa Journal",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaJournal": "Nhập từ Tạp chí Sherpa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "Importing from Sherpa Publisher",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "Importing from Sherpa Publisher",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.sherpaPublisher": "Nhập từ Nhà xuất bản Sherpa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.pubmed": "Importing from PubMed",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.pubmed": "Importing from PubMed",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.pubmed": "Nhập từ PubMed",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.head.arxiv": "Importing from arXiv",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.arxiv": "Importing from arXiv",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.head.arxiv": "Nhập từ arXiv",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.import": "Import",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.import": "Import",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.import": "Nhập",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.title": "Import Remote Journal",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.title": "Import Remote Journal",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.title": "Nhập tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.local-entity": "Successfully added local journal to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.local-entity": "Successfully added local journal to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.local-entity": "Đã thêm thành công tạp chí địa phương vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.new-entity": "Successfully imported and added external journal to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.new-entity": "Successfully imported and added external journal to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal.added.new-entity": "Đã nhập và thêm thành công tạp chí bên ngoài vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.title": "Import Remote Journal Issue",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.title": "Import Remote Journal Issue",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.title": "Nhập số tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.local-entity": "Successfully added local journal issue to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.local-entity": "Successfully added local journal issue to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.local-entity": "Đã thêm thành công số tạp chí địa phương vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.new-entity": "Successfully imported and added external journal issue to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.new-entity": "Successfully imported and added external journal issue to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Issue.added.new-entity": "Đã nhập và thêm thành công tạp chí bên ngoài vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.title": "Import Remote Journal Volume",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.title": "Import Remote Journal Volume",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.title": "Nhập số tạp chí từ xa",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.local-entity": "Successfully added local journal volume to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.local-entity": "Successfully added local journal volume to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.local-entity": "Đã thêm thành công số tạp chí địa phương vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.new-entity": "Successfully imported and added external journal volume to the selection",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.new-entity": "Successfully imported and added external journal volume to the selection",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.Journal Volume.added.new-entity": "Đã nhập và thêm thành công khối lượng tạp chí bên ngoài vào lựa chọn",
   
   // "submission.sections.describe.relationship-lookup.external-source.import-modal.select": "Select a local match:",
-  "submission.sections.describe.relationship-lookup.external-source.import-modal.select": "Select a local match:",
+  "submission.sections.describe.relationship-lookup.external-source.import-modal.select": "Chọn từ một nguồn cục bộ:",
   
   // "submission.sections.describe.relationship-lookup.search-tab.deselect-all": "Deselect all",
-  "submission.sections.describe.relationship-lookup.search-tab.deselect-all": "Deselect all",
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-all": "Bỏ chọn tất cả",
   
   // "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Deselect page",
-  "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Deselect page",
+  "submission.sections.describe.relationship-lookup.search-tab.deselect-page": "Bỏ chọn trang",
   
   // "submission.sections.describe.relationship-lookup.search-tab.loading": "Loading...",
-  "submission.sections.describe.relationship-lookup.search-tab.loading": "Loading...",
+  "submission.sections.describe.relationship-lookup.search-tab.loading": "Đang tải...",
   
   // "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Search query",
-  "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Search query",
+  "submission.sections.describe.relationship-lookup.search-tab.placeholder": "Truy vấn tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.search-tab.search": "Go",
-  "submission.sections.describe.relationship-lookup.search-tab.search": "Go",
+  "submission.sections.describe.relationship-lookup.search-tab.search": "Đi",
   
   // "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Search...",
-  "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Search...",
+  "submission.sections.describe.relationship-lookup.search-tab.search-form.placeholder": "Tìm kiếm...",
   
   // "submission.sections.describe.relationship-lookup.search-tab.select-all": "Select all",
-  "submission.sections.describe.relationship-lookup.search-tab.select-all": "Select all",
+  "submission.sections.describe.relationship-lookup.search-tab.select-all": "Chọn tất cả",
   
   // "submission.sections.describe.relationship-lookup.search-tab.select-page": "Select page",
-  "submission.sections.describe.relationship-lookup.search-tab.select-page": "Select page",
+  "submission.sections.describe.relationship-lookup.search-tab.select-page": "Chọn trang",
   
   // "submission.sections.describe.relationship-lookup.selected": "Selected {{ size }} items",
-  "submission.sections.describe.relationship-lookup.selected": "Selected {{ size }} items",
+  "submission.sections.describe.relationship-lookup.selected": "Đã chọn {{ size }} mục",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isAuthorOfPublication": "Local Authors ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isAuthorOfPublication": "Local Authors ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isAuthorOfPublication": "Tác giả địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalOfPublication": "Local Journals ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalOfPublication": "Local Journals ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalOfPublication": "Tạp chí địa phương ({{ count }})",
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.Project": "Local Projects ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Project": "Local Projects ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Project": "Dự án địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.Publication": "Local Publications ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Publication": "Local Publications ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Publication": "Ấn phẩm địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.Person": "Local Authors ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Person": "Local Authors ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Person": "Tác giả địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.OrgUnit": "Local Organizational Units ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.OrgUnit": "Local Organizational Units ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.OrgUnit": "Đơn vị tổ chức địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataPackage": "Local Data Packages ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataPackage": "Local Data Packages ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataPackage": "Gói dữ liệu cục bộ ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataFile": "Local Data Files ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataFile": "Local Data Files ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.DataFile": "Tệp dữ liệu cục bộ ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.Journal": "Local Journals ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Journal": "Local Journals ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.Journal": "Tạp chí địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalIssueOfPublication": "Local Journal Issues ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalIssueOfPublication": "Local Journal Issues ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalIssueOfPublication": "Số tạp chí địa phương ({{ count }})",
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalIssue": "Local Journal Issues ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalIssue": "Local Journal Issues ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalIssue": "Số tạp chí địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalVolumeOfPublication": "Local Journal Volumes ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalVolumeOfPublication": "Local Journal Volumes ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isJournalVolumeOfPublication": "Tạp chí địa phương ({{ count }})",
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalVolume": "Local Journal Volumes ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalVolume": "Local Journal Volumes ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.JournalVolume": "Tạp chí địa phương ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaJournal": "Sherpa Journals ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaJournal": "Sherpa Journals ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaJournal": "Tạp chí Sherpa ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaPublisher": "Sherpa Publishers ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaPublisher": "Sherpa Publishers ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.sherpaPublisher": "Nhà xuất bản Sherpa({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.orcid": "ORCID ({{ count }})",
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.orcid": "ORCID ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.lcname": "LC Names ({{ count }})",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.lcname": "LC Names ({{ count }})",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.lcname": "Tên LC ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.pubmed": "PubMed ({{ count }})",
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.pubmed": "PubMed ({{ count }})",
@@ -4895,76 +4895,76 @@
   "submission.sections.describe.relationship-lookup.search-tab.tab-title.arxiv": "arXiv ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfPublication": "Search for Funding Agencies",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfPublication": "Search for Funding Agencies",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingAgencyOfPublication": "Tìm kiếm các đơn vị tài trợ",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Search for Funding",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Search for Funding",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isFundingOfPublication": "Tìm kiếm nhà tài trợ",
   
   // "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Search for Organizational Units",
-  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Search for Organizational Units",
+  "submission.sections.describe.relationship-lookup.search-tab.tab-title.isChildOrgUnitOf": "Tìm kiếm đơn vị tổ chức",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Search...",
-  "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Search...",
+  "submission.sections.describe.relationship-lookup.selection-tab.search-form.placeholder": "Tìm kiếm...",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Current Selection ({{ count }})",
-  "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Current Selection ({{ count }})",
+  "submission.sections.describe.relationship-lookup.selection-tab.tab-title": "Lựa chọn hiện tại ({{ count }})",
   
   // "submission.sections.describe.relationship-lookup.title.isJournalIssueOfPublication": "Journal Issues",
-  "submission.sections.describe.relationship-lookup.title.isJournalIssueOfPublication": "Journal Issues",
+  "submission.sections.describe.relationship-lookup.title.isJournalIssueOfPublication": "Số tạp chí",
   // "submission.sections.describe.relationship-lookup.title.JournalIssue": "Journal Issues",
-  "submission.sections.describe.relationship-lookup.title.JournalIssue": "Journal Issues",
+  "submission.sections.describe.relationship-lookup.title.JournalIssue": "Số tạp chí",
   
   // "submission.sections.describe.relationship-lookup.title.isJournalVolumeOfPublication": "Journal Volumes",
-  "submission.sections.describe.relationship-lookup.title.isJournalVolumeOfPublication": "Journal Volumes",
+  "submission.sections.describe.relationship-lookup.title.isJournalVolumeOfPublication": "Số tạp chí",
   // "submission.sections.describe.relationship-lookup.title.JournalVolume": "Journal Volumes",
-  "submission.sections.describe.relationship-lookup.title.JournalVolume": "Journal Volumes",
+  "submission.sections.describe.relationship-lookup.title.JournalVolume": "Số tạp chí",
   
   // "submission.sections.describe.relationship-lookup.title.isJournalOfPublication": "Journals",
-  "submission.sections.describe.relationship-lookup.title.isJournalOfPublication": "Journals",
+  "submission.sections.describe.relationship-lookup.title.isJournalOfPublication": "Tạp chí",
   
   // "submission.sections.describe.relationship-lookup.title.isAuthorOfPublication": "Authors",
-  "submission.sections.describe.relationship-lookup.title.isAuthorOfPublication": "Authors",
+  "submission.sections.describe.relationship-lookup.title.isAuthorOfPublication": "Tác giả",
   
   // "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfPublication": "Funding Agency",
-  "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfPublication": "Funding Agency",
+  "submission.sections.describe.relationship-lookup.title.isFundingAgencyOfPublication": "Đơn vị tài trợ",
   // "submission.sections.describe.relationship-lookup.title.Project": "Projects",
-  "submission.sections.describe.relationship-lookup.title.Project": "Projects",
+  "submission.sections.describe.relationship-lookup.title.Project": "Dự án",
   
   // "submission.sections.describe.relationship-lookup.title.Publication": "Publications",
-  "submission.sections.describe.relationship-lookup.title.Publication": "Publications",
+  "submission.sections.describe.relationship-lookup.title.Publication": "Ấn phẩm",
   
   // "submission.sections.describe.relationship-lookup.title.Person": "Authors",
-  "submission.sections.describe.relationship-lookup.title.Person": "Authors",
+  "submission.sections.describe.relationship-lookup.title.Person": "Tác giả",
   
   // "submission.sections.describe.relationship-lookup.title.OrgUnit": "Organizational Units",
-  "submission.sections.describe.relationship-lookup.title.OrgUnit": "Organizational Units",
+  "submission.sections.describe.relationship-lookup.title.OrgUnit": "Đơn vị tổ chức",
   
   // "submission.sections.describe.relationship-lookup.title.DataPackage": "Data Packages",
-  "submission.sections.describe.relationship-lookup.title.DataPackage": "Data Packages",
+  "submission.sections.describe.relationship-lookup.title.DataPackage": "Gói dữ liệu",
   
   // "submission.sections.describe.relationship-lookup.title.DataFile": "Data Files",
-  "submission.sections.describe.relationship-lookup.title.DataFile": "Data Files",
+  "submission.sections.describe.relationship-lookup.title.DataFile": "Tệp dữ liệu",
   
   // "submission.sections.describe.relationship-lookup.title.Funding Agency": "Funding Agency",
-  "submission.sections.describe.relationship-lookup.title.Funding Agency": "Funding Agency",
+  "submission.sections.describe.relationship-lookup.title.Funding Agency": "Đơn vị tài trợ",
   
   // "submission.sections.describe.relationship-lookup.title.isFundingOfPublication": "Funding",
-  "submission.sections.describe.relationship-lookup.title.isFundingOfPublication": "Funding",
+  "submission.sections.describe.relationship-lookup.title.isFundingOfPublication": "Tài trợ",
   
   // "submission.sections.describe.relationship-lookup.title.isChildOrgUnitOf": "Parent Organizational Unit",
-  "submission.sections.describe.relationship-lookup.title.isChildOrgUnitOf": "Parent Organizational Unit",
+  "submission.sections.describe.relationship-lookup.title.isChildOrgUnitOf": "Đơn vị tổ chức gốc",
   
   // "submission.sections.describe.relationship-lookup.search-tab.toggle-dropdown": "Toggle dropdown",
-  "submission.sections.describe.relationship-lookup.search-tab.toggle-dropdown": "Toggle dropdown",
+  "submission.sections.describe.relationship-lookup.search-tab.toggle-dropdown": "Chuyển đổi danh sách thả xuống",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.settings": "Settings",
-  "submission.sections.describe.relationship-lookup.selection-tab.settings": "Settings",
+  "submission.sections.describe.relationship-lookup.selection-tab.settings": "Cài đặt",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.no-selection": "Your selection is currently empty.",
-  "submission.sections.describe.relationship-lookup.selection-tab.no-selection": "Your selection is currently empty.",
+  "submission.sections.describe.relationship-lookup.selection-tab.no-selection": "Lựa chọn của bạn hiện đang trống.",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Selected Authors",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Selected Authors",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Tác giả được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Selected Journals",
   "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Selected Journals",
