@@ -4967,248 +4967,248 @@
   "submission.sections.describe.relationship-lookup.selection-tab.title.isAuthorOfPublication": "Tác giả được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Selected Journals",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Selected Journals",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalOfPublication": "Tạp chí được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalVolumeOfPublication": "Selected Journal Volume",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalVolumeOfPublication": "Selected Journal Volume",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalVolumeOfPublication": "Số tạp chí đã chọn",
   // "submission.sections.describe.relationship-lookup.selection-tab.title.Project": "Selected Projects",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.Project": "Selected Projects",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Project": "Dự án đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.Publication": "Selected Publications",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.Publication": "Selected Publications",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Publication": "Ấn phẩm đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.Person": "Selected Authors",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.Person": "Selected Authors",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Person": "Tác giả đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.OrgUnit": "Selected Organizational Units",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.OrgUnit": "Selected Organizational Units",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.OrgUnit": "Đơn vị tổ chức được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.DataPackage": "Selected Data Packages",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.DataPackage": "Selected Data Packages",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataPackage": "Gói dữ liệu đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.DataFile": "Selected Data Files",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.DataFile": "Selected Data Files",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.DataFile": "Tệp dữ liệu đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.Journal": "Selected Journals",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.Journal": "Selected Journals",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.Journal": "Tạp chí được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalIssueOfPublication": "Selected Issue",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalIssueOfPublication": "Selected Issue",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isJournalIssueOfPublication": "Vấn đề đã chọn",
   // "submission.sections.describe.relationship-lookup.selection-tab.title.JournalVolume": "Selected Journal Volume",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalVolume": "Selected Journal Volume",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalVolume": "Số tạp chí đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingAgencyOfPublication": "Selected Funding Agency",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingAgencyOfPublication": "Selected Funding Agency",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingAgencyOfPublication": "Đơn vị tài trợ được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingOfPublication": "Selected Funding",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingOfPublication": "Selected Funding",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isFundingOfPublication": "Tài trợ đã chọn",
   // "submission.sections.describe.relationship-lookup.selection-tab.title.JournalIssue": "Selected Issue",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalIssue": "Selected Issue",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.JournalIssue": "Vấn đề đã chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.isChildOrgUnitOf": "Selected Organizational Unit",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.isChildOrgUnitOf": "Selected Organizational Unit",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.isChildOrgUnitOf": "Đơn vị tổ chức được chọn",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaJournal": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.sherpaPublisher": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcid": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.orcidv2": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.lcname": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.pubmed": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Search Results",
-  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Search Results",
+  "submission.sections.describe.relationship-lookup.selection-tab.title.arxiv": "Kết quả tìm kiếm",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Would you like to save \"{{ value }}\" as a name variant for this person so you and others can reuse it for future submissions? If you don\'t you can still use it for this submission.",
-  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Would you like to save \"{{ value }}\" as a name variant for this person so you and others can reuse it for future submissions? If you don\'t you can still use it for this submission.",
+  "submission.sections.describe.relationship-lookup.name-variant.notification.content": "Bạn có muốn lưu \"{{ value }}\" làm biến thể tên cho người này để bạn và những người khác có thể sử dụng lại tên đó cho các lần gửi sau không? Nếu không, bạn vẫn có thể sử dụng nó cho lần gửi này.",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Save a new name variant",
-  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Save a new name variant",
+  "submission.sections.describe.relationship-lookup.name-variant.notification.confirm": "Lưu một biến mới với tên",
   
   // "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Use only for this submission",
-  "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Use only for this submission",
+  "submission.sections.describe.relationship-lookup.name-variant.notification.decline": "Chỉ sử dụng cho lần gửi này",
   
   // "submission.sections.ccLicense.type": "License Type",
-  "submission.sections.ccLicense.type": "License Type",
+  "submission.sections.ccLicense.type": "Loại giấy phép",
   
   // "submission.sections.ccLicense.select": "Select a license type…",
-  "submission.sections.ccLicense.select": "Select a license type…",
+  "submission.sections.ccLicense.select": "Chọn loại giấy phép…",
   
   // "submission.sections.ccLicense.change": "Change your license type…",
-  "submission.sections.ccLicense.change": "Change your license type…",
+  "submission.sections.ccLicense.change": "Thay đổi loại giấy phép của bạn…",
   
   // "submission.sections.ccLicense.none": "No licenses available",
-  "submission.sections.ccLicense.none": "No licenses available",
+  "submission.sections.ccLicense.none": "Không có giấy phép",
   
   // "submission.sections.ccLicense.option.select": "Select an option…",
-  "submission.sections.ccLicense.option.select": "Select an option…",
+  "submission.sections.ccLicense.option.select": "Chọn một tùy chọn…",
   
   // "submission.sections.ccLicense.link": "You’ve selected the following license:",
-  "submission.sections.ccLicense.link": "You’ve selected the following license:",
+  "submission.sections.ccLicense.link": "Bạn đã chọn giấy phép sau:",
   
   // "submission.sections.ccLicense.confirmation": "I grant the license above",
-  "submission.sections.ccLicense.confirmation": "I grant the license above",
+  "submission.sections.ccLicense.confirmation": "Tôi gán giấy phép ở trên",
   
   // "submission.sections.general.add-more": "Add more",
-  "submission.sections.general.add-more": "Add more",
+  "submission.sections.general.add-more": "Bổ sung thêm",
   
   // "submission.sections.general.collection": "Collection",
-  "submission.sections.general.collection": "Collection",
+  "submission.sections.general.collection": "Bộ sưu tập",
   
   // "submission.sections.general.deposit_error_notice": "There was an issue when submitting the item, please try again later.",
-  "submission.sections.general.deposit_error_notice": "There was an issue when submitting the item, please try again later.",
+  "submission.sections.general.deposit_error_notice": "Đã xảy ra sự cố khi gửi mục, vui lòng thử lại sau.",
   
   // "submission.sections.general.deposit_success_notice": "Submission deposited successfully.",
-  "submission.sections.general.deposit_success_notice": "Submission deposited successfully.",
+  "submission.sections.general.deposit_success_notice": "Gửi thành công.",
   
   // "submission.sections.general.discard_error_notice": "There was an issue when discarding the item, please try again later.",
-  "submission.sections.general.discard_error_notice": "There was an issue when discarding the item, please try again later.",
+  "submission.sections.general.discard_error_notice": "Đã xảy ra sự cố khi hủy mục, vui lòng thử lại sau.",
   
   // "submission.sections.general.discard_success_notice": "Submission discarded successfully.",
-  "submission.sections.general.discard_success_notice": "Submission discarded successfully.",
+  "submission.sections.general.discard_success_notice": "Đã hủy gửi thành công.",
   
   // "submission.sections.general.metadata-extracted": "New metadata have been extracted and added to the <strong>{{sectionId}}</strong> section.",
-  "submission.sections.general.metadata-extracted": "New metadata have been extracted and added to the <strong>{{sectionId}}</strong> section.",
+  "submission.sections.general.metadata-extracted": "Siêu dữ liệu mới đã được trích xuất và thêm vào phần <strong>{{sectionId}}</strong>.",
   
   // "submission.sections.general.metadata-extracted-new-section": "New <strong>{{sectionId}}</strong> section has been added to submission.",
-  "submission.sections.general.metadata-extracted-new-section": "New <strong>{{sectionId}}</strong> section has been added to submission.",
+  "submission.sections.general.metadata-extracted-new-section": "Phần <strong>{{sectionId}}</strong> mới đã được thêm vào nội dung gửi.",
   
   // "submission.sections.general.no-collection": "No collection found",
-  "submission.sections.general.no-collection": "No collection found",
+  "submission.sections.general.no-collection": "Không tìm thấy bộ sưu tập nào",
   
   // "submission.sections.general.no-sections": "No options available",
-  "submission.sections.general.no-sections": "No options available",
+  "submission.sections.general.no-sections": "Không có tùy chọn nào",
   
   // "submission.sections.general.save_error_notice": "There was an issue when saving the item, please try again later.",
-  "submission.sections.general.save_error_notice": "There was an issue when saving the item, please try again later.",
+  "submission.sections.general.save_error_notice": "Đã xảy ra sự cố khi lưu mục, vui lòng thử lại sau.",
   
   // "submission.sections.general.save_success_notice": "Submission saved successfully.",
-  "submission.sections.general.save_success_notice": "Submission saved successfully.",
+  "submission.sections.general.save_success_notice": "Đã lưu thành công bài gửi.",
   
   // "submission.sections.general.search-collection": "Search for a collection",
-  "submission.sections.general.search-collection": "Search for a collection",
+  "submission.sections.general.search-collection": "Tìm kiếm bộ sưu tập",
   
   // "submission.sections.general.sections_not_valid": "There are incomplete sections.",
-  "submission.sections.general.sections_not_valid": "There are incomplete sections.",
+  "submission.sections.general.sections_not_valid": "Có những phần không đầy đủ.",
   
   
   
   // "submission.sections.submit.progressbar.CClicense": "Creative commons license",
-  "submission.sections.submit.progressbar.CClicense": "Creative commons license",
+  "submission.sections.submit.progressbar.CClicense": "Bằng sáng chế",
   
   // "submission.sections.submit.progressbar.describe.recycle": "Recycle",
-  "submission.sections.submit.progressbar.describe.recycle": "Recycle",
+  "submission.sections.submit.progressbar.describe.recycle": "Thùng rác",
   
   // "submission.sections.submit.progressbar.describe.stepcustom": "Describe",
-  "submission.sections.submit.progressbar.describe.stepcustom": "Describe",
+  "submission.sections.submit.progressbar.describe.stepcustom": "Mô tả",
   
   // "submission.sections.submit.progressbar.describe.stepone": "Describe",
-  "submission.sections.submit.progressbar.describe.stepone": "Describe",
+  "submission.sections.submit.progressbar.describe.stepone": "Mô tả",
   
   // "submission.sections.submit.progressbar.describe.steptwo": "Describe",
-  "submission.sections.submit.progressbar.describe.steptwo": "Describe",
+  "submission.sections.submit.progressbar.describe.steptwo": "Mô tả",
   
   // "submission.sections.submit.progressbar.detect-duplicate": "Potential duplicates",
-  "submission.sections.submit.progressbar.detect-duplicate": "Potential duplicates",
+  "submission.sections.submit.progressbar.detect-duplicate": "Có khả năng trùng lặp",
   
   // "submission.sections.submit.progressbar.license": "Deposit license",
-  "submission.sections.submit.progressbar.license": "Deposit license",
+  "submission.sections.submit.progressbar.license": "Giấy phép tiền gửi",
   
   // "submission.sections.submit.progressbar.upload": "Upload files",
-  "submission.sections.submit.progressbar.upload": "Upload files",
+  "submission.sections.submit.progressbar.upload": "Tải tệp lên",
   
   
   
   // "submission.sections.status.errors.title": "Errors",
-  "submission.sections.status.errors.title": "Errors",
+  "submission.sections.status.errors.title": "Lỗi",
   
   // "submission.sections.status.valid.title": "Valid",
-  "submission.sections.status.valid.title": "Valid",
+  "submission.sections.status.valid.title": "Có hiệu lực",
   
   // "submission.sections.status.warnings.title": "Warnings",
-  "submission.sections.status.warnings.title": "Warnings",
+  "submission.sections.status.warnings.title": "Cảnh báo",
   
   // "submission.sections.toggle.open": "Open section",
-  "submission.sections.toggle.open": "Open section",
+  "submission.sections.toggle.open": "Đoạn mở",
   
   // "submission.sections.toggle.close": "Close section",
-  "submission.sections.toggle.close": "Close section",
+  "submission.sections.toggle.close": "Đoạn đóng",
   
   // "submission.sections.upload.delete.confirm.cancel": "Cancel",
-  "submission.sections.upload.delete.confirm.cancel": "Cancel",
+  "submission.sections.upload.delete.confirm.cancel": "Hủy",
   
   // "submission.sections.upload.delete.confirm.info": "This operation can't be undone. Are you sure?",
-  "submission.sections.upload.delete.confirm.info": "This operation can't be undone. Are you sure?",
+  "submission.sections.upload.delete.confirm.info": "Không thể hoàn tác thao tác này. Bạn có chắc không?",
   
   // "submission.sections.upload.delete.confirm.submit": "Yes, I'm sure",
-  "submission.sections.upload.delete.confirm.submit": "Yes, I'm sure",
+  "submission.sections.upload.delete.confirm.submit": "Vâng, tôi chắc chắn",
   
   // "submission.sections.upload.delete.confirm.title": "Delete bitstream",
-  "submission.sections.upload.delete.confirm.title": "Delete bitstream",
+  "submission.sections.upload.delete.confirm.title": "Xóa dòng bit",
   
   // "submission.sections.upload.delete.submit": "Delete",
   "submission.sections.upload.delete.submit": "Xóa",
   
   // "submission.sections.upload.download.title": "Download bitstream",
-  "submission.sections.upload.download.title": "Download bitstream",
+  "submission.sections.upload.download.title": "Tải xuống dòng bit",
   
   // "submission.sections.upload.drop-message": "Drop files to attach them to the item",
-  "submission.sections.upload.drop-message": "Drop files to attach them to the item",
+  "submission.sections.upload.drop-message": "Kéo thả tệp để đính kèm vào mục",
   
   // "submission.sections.upload.edit.title": "Edit bitstream",
-  "submission.sections.upload.edit.title": "Edit bitstream",
+  "submission.sections.upload.edit.title": "Chỉnh sửa dòng bit",
   
   // "submission.sections.upload.form.access-condition-label": "Access condition type",
-  "submission.sections.upload.form.access-condition-label": "Access condition type",
+  "submission.sections.upload.form.access-condition-label": "Loại điều kiện truy cập",
   
   // "submission.sections.upload.form.date-required": "Date is required.",
-  "submission.sections.upload.form.date-required": "Date is required.",
+  "submission.sections.upload.form.date-required": "Ngày là bắt buộc.",
   
   // "submission.sections.upload.form.from-label": "Grant access from",
-  "submission.sections.upload.form.from-label": "Grant access from",
+  "submission.sections.upload.form.from-label": "Cấp quyền truy cập từ",
   
   // "submission.sections.upload.form.from-placeholder": "From",
-  "submission.sections.upload.form.from-placeholder": "From",
+  "submission.sections.upload.form.from-placeholder": "Đến",
   
   // "submission.sections.upload.form.group-label": "Group",
   "submission.sections.upload.form.group-label": "Nhóm",
   
   // "submission.sections.upload.form.group-required": "Group is required.",
-  "submission.sections.upload.form.group-required": "Group is required.",
+  "submission.sections.upload.form.group-required": "Nhóm là bắt buộc.",
   
   // "submission.sections.upload.form.until-label": "Grant access until",
-  "submission.sections.upload.form.until-label": "Grant access until",
+  "submission.sections.upload.form.until-label": "Cấp quyền truy cập cho đến khi",
   
   // "submission.sections.upload.form.until-placeholder": "Until",
-  "submission.sections.upload.form.until-placeholder": "Until",
+  "submission.sections.upload.form.until-placeholder": "Cho đến khi",
   
   // "submission.sections.upload.header.policy.default.nolist": "Uploaded files in the {{collectionName}} collection will be accessible according to the following group(s):",
-  "submission.sections.upload.header.policy.default.nolist": "Uploaded files in the {{collectionName}} collection will be accessible according to the following group(s):",
+  "submission.sections.upload.header.policy.default.nolist": "Các tệp đã tải lên trong bộ sưu tập {{collectionName}} sẽ có thể truy cập được theo (các) nhóm sau:",
   
   // "submission.sections.upload.header.policy.default.withlist": "Please note that uploaded files in the {{collectionName}} collection will be accessible, in addition to what is explicitly decided for the single file, with the following group(s):",
-  "submission.sections.upload.header.policy.default.withlist": "Please note that uploaded files in the {{collectionName}} collection will be accessible, in addition to what is explicitly decided for the single file, with the following group(s):",
+  "submission.sections.upload.header.policy.default.withlist": "Xin lưu ý rằng các tệp đã tải lên trong bộ sưu tập {{collectionName}} sẽ có thể truy cập được, ngoài những gì được quyết định rõ ràng cho một tệp, với (các) nhóm sau:",
   
   // "submission.sections.upload.info": "Here you will find all the files currently in the item. You can update the file metadata and access conditions or <strong>upload additional files just dragging & dropping them everywhere in the page</strong>",
-  "submission.sections.upload.info": "Here you will find all the files currently in the item. You can update the file metadata and access conditions or <strong>upload additional files just dragging & dropping them everywhere in the page</strong>",
+  "submission.sections.upload.info": "Tại đây bạn sẽ tìm thấy tất cả các tệp hiện có trong mục. Bạn có thể cập nhật siêu dữ liệu của tệp và các điều kiện truy cập hoặc <strong>tải lên các tệp bổ sung chỉ bằng cách kéo và thả chúng vào mọi nơi trong trang</strong>",
   
   // "submission.sections.upload.no-entry": "No",
-  "submission.sections.upload.no-entry": "No",
+  "submission.sections.upload.no-entry": "Không",
   
   // "submission.sections.upload.no-file-uploaded": "No file uploaded yet.",
-  "submission.sections.upload.no-file-uploaded": "No file uploaded yet.",
+  "submission.sections.upload.no-file-uploaded": "Chưa có tệp nào được tải lên.",
   
   // "submission.sections.upload.save-metadata": "Save metadata",
-  "submission.sections.upload.save-metadata": "Save metadata",
+  "submission.sections.upload.save-metadata": "Lưu siêu dữ liệu",
   
   // "submission.sections.upload.undo": "Cancel",
   "submission.sections.upload.undo": "Hủy",
@@ -5222,10 +5222,10 @@
   
   
   // "submission.submit.breadcrumbs": "New submission",
-  "submission.submit.breadcrumbs": "New submission",
+  "submission.submit.breadcrumbs": "Đệ trình mới",
   
   // "submission.submit.title": "New submission",
-  "submission.submit.title": "New submission",
+  "submission.submit.title": "Đệ trình mới",
   
   
   
@@ -5245,7 +5245,7 @@
   "submission.workflow.generic.view": "Xem",
   
   // "submission.workflow.generic.view-help": "Select this option to view the item's metadata.",
-  "submission.workflow.generic.view-help": "Select this option to view the item's metadata.",
+  "submission.workflow.generic.view-help": "Chọn tùy chọn này để xem siêu dữ liệu của mục.",
   
   
   
@@ -5253,91 +5253,91 @@
   "submission.workflow.tasks.claimed.approve": "Chấp nhận",
   
   // "submission.workflow.tasks.claimed.approve_help": "If you have reviewed the item and it is suitable for inclusion in the collection, select \"Approve\".",
-  "submission.workflow.tasks.claimed.approve_help": "If you have reviewed the item and it is suitable for inclusion in the collection, select \"Approve\".",
+  "submission.workflow.tasks.claimed.approve_help": "Nếu bạn đã xem xét mục này và mục đó phù hợp để đưa vào bộ sưu tập, hãy chọn \"Chấp thuận\".",
   
   // "submission.workflow.tasks.claimed.edit": "Edit",
   "submission.workflow.tasks.claimed.edit": "Sửa",
   
   // "submission.workflow.tasks.claimed.edit_help": "Select this option to change the item's metadata.",
-  "submission.workflow.tasks.claimed.edit_help": "Select this option to change the item's metadata.",
+  "submission.workflow.tasks.claimed.edit_help": "Chọn tùy chọn này để thay đổi siêu dữ liệu của mục.",
   
   // "submission.workflow.tasks.claimed.reject.reason.info": "Please enter your reason for rejecting the submission into the box below, indicating whether the submitter may fix a problem and resubmit.",
-  "submission.workflow.tasks.claimed.reject.reason.info": "Please enter your reason for rejecting the submission into the box below, indicating whether the submitter may fix a problem and resubmit.",
+  "submission.workflow.tasks.claimed.reject.reason.info": "Vui lòng nhập lý do từ chối gửi vào ô bên dưới, cho biết liệu người gửi có thể khắc phục sự cố và gửi lại hay không.",
   
   // "submission.workflow.tasks.claimed.reject.reason.placeholder": "Describe the reason of reject",
-  "submission.workflow.tasks.claimed.reject.reason.placeholder": "Describe the reason of reject",
+  "submission.workflow.tasks.claimed.reject.reason.placeholder": "Nêu lý do từ chối",
   
   // "submission.workflow.tasks.claimed.reject.reason.submit": "Reject item",
-  "submission.workflow.tasks.claimed.reject.reason.submit": "Reject item",
+  "submission.workflow.tasks.claimed.reject.reason.submit": "Từ chối mục",
   
   // "submission.workflow.tasks.claimed.reject.reason.title": "Reason",
-  "submission.workflow.tasks.claimed.reject.reason.title": "Reason",
+  "submission.workflow.tasks.claimed.reject.reason.title": "Lý do",
   
   // "submission.workflow.tasks.claimed.reject.submit": "Reject",
-  "submission.workflow.tasks.claimed.reject.submit": "Reject",
+  "submission.workflow.tasks.claimed.reject.submit": "Từ chối",
   
   // "submission.workflow.tasks.claimed.reject_help": "If you have reviewed the item and found it is <strong>not</strong> suitable for inclusion in the collection, select \"Reject\".  You will then be asked to enter a message indicating why the item is unsuitable, and whether the submitter should change something and resubmit.",
-  "submission.workflow.tasks.claimed.reject_help": "If you have reviewed the item and found it is <strong>not</strong> suitable for inclusion in the collection, select \"Reject\".  You will then be asked to enter a message indicating why the item is unsuitable, and whether the submitter should change something and resubmit.",
+  "submission.workflow.tasks.claimed.reject_help": "Nếu bạn đã xem xét mục này và thấy mục đó <strong>không</strong> phù hợp để đưa vào bộ sưu tập, hãy chọn \"Từ chối\". Sau đó, bạn sẽ được yêu cầu nhập thông báo cho biết lý do tại sao mặt hàng không phù hợp và liệu người gửi có nên thay đổi điều gì đó và gửi lại hay không.",
   
   // "submission.workflow.tasks.claimed.return": "Return to pool",
-  "submission.workflow.tasks.claimed.return": "Return to pool",
+  "submission.workflow.tasks.claimed.return": "Trở lại",
   
   // "submission.workflow.tasks.claimed.return_help": "Return the task to the pool so that another user may perform the task.",
-  "submission.workflow.tasks.claimed.return_help": "Return the task to the pool so that another user may perform the task.",
+  "submission.workflow.tasks.claimed.return_help": "Trả lại nhiệm vụ cho nhóm để người dùng khác có thể thực hiện nhiệm vụ.",
   
   
   
   // "submission.workflow.tasks.generic.error": "Error occurred during operation...",
-  "submission.workflow.tasks.generic.error": "Error occurred during operation...",
+  "submission.workflow.tasks.generic.error": "Lỗi xảy ra trong quá trình hoạt động...",
   
   // "submission.workflow.tasks.generic.processing": "Processing...",
-  "submission.workflow.tasks.generic.processing": "Processing...",
+  "submission.workflow.tasks.generic.processing": "Đang xử lý...",
   
   // "submission.workflow.tasks.generic.submitter": "Submitter",
-  "submission.workflow.tasks.generic.submitter": "Submitter",
+  "submission.workflow.tasks.generic.submitter": "Người gửi",
   
   // "submission.workflow.tasks.generic.success": "Operation successful",
-  "submission.workflow.tasks.generic.success": "Operation successful",
+  "submission.workflow.tasks.generic.success": "Hoạt động hoàn tất",
   
   
   
   // "submission.workflow.tasks.pool.claim": "Claim",
-  "submission.workflow.tasks.pool.claim": "Claim",
+  "submission.workflow.tasks.pool.claim": "Lấy",
   
   // "submission.workflow.tasks.pool.claim_help": "Assign this task to yourself.",
-  "submission.workflow.tasks.pool.claim_help": "Assign this task to yourself.",
+  "submission.workflow.tasks.pool.claim_help": "Đăng ký nhiệm vụ này cho chính bạn.",
   
   // "submission.workflow.tasks.pool.hide-detail": "Hide detail",
-  "submission.workflow.tasks.pool.hide-detail": "Hide detail",
+  "submission.workflow.tasks.pool.hide-detail": "Chi tiết ẩn",
   
   // "submission.workflow.tasks.pool.show-detail": "Show detail",
-  "submission.workflow.tasks.pool.show-detail": "Show detail",
+  "submission.workflow.tasks.pool.show-detail": "Hiển thị chi tiết",
   
   
   
   // "thumbnail.default.alt": "Thumbnail Image",
-  "thumbnail.default.alt": "Thumbnail Image",
+  "thumbnail.default.alt": "Ảnh thu nhỏ",
   
   // "thumbnail.default.placeholder": "No Thumbnail Available",
-  "thumbnail.default.placeholder": "No Thumbnail Available",
+  "thumbnail.default.placeholder": "Không có ảnh thu nhỏ",
   
   // "thumbnail.project.alt": "Project Logo",
-  "thumbnail.project.alt": "Project Logo",
+  "thumbnail.project.alt": "Biểu tượng dự án",
   
   // "thumbnail.project.placeholder": "Project Placeholder Image",
-  "thumbnail.project.placeholder": "Project Placeholder Image",
+  "thumbnail.project.placeholder": "Vùng đặt ảnh biểu tượng dự án",
   
   // "thumbnail.orgunit.alt": "OrgUnit Logo",
   "thumbnail.orgunit.alt": "OrgUnit Logo",
   
   // "thumbnail.orgunit.placeholder": "OrgUnit Placeholder Image",
-  "thumbnail.orgunit.placeholder": "OrgUnit Placeholder Image",
+  "thumbnail.orgunit.placeholder": "Vùng đặt ảnh Tổ chức đơn vị",
   
   // "thumbnail.person.alt": "Profile Picture",
-  "thumbnail.person.alt": "Profile Picture",
+  "thumbnail.person.alt": "Hồ sơ hình ảnh",
   
   // "thumbnail.person.placeholder": "No Profile Picture Available",
-  "thumbnail.person.placeholder": "No Profile Picture Available",
+  "thumbnail.person.placeholder": "Không có ảnh hồ sơ",
   
   
   
@@ -5347,7 +5347,7 @@
   
   
   // "vocabulary-treeview.header": "Hierarchical tree view",
-  "vocabulary-treeview.header": "Hierarchical tree view",
+  "vocabulary-treeview.header": "Chế độ xem dạng cây phân cấp",
   
   // "vocabulary-treeview.load-more": "Load more",
   "vocabulary-treeview.load-more": "Tải thêm",
@@ -5359,13 +5359,13 @@
   "vocabulary-treeview.search.form.search": "Tìm kiếm",
   
   // "vocabulary-treeview.search.no-result": "There were no items to show",
-  "vocabulary-treeview.search.no-result": "There were no items to show",
+  "vocabulary-treeview.search.no-result": "Không có mục để hiển thị",
   
   // "vocabulary-treeview.tree.description.nsi": "The Norwegian Science Index",
-  "vocabulary-treeview.tree.description.nsi": "The Norwegian Science Index",
+  "vocabulary-treeview.tree.description.nsi": "Chỉ số Khoa học Na Uy",
   
   // "vocabulary-treeview.tree.description.srsc": "Research Subject Categories",
-  "vocabulary-treeview.tree.description.srsc": "Research Subject Categories",
+  "vocabulary-treeview.tree.description.srsc": "Danh mục chủ đề nghiên cứu",
   
   
   
@@ -5373,63 +5373,63 @@
   "uploader.browse": "duyệt",
   
   // "uploader.drag-message": "Drag & Drop your files here",
-  "uploader.drag-message": "Drag & Drop your files here",
+  "uploader.drag-message": "Kéo và thả tệp của bạn vào đây",
   
   // "uploader.delete.btn-title": "Delete",
   "uploader.delete.btn-title": "Xóa",
   
   // "uploader.or": ", or ",
-  "uploader.or": ", or ",
+  "uploader.or": ", hoặc ",
   
   // "uploader.processing": "Processing",
   "uploader.processing": "Xử lý",
   
   // "uploader.queue-length": "Queue length",
-  "uploader.queue-length": "Queue length",
+  "uploader.queue-length": "Chiều dài hàng đợi",
   
   // "virtual-metadata.delete-item.info": "Select the types for which you want to save the virtual metadata as real metadata",
-  "virtual-metadata.delete-item.info": "Select the types for which you want to save the virtual metadata as real metadata",
+  "virtual-metadata.delete-item.info": "Chọn loại mà bạn muốn lưu siêu dữ liệu ảo dưới dạng siêu dữ liệu thực",
   
   // "virtual-metadata.delete-item.modal-head": "The virtual metadata of this relation",
-  "virtual-metadata.delete-item.modal-head": "The virtual metadata of this relation",
+  "virtual-metadata.delete-item.modal-head": "Siêu dữ liệu ảo của mối quan hệ này",
   
   // "virtual-metadata.delete-relationship.modal-head": "Select the items for which you want to save the virtual metadata as real metadata",
-  "virtual-metadata.delete-relationship.modal-head": "Select the items for which you want to save the virtual metadata as real metadata",
+  "virtual-metadata.delete-relationship.modal-head": "Chọn các mục mà bạn muốn lưu siêu dữ liệu ảo dưới dạng siêu dữ liệu thực",
   
   
   
   // "workflowAdmin.search.results.head": "Administer Workflow",
-  "workflowAdmin.search.results.head": "Quản lý Workflow",
+  "workflowAdmin.search.results.head": "Quản lý quy trình làm việc",
   
   
   
   // "workflow-item.edit.breadcrumbs": "Edit workflowitem",
-  "workflow-item.edit.breadcrumbs": "Edit workflowitem",
+  "workflow-item.edit.breadcrumbs": "Chỉnh sửa mục quy trình công việc",
   
   // "workflow-item.edit.title": "Edit workflowitem",
-  "workflow-item.edit.title": "Edit workflowitem",
+  "workflow-item.edit.title": "Chỉnh sửa mục quy trình công việc",
   
   // "workflow-item.edit.title": "View workflowitem",
   // TODO Source message changed - Revise the translation
-  "workflow-item.edit.title": "Edit workflowitem",
+  "workflow-item.edit.title": "Chỉnh sửa mục quy trình công việc",
   
   // "workflow-item.delete.notification.success.title": "Deleted",
-  "workflow-item.delete.notification.success.title": "Deleted",
+  "workflow-item.delete.notification.success.title": "Đã xóa",
   
   // "workflow-item.delete.notification.success.content": "This workflow item was successfully deleted",
-  "workflow-item.delete.notification.success.content": "This workflow item was successfully deleted",
+  "workflow-item.delete.notification.success.content": "Mục quy trình làm việc này đã được xóa thành công",
   
   // "workflow-item.delete.notification.error.title": "Something went wrong",
-  "workflow-item.delete.notification.error.title": "Something went wrong",
+  "workflow-item.delete.notification.error.title": "Đã xảy ra sự cố",
   
   // "workflow-item.delete.notification.error.content": "The workflow item could not be deleted",
-  "workflow-item.delete.notification.error.content": "The workflow item could not be deleted",
+  "workflow-item.delete.notification.error.content": "Không thể xóa mục quy trình làm việc",
   
   // "workflow-item.delete.title": "Delete workflow item",
-  "workflow-item.delete.title": "Delete workflow item",
+  "workflow-item.delete.title": "Xóa mục quy trình làm việc",
   
   // "workflow-item.delete.header": "Delete workflow item",
-  "workflow-item.delete.header": "Delete workflow item",
+  "workflow-item.delete.header": "Xóa mục quy trình làm việc",
   
   // "workflow-item.delete.button.cancel": "Cancel",
   "workflow-item.delete.button.cancel": "Hủy",
@@ -5439,22 +5439,22 @@
   
   
   // "workflow-item.send-back.notification.success.title": "Sent back to submitter",
-  "workflow-item.send-back.notification.success.title": "Sent back to submitter",
+  "workflow-item.send-back.notification.success.title": "Đã gửi lại cho người gửi",
   
   // "workflow-item.send-back.notification.success.content": "This workflow item was successfully sent back to the submitter",
-  "workflow-item.send-back.notification.success.content": "This workflow item was successfully sent back to the submitter",
+  "workflow-item.send-back.notification.success.content": "Mục quy trình công việc này đã được gửi lại thành công cho người gửi",
   
   // "workflow-item.send-back.notification.error.title": "Something went wrong",
-  "workflow-item.send-back.notification.error.title": "Something went wrong",
+  "workflow-item.send-back.notification.error.title": "Đã xảy ra sự cố",
   
   // "workflow-item.send-back.notification.error.content": "The workflow item could not be sent back to the submitter",
-  "workflow-item.send-back.notification.error.content": "The workflow item could not be sent back to the submitter",
+  "workflow-item.send-back.notification.error.content": "Không thể gửi lại mục quy trình làm việc cho người gửi",
   
   // "workflow-item.send-back.title": "Send workflow item back to submitter",
-  "workflow-item.send-back.title": "Send workflow item back to submitter",
+  "workflow-item.send-back.title": "Gửi lại mục quy trình làm việc cho người gửi",
   
   // "workflow-item.send-back.header": "Send workflow item back to submitter",
-  "workflow-item.send-back.header": "Send workflow item back to submitter",
+  "workflow-item.send-back.header": "Gửi lại mục quy trình làm việc cho người gửi",
   
   // "workflow-item.send-back.button.cancel": "Cancel",
   "workflow-item.send-back.button.cancel": "Hủy",
@@ -5463,14 +5463,14 @@
   "workflow-item.send-back.button.confirm": "Gửi lại",
   
   // "workflow-item.view.breadcrumbs": "Workflow View",
-  "workflow-item.view.breadcrumbs": "Workflow View",
+  "workflow-item.view.breadcrumbs": "Chế độ xem quy trình làm việc",
   
   
   // "idle-modal.header": "Session will expire soon",
-  "idle-modal.header": "Session will expire soon",
+  "idle-modal.header": "Phiên sẽ sớm hết hạn",
   
   // "idle-modal.info": "For security reasons, user sessions expire after {{ timeToExpire }} minutes of inactivity. Your session will expire soon. Would you like to extend it or log out?",
-  "idle-modal.info": "For security reasons, user sessions expire after {{ timeToExpire }} minutes of inactivity. Your session will expire soon. Would you like to extend it or log out?",
+  "idle-modal.info": "Vì lý do bảo mật, phiên người dùng sẽ hết hạn sau {{ timeToExpire }} phút không hoạt động. Phiên của bạn sẽ sớm hết hạn. Bạn muốn gia hạn hay đăng xuất?",
   
   // "idle-modal.log-out": "Log out",
   "idle-modal.log-out": "Đăng xuất",
