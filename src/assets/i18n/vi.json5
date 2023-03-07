@@ -3749,423 +3749,423 @@
   "profile.security.form.error.password-length": "Mật khẩu phải dài ít nhất 6 ký tự.",
   
   // "profile.security.form.info": "Optionally, you can enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
-  "profile.security.form.info": "Optionally, you can enter a new password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
+  "profile.security.form.info": "Theo tùy chọn, bạn có thể nhập mật khẩu mới vào ô bên dưới và xác nhận bằng cách nhập lại mật khẩu đó vào ô thứ hai. Nó phải dài ít nhất sáu ký tự.",
   
   // "profile.security.form.label.password": "Password",
-  "profile.security.form.label.password": "Password",
+  "profile.security.form.label.password": "Mật khẩu",
   
   // "profile.security.form.label.passwordrepeat": "Retype to confirm",
-  "profile.security.form.label.passwordrepeat": "Retype to confirm",
+  "profile.security.form.label.passwordrepeat": "Nhập lại để xác nhận",
   
   // "profile.security.form.notifications.success.content": "Your changes to the password were saved.",
-  "profile.security.form.notifications.success.content": "Your changes to the password were saved.",
+  "profile.security.form.notifications.success.content": "Thay đổi mật khẩu đã được lưu.",
   
   // "profile.security.form.notifications.success.title": "Password saved",
-  "profile.security.form.notifications.success.title": "Password saved",
+  "profile.security.form.notifications.success.title": "Đã lưu mật khẩu",
   
   // "profile.security.form.notifications.error.title": "Error changing passwords",
-  "profile.security.form.notifications.error.title": "Error changing passwords",
+  "profile.security.form.notifications.error.title": "Lỗi đổi mật khẩu",
   
   // "profile.security.form.notifications.error.not-long-enough": "The password has to be at least 6 characters long.",
-  "profile.security.form.notifications.error.not-long-enough": "The password has to be at least 6 characters long.",
+  "profile.security.form.notifications.error.not-long-enough": "Mật khẩu phải dài ít nhất 6 ký tự.",
   
   // "profile.security.form.notifications.error.not-same": "The provided passwords are not the same.",
-  "profile.security.form.notifications.error.not-same": "The provided passwords are not the same.",
+  "profile.security.form.notifications.error.not-same": "Mật khẩu được cung cấp không giống nhau.",
   
   // "profile.title": "Update Profile",
-  "profile.title": "Update Profile",
+  "profile.title": "Cập nhật hồ sơ",
   
   
   
   // "project.listelement.badge": "Research Project",
-  "project.listelement.badge": "Research Project",
+  "project.listelement.badge": "Dự án nghiên cứu",
   
   // "project.page.contributor": "Contributors",
-  "project.page.contributor": "Contributors",
+  "project.page.contributor": "Những người đóng góp",
   
   // "project.page.description": "Description",
-  "project.page.description": "Description",
+  "project.page.description": "Mô tả",
   
   // "project.page.edit": "Edit this item",
-  "project.page.edit": "Edit this item",
+  "project.page.edit": "Chỉnh sửa mục này",
   
   // "project.page.expectedcompletion": "Expected Completion",
-  "project.page.expectedcompletion": "Expected Completion",
+  "project.page.expectedcompletion": "Kỳ vọng vào sự hoàn thành",
   
   // "project.page.funder": "Funders",
-  "project.page.funder": "Funders",
+  "project.page.funder": "Nhà tài trợ",
   
   // "project.page.id": "ID",
   "project.page.id": "ID",
   
   // "project.page.keyword": "Keywords",
-  "project.page.keyword": "Keywords",
+  "project.page.keyword": "Từ khóa",
   
   // "project.page.status": "Status",
-  "project.page.status": "Status",
+  "project.page.status": "Trạng thái",
   
   // "project.page.titleprefix": "Research Project: ",
-  "project.page.titleprefix": "Research Project: ",
+  "project.page.titleprefix": "Dự án nghiên cứu: ",
   
   // "project.search.results.head": "Project Search Results",
-  "project.search.results.head": "Project Search Results",
+  "project.search.results.head": "Kết quả tìm kiếm dự án",
   
   
   
   // "publication.listelement.badge": "Publication",
-  "publication.listelement.badge": "Publication",
+  "publication.listelement.badge": "Xuất bản",
   
   // "publication.page.description": "Description",
-  "publication.page.description": "Description",
+  "publication.page.description": "Mô tả",
   
   // "publication.page.edit": "Edit this item",
-  "publication.page.edit": "Edit this item",
+  "publication.page.edit": "Chỉnh sửa mục này",
   
   // "publication.page.journal-issn": "Journal ISSN",
-  "publication.page.journal-issn": "Journal ISSN",
+  "publication.page.journal-issn": "Tạp chí ISSN",
   
   // "publication.page.journal-title": "Journal Title",
-  "publication.page.journal-title": "Journal Title",
+  "publication.page.journal-title": "Tiêu đề tạp chí",
   
   // "publication.page.publisher": "Publisher",
-  "publication.page.publisher": "Publisher",
+  "publication.page.publisher": "Nhà xuất bản",
   
   // "publication.page.titleprefix": "Publication: ",
-  "publication.page.titleprefix": "Publication: ",
+  "publication.page.titleprefix": "Xuất bản: ",
   
   // "publication.page.volume-title": "Volume Title",
-  "publication.page.volume-title": "Volume Title",
+  "publication.page.volume-title": "Tiêu đề tập",
   
   // "publication.search.results.head": "Publication Search Results",
-  "publication.search.results.head": "Publication Search Results",
+  "publication.search.results.head": "Kết quả tìm kiếm xuất bản",
   
   // "publication.search.title": "Publication Search",
-  "publication.search.title": "Publication Search",
+  "publication.search.title": "Tìm kiếm xuất bản",
   
   
   // "media-viewer.next": "Next",
-  "media-viewer.next": "Next",
+  "media-viewer.next": "Kế",
   
   // "media-viewer.previous": "Previous",
-  "media-viewer.previous": "Previous",
+  "media-viewer.previous": "Trước",
   
   // "media-viewer.playlist": "Playlist",
-  "media-viewer.playlist": "Playlist",
+  "media-viewer.playlist": "Danh sách phát",
   
   
   // "register-email.title": "New user registration",
-  "register-email.title": "New user registration",
+  "register-email.title": "Đăng ký người dùng mới",
   
   // "register-page.create-profile.header": "Create Profile",
-  "register-page.create-profile.header": "Create Profile",
+  "register-page.create-profile.header": "Tạo hồ sơ",
   
   // "register-page.create-profile.identification.header": "Identify",
-  "register-page.create-profile.identification.header": "Identify",
+  "register-page.create-profile.identification.header": "Định danh",
   
   // "register-page.create-profile.identification.email": "Email Address",
-  "register-page.create-profile.identification.email": "Email Address",
+  "register-page.create-profile.identification.email": "Địa chỉ email",
   
   // "register-page.create-profile.identification.first-name": "First Name *",
-  "register-page.create-profile.identification.first-name": "First Name *",
+  "register-page.create-profile.identification.first-name": "Họ *",
   
   // "register-page.create-profile.identification.first-name.error": "Please fill in a First Name",
-  "register-page.create-profile.identification.first-name.error": "Please fill in a First Name",
+  "register-page.create-profile.identification.first-name.error": "Vui lòng nhập vào Họ",
   
   // "register-page.create-profile.identification.last-name": "Last Name *",
-  "register-page.create-profile.identification.last-name": "Last Name *",
+  "register-page.create-profile.identification.last-name": "Tên *",
   
   // "register-page.create-profile.identification.last-name.error": "Please fill in a Last Name",
-  "register-page.create-profile.identification.last-name.error": "Please fill in a Last Name",
+  "register-page.create-profile.identification.last-name.error": "Vui lòng nhập vào Tên",
   
   // "register-page.create-profile.identification.contact": "Contact Telephone",
-  "register-page.create-profile.identification.contact": "Contact Telephone",
+  "register-page.create-profile.identification.contact": "Điện thoại liên hệ",
   
   // "register-page.create-profile.identification.language": "Language",
-  "register-page.create-profile.identification.language": "Language",
+  "register-page.create-profile.identification.language": "Ngôn ngữ",
   
   // "register-page.create-profile.security.header": "Security",
-  "register-page.create-profile.security.header": "Security",
+  "register-page.create-profile.security.header": "Bảo vệ",
   
   // "register-page.create-profile.security.info": "Please enter a password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
-  "register-page.create-profile.security.info": "Please enter a password in the box below, and confirm it by typing it again into the second box. It should be at least six characters long.",
+  "register-page.create-profile.security.info": "Vui lòng nhập mật khẩu vào ô bên dưới và xác nhận bằng cách nhập lại mật khẩu vào ô thứ hai. Nó phải dài ít nhất 6 ký tự.",
   
   // "register-page.create-profile.security.label.password": "Password *",
-  "register-page.create-profile.security.label.password": "Password *",
+  "register-page.create-profile.security.label.password": "Mật khẩu *",
   
   // "register-page.create-profile.security.label.passwordrepeat": "Retype to confirm *",
-  "register-page.create-profile.security.label.passwordrepeat": "Retype to confirm *",
+  "register-page.create-profile.security.label.passwordrepeat": "Xác nhận lại mật khẩu *",
   
   // "register-page.create-profile.security.error.empty-password": "Please enter a password in the box below.",
-  "register-page.create-profile.security.error.empty-password": "Please enter a password in the box below.",
+  "register-page.create-profile.security.error.empty-password": "Vui lòng nhập mật khẩu vào ô bên dưới.",
   
   // "register-page.create-profile.security.error.matching-passwords": "The passwords do not match.",
-  "register-page.create-profile.security.error.matching-passwords": "The passwords do not match.",
+  "register-page.create-profile.security.error.matching-passwords": "Mật khẩu không trùng khớp.",
   
   // "register-page.create-profile.security.error.password-length": "The password should be at least 6 characters long.",
-  "register-page.create-profile.security.error.password-length": "The password should be at least 6 characters long.",
+  "register-page.create-profile.security.error.password-length": "Mật khẩu phải dài ít nhất 6 ký tự.",
   
   // "register-page.create-profile.submit": "Complete Registration",
-  "register-page.create-profile.submit": "Complete Registration",
+  "register-page.create-profile.submit": "Hoàn thành đăng ký",
   
   // "register-page.create-profile.submit.error.content": "Something went wrong while registering a new user.",
-  "register-page.create-profile.submit.error.content": "Something went wrong while registering a new user.",
+  "register-page.create-profile.submit.error.content": "Đã xảy ra lỗi khi đăng ký người dùng mới.",
   
   // "register-page.create-profile.submit.error.head": "Registration failed",
-  "register-page.create-profile.submit.error.head": "Registration failed",
+  "register-page.create-profile.submit.error.head": "Lỗi đăng ký",
   
   // "register-page.create-profile.submit.success.content": "The registration was successful. You have been logged in as the created user.",
-  "register-page.create-profile.submit.success.content": "The registration was successful. You have been logged in as the created user.",
+  "register-page.create-profile.submit.success.content": "Việc đăng ký đã thành công. Bạn đã đăng nhập với tư cách người dùng chính thức.",
   
   // "register-page.create-profile.submit.success.head": "Registration completed",
-  "register-page.create-profile.submit.success.head": "Registration completed",
+  "register-page.create-profile.submit.success.head": "Đã hoàn thành đăng ký",
   
   
   // "register-page.registration.header": "New user registration",
-  "register-page.registration.header": "New user registration",
+  "register-page.registration.header": "Đăng ký người dùng mới",
   
   // "register-page.registration.info": "Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
-  "register-page.registration.info": "Register an account to subscribe to collections for email updates, and submit new items to DSpace.",
+  "register-page.registration.info": "Đăng ký một tài khoản để theo dõi các bộ sưu tập, cập nhật email để nhận và gửi các mục mới tới DSpace.",
   
   // "register-page.registration.email": "Email Address *",
-  "register-page.registration.email": "Email Address *",
+  "register-page.registration.email": "Địa chỉ email *",
   
   // "register-page.registration.email.error.required": "Please fill in an email address",
-  "register-page.registration.email.error.required": "Please fill in an email address",
+  "register-page.registration.email.error.required": "Vui lòng điền địa chỉ email",
   
   // "register-page.registration.email.error.pattern": "Please fill in a valid email address",
-  "register-page.registration.email.error.pattern": "Please fill in a valid email address",
+  "register-page.registration.email.error.pattern": "Hãy điền địa chỉ email hợp lệ",
   
   // "register-page.registration.email.hint": "This address will be verified and used as your login name.",
-  "register-page.registration.email.hint": "This address will be verified and used as your login name.",
+  "register-page.registration.email.hint": "Địa chỉ này sẽ được xác minh và sử dụng làm tên đăng nhập của bạn.",
   
   // "register-page.registration.submit": "Register",
-  "register-page.registration.submit": "Register",
+  "register-page.registration.submit": "Đăng ký",
   
   // "register-page.registration.success.head": "Verification email sent",
-  "register-page.registration.success.head": "Verification email sent",
+  "register-page.registration.success.head": "Gửi email xác minh",
   
   // "register-page.registration.success.content": "An email has been sent to {{ email }} containing a special URL and further instructions.",
-  "register-page.registration.success.content": "An email has been sent to {{ email }} containing a special URL and further instructions.",
+  "register-page.registration.success.content": "Một email đã được gửi tới {{ email }} có chứa một URL (liên kết) hướng dẫn xác minh.",
   
   // "register-page.registration.error.head": "Error when trying to register email",
-  "register-page.registration.error.head": "Error when trying to register email",
+  "register-page.registration.error.head": "Lỗi khi đăng ký email",
   
   // "register-page.registration.error.content": "An error occured when registering the following email address: {{ email }}",
-  "register-page.registration.error.content": "An error occured when registering the following email address: {{ email }}",
+  "register-page.registration.error.content": "Đã xảy ra lỗi khi đăng ký địa chỉ email có tên sau: {{ email }}",
   
   
   
   // "relationships.add.error.relationship-type.content": "No suitable match could be found for relationship type {{ type }} between the two items",
-  "relationships.add.error.relationship-type.content": "No suitable match could be found for relationship type {{ type }} between the two items",
+  "relationships.add.error.relationship-type.content": "Không tìm thấy kết quả phù hợp nào cho kiểu quan hệ {{ type }} giữa hai mục",
   
   // "relationships.add.error.server.content": "The server returned an error",
-  "relationships.add.error.server.content": "The server returned an error",
+  "relationships.add.error.server.content": "Máy chủ trả về lỗi",
   
   // "relationships.add.error.title": "Unable to add relationship",
-  "relationships.add.error.title": "Unable to add relationship",
+  "relationships.add.error.title": "Không thể thêm mối quan hệ",
   
   // "relationships.isAuthorOf": "Authors",
-  "relationships.isAuthorOf": "Authors",
+  "relationships.isAuthorOf": "Tác giả",
   
   // "relationships.isAuthorOf.Person": "Authors (persons)",
-  "relationships.isAuthorOf.Person": "Authors (persons)",
+  "relationships.isAuthorOf.Person": "Tác giả (người dùng)",
   
   // "relationships.isAuthorOf.OrgUnit": "Authors (organizational units)",
-  "relationships.isAuthorOf.OrgUnit": "Authors (organizational units)",
+  "relationships.isAuthorOf.OrgUnit": "Tác giả (Đơn vị/Tổ chức)",
   
   // "relationships.isIssueOf": "Journal Issues",
-  "relationships.isIssueOf": "Journal Issues",
+  "relationships.isIssueOf": "Số tạp chí",
   
   // "relationships.isJournalIssueOf": "Journal Issue",
-  "relationships.isJournalIssueOf": "Journal Issue",
+  "relationships.isJournalIssueOf": "Số tạp chí",
   
   // "relationships.isJournalOf": "Journals",
-  "relationships.isJournalOf": "Journals",
+  "relationships.isJournalOf": "Tạp chí",
   
   // "relationships.isOrgUnitOf": "Organizational Units",
-  "relationships.isOrgUnitOf": "Organizational Units",
+  "relationships.isOrgUnitOf": "Tổ chức/Đơn vị",
   
   // "relationships.isPersonOf": "Authors",
-  "relationships.isPersonOf": "Authors",
+  "relationships.isPersonOf": "Tác giả",
   
   // "relationships.isProjectOf": "Research Projects",
-  "relationships.isProjectOf": "Research Projects",
+  "relationships.isProjectOf": "Tìm kiếm các dự án",
   
   // "relationships.isPublicationOf": "Publications",
-  "relationships.isPublicationOf": "Publications",
+  "relationships.isPublicationOf": "Xuất bản",
   
   // "relationships.isPublicationOfJournalIssue": "Articles",
-  "relationships.isPublicationOfJournalIssue": "Articles",
+  "relationships.isPublicationOfJournalIssue": "Bài viết",
   
   // "relationships.isSingleJournalOf": "Journal",
-  "relationships.isSingleJournalOf": "Journal",
+  "relationships.isSingleJournalOf": "Tạp chí",
   
   // "relationships.isSingleVolumeOf": "Journal Volume",
-  "relationships.isSingleVolumeOf": "Journal Volume",
+  "relationships.isSingleVolumeOf": "Số tạp chí",
   
   // "relationships.isVolumeOf": "Journal Volumes",
-  "relationships.isVolumeOf": "Journal Volumes",
+  "relationships.isVolumeOf": "Số tạp chí",
   
   // "relationships.isContributorOf": "Contributors",
-  "relationships.isContributorOf": "Contributors",
+  "relationships.isContributorOf": "Người đóng góp",
   
   
   // "repository.image.logo": "Repository logo",
-  "repository.image.logo": "Repository logo",
+  "repository.image.logo": "Biểu tượng kho lưu trữ",
   
   // "repository.title.prefix": "DSpace Angular :: ",
   "repository.title.prefix": "DSpace Angular :: ",
   
   
   // "resource-policies.add.button": "Add",
-  "resource-policies.add.button": "Add",
+  "resource-policies.add.button": "Thêm",
   
   // "resource-policies.add.for.": "Add a new policy",
-  "resource-policies.add.for.": "Add a new policy",
+  "resource-policies.add.for.": "Thêm một chính sách mới",
   
   // "resource-policies.add.for.bitstream": "Add a new Bitstream policy",
-  "resource-policies.add.for.bitstream": "Add a new Bitstream policy",
+  "resource-policies.add.for.bitstream": "Thêm chính sách Dòng bit mới",
   
   // "resource-policies.add.for.bundle": "Add a new Bundle policy",
-  "resource-policies.add.for.bundle": "Add a new Bundle policy",
+  "resource-policies.add.for.bundle": "Thêm chính sách Gói mới",
   
   // "resource-policies.add.for.item": "Add a new Item policy",
-  "resource-policies.add.for.item": "Add a new Item policy",
+  "resource-policies.add.for.item": "Thêm chính sách mục mới",
   
   // "resource-policies.add.for.community": "Add a new Community policy",
-  "resource-policies.add.for.community": "Add a new Community policy",
+  "resource-policies.add.for.community": "Thêm chính sách cộng đồng mới",
   
   // "resource-policies.add.for.collection": "Add a new Collection policy",
-  "resource-policies.add.for.collection": "Add a new Collection policy",
+  "resource-policies.add.for.collection": "Thêm chính sách bộ sưu tập mới",
   
   // "resource-policies.create.page.heading": "Create new resource policy for ",
-  "resource-policies.create.page.heading": "Create new resource policy for ",
+  "resource-policies.create.page.heading": "Tạo chính sách tài nguyên mới cho ",
   
   // "resource-policies.create.page.failure.content": "An error occurred while creating the resource policy.",
-  "resource-policies.create.page.failure.content": "An error occurred while creating the resource policy.",
+  "resource-policies.create.page.failure.content": "Đã xảy ra lỗi khi tạo chính sách tài nguyên.",
   
   // "resource-policies.create.page.success.content": "Operation successful",
-  "resource-policies.create.page.success.content": "Operation successful",
+  "resource-policies.create.page.success.content": "Hoạt động hoàn tất",
   
   // "resource-policies.create.page.title": "Create new resource policy",
-  "resource-policies.create.page.title": "Create new resource policy",
+  "resource-policies.create.page.title": "Tạo chính sách tài nguyên mới",
   
   // "resource-policies.delete.btn": "Delete selected",
-  "resource-policies.delete.btn": "Delete selected",
+  "resource-policies.delete.btn": "Xóa đã chọn",
   
   // "resource-policies.delete.btn.title": "Delete selected resource policies",
-  "resource-policies.delete.btn.title": "Delete selected resource policies",
+  "resource-policies.delete.btn.title": "Xóa các chính sách tài nguyên đã chọn",
   
   // "resource-policies.delete.failure.content": "An error occurred while deleting selected resource policies.",
-  "resource-policies.delete.failure.content": "An error occurred while deleting selected resource policies.",
+  "resource-policies.delete.failure.content": "Đã xảy ra lỗi khi xóa các chính sách tài nguyên đã chọn.",
   
   // "resource-policies.delete.success.content": "Operation successful",
-  "resource-policies.delete.success.content": "Operation successful",
+  "resource-policies.delete.success.content": "Hoạt động hoàn tất",
   
   // "resource-policies.edit.page.heading": "Edit resource policy ",
-  "resource-policies.edit.page.heading": "Edit resource policy ",
+  "resource-policies.edit.page.heading": "Chỉnh sửa chính sách tài nguyên",
   
   // "resource-policies.edit.page.failure.content": "An error occurred while editing the resource policy.",
-  "resource-policies.edit.page.failure.content": "An error occurred while editing the resource policy.",
+  "resource-policies.edit.page.failure.content": "Đã xảy ra lỗi khi chỉnh sửa chính sách tài nguyên.",
   
   // "resource-policies.edit.page.success.content": "Operation successful",
-  "resource-policies.edit.page.success.content": "Operation successful",
+  "resource-policies.edit.page.success.content": "Hoạt động hoàn tất",
   
   // "resource-policies.edit.page.title": "Edit resource policy",
-  "resource-policies.edit.page.title": "Edit resource policy",
+  "resource-policies.edit.page.title": "Chỉnh sửa chính sách tài nguyên",
   
   // "resource-policies.form.action-type.label": "Select the action type",
-  "resource-policies.form.action-type.label": "Select the action type",
+  "resource-policies.form.action-type.label": "Chọn loại hành động",
   
   // "resource-policies.form.action-type.required": "You must select the resource policy action.",
-  "resource-policies.form.action-type.required": "You must select the resource policy action.",
+  "resource-policies.form.action-type.required": "Bạn phải chọn hành động chính sách tài nguyên.",
   
   // "resource-policies.form.eperson-group-list.label": "The eperson or group that will be granted the permission",
-  "resource-policies.form.eperson-group-list.label": "The eperson or group that will be granted the permission",
+  "resource-policies.form.eperson-group-list.label": "Cá nhân hoặc nhóm sẽ được cấp quyền",
   
   // "resource-policies.form.eperson-group-list.select.btn": "Select",
-  "resource-policies.form.eperson-group-list.select.btn": "Select",
+  "resource-policies.form.eperson-group-list.select.btn": "Chọn",
   
   // "resource-policies.form.eperson-group-list.tab.eperson": "Search for a ePerson",
-  "resource-policies.form.eperson-group-list.tab.eperson": "Search for a ePerson",
+  "resource-policies.form.eperson-group-list.tab.eperson": "Tìm kiếm một ePerson",
   
   // "resource-policies.form.eperson-group-list.tab.group": "Search for a group",
-  "resource-policies.form.eperson-group-list.tab.group": "Search for a group",
+  "resource-policies.form.eperson-group-list.tab.group": "Tìm kiếm một nhóm",
   
   // "resource-policies.form.eperson-group-list.table.headers.action": "Action",
-  "resource-policies.form.eperson-group-list.table.headers.action": "Action",
+  "resource-policies.form.eperson-group-list.table.headers.action": "Hoạt động",
   
   // "resource-policies.form.eperson-group-list.table.headers.id": "ID",
   "resource-policies.form.eperson-group-list.table.headers.id": "ID",
   
   // "resource-policies.form.eperson-group-list.table.headers.name": "Name",
-  "resource-policies.form.eperson-group-list.table.headers.name": "Name",
+  "resource-policies.form.eperson-group-list.table.headers.name": "Tên",
   
   // "resource-policies.form.date.end.label": "End Date",
-  "resource-policies.form.date.end.label": "End Date",
+  "resource-policies.form.date.end.label": "Ngày kết thúc",
   
   // "resource-policies.form.date.start.label": "Start Date",
-  "resource-policies.form.date.start.label": "Start Date",
+  "resource-policies.form.date.start.label": "Ngày bắt đầu",
   
   // "resource-policies.form.description.label": "Description",
-  "resource-policies.form.description.label": "Description",
+  "resource-policies.form.description.label": "Mô tả",
   
   // "resource-policies.form.name.label": "Name",
-  "resource-policies.form.name.label": "Name",
+  "resource-policies.form.name.label": "Tên",
   
   // "resource-policies.form.policy-type.label": "Select the policy type",
-  "resource-policies.form.policy-type.label": "Select the policy type",
+  "resource-policies.form.policy-type.label": "Chọn loại chính sách",
   
   // "resource-policies.form.policy-type.required": "You must select the resource policy type.",
-  "resource-policies.form.policy-type.required": "You must select the resource policy type.",
+  "resource-policies.form.policy-type.required": "Bạn phải chọn loại chính sách tài nguyên.",
   
   // "resource-policies.table.headers.action": "Action",
-  "resource-policies.table.headers.action": "Action",
+  "resource-policies.table.headers.action": "Hoạt động",
   
   // "resource-policies.table.headers.date.end": "End Date",
-  "resource-policies.table.headers.date.end": "End Date",
+  "resource-policies.table.headers.date.end": "Ngày kết thúc",
   
   // "resource-policies.table.headers.date.start": "Start Date",
-  "resource-policies.table.headers.date.start": "Start Date",
+  "resource-policies.table.headers.date.start": "Ngày bắt đầu",
   
   // "resource-policies.table.headers.edit": "Edit",
-  "resource-policies.table.headers.edit": "Edit",
+  "resource-policies.table.headers.edit": "Sửa",
   
   // "resource-policies.table.headers.edit.group": "Edit group",
-  "resource-policies.table.headers.edit.group": "Edit group",
+  "resource-policies.table.headers.edit.group": "Chỉnh sửa nhóm",
   
   // "resource-policies.table.headers.edit.policy": "Edit policy",
-  "resource-policies.table.headers.edit.policy": "Edit policy",
+  "resource-policies.table.headers.edit.policy": "Chỉnh sửa chính sách",
   
   // "resource-policies.table.headers.eperson": "EPerson",
   "resource-policies.table.headers.eperson": "EPerson",
   
   // "resource-policies.table.headers.group": "Group",
-  "resource-policies.table.headers.group": "Group",
+  "resource-policies.table.headers.group": "Nhóm",
   
   // "resource-policies.table.headers.id": "ID",
   "resource-policies.table.headers.id": "ID",
   
   // "resource-policies.table.headers.name": "Name",
-  "resource-policies.table.headers.name": "Name",
+  "resource-policies.table.headers.name": "Tên",
   
   // "resource-policies.table.headers.policyType": "type",
-  "resource-policies.table.headers.policyType": "type",
+  "resource-policies.table.headers.policyType": "loại",
   
   // "resource-policies.table.headers.title.for.bitstream": "Policies for Bitstream",
-  "resource-policies.table.headers.title.for.bitstream": "Policies for Bitstream",
+  "resource-policies.table.headers.title.for.bitstream": "Chính sách cho dòng bit",
   
   // "resource-policies.table.headers.title.for.bundle": "Policies for Bundle",
-  "resource-policies.table.headers.title.for.bundle": "Policies for Bundle",
+  "resource-policies.table.headers.title.for.bundle": "Chính sách cho gói",
   
   // "resource-policies.table.headers.title.for.item": "Policies for Item",
-  "resource-policies.table.headers.title.for.item": "Policies for Item",
+  "resource-policies.table.headers.title.for.item": "Chính sách cho mục",
   
   // "resource-policies.table.headers.title.for.community": "Policies for Community",
-  "resource-policies.table.headers.title.for.community": "Policies for Community",
+  "resource-policies.table.headers.title.for.community": "Chính sách cho cộng đồng",
   
   // "resource-policies.table.headers.title.for.collection": "Policies for Collection",
-  "resource-policies.table.headers.title.for.collection": "Policies for Collection",
+  "resource-policies.table.headers.title.for.collection": "Chính sách cho bộ sưu tập",
   
   
   
@@ -4173,271 +4173,271 @@
   "search.description": "",
   
   // "search.switch-configuration.title": "Show",
-  "search.switch-configuration.title": "Show",
+  "search.switch-configuration.title": "Hiển thị",
   
   // "search.title": "Search",
-  "search.title": "Search",
+  "search.title": "Tìm kiếm",
   
   // "search.breadcrumbs": "Search",
-  "search.breadcrumbs": "Search",
+  "search.breadcrumbs": "Tìm kiếm",
   
   // "search.search-form.placeholder": "Search the repository ...",
-  "search.search-form.placeholder": "Search the repository ...",
+  "search.search-form.placeholder": "Tìm kiếm kho lưu trữ ...",
   
   
   // "search.filters.applied.f.author": "Author",
-  "search.filters.applied.f.author": "Author",
+  "search.filters.applied.f.author": "Tác giả",
   
   // "search.filters.applied.f.dateIssued.max": "End date",
-  "search.filters.applied.f.dateIssued.max": "End date",
+  "search.filters.applied.f.dateIssued.max": "Ngày kết thúc",
   
   // "search.filters.applied.f.dateIssued.min": "Start date",
-  "search.filters.applied.f.dateIssued.min": "Start date",
+  "search.filters.applied.f.dateIssued.min": "Ngày bắt đầu",
   
   // "search.filters.applied.f.dateSubmitted": "Date submitted",
-  "search.filters.applied.f.dateSubmitted": "Date submitted",
+  "search.filters.applied.f.dateSubmitted": "Ngày đã gửi",
   
   // "search.filters.applied.f.discoverable": "Private",
-  "search.filters.applied.f.discoverable": "Private",
+  "search.filters.applied.f.discoverable": "Riêng tư",
   
   // "search.filters.applied.f.entityType": "Item Type",
-  "search.filters.applied.f.entityType": "Item Type",
+  "search.filters.applied.f.entityType": "Loại mục",
   
   // "search.filters.applied.f.has_content_in_original_bundle": "Has files",
-  "search.filters.applied.f.has_content_in_original_bundle": "Has files",
+  "search.filters.applied.f.has_content_in_original_bundle": "Có tập tin",
   
   // "search.filters.applied.f.itemtype": "Type",
-  "search.filters.applied.f.itemtype": "Type",
+  "search.filters.applied.f.itemtype": "Loại",
   
   // "search.filters.applied.f.namedresourcetype": "Status",
-  "search.filters.applied.f.namedresourcetype": "Status",
+  "search.filters.applied.f.namedresourcetype": "Trạng thái",
   
   // "search.filters.applied.f.subject": "Subject",
-  "search.filters.applied.f.subject": "Subject",
+  "search.filters.applied.f.subject": "Chủ đề",
   
   // "search.filters.applied.f.submitter": "Submitter",
-  "search.filters.applied.f.submitter": "Submitter",
+  "search.filters.applied.f.submitter": "Người gửi",
   
   // "search.filters.applied.f.jobTitle": "Job Title",
-  "search.filters.applied.f.jobTitle": "Job Title",
+  "search.filters.applied.f.jobTitle": "Chức vụ",
   
   // "search.filters.applied.f.birthDate.max": "End birth date",
-  "search.filters.applied.f.birthDate.max": "End birth date",
+  "search.filters.applied.f.birthDate.max": "Kết thúc Ngày sinh",
   
   // "search.filters.applied.f.birthDate.min": "Start birth date",
-  "search.filters.applied.f.birthDate.min": "Start birth date",
+  "search.filters.applied.f.birthDate.min": "Bắt đầu ngày sinh",
   
   // "search.filters.applied.f.withdrawn": "Withdrawn",
-  "search.filters.applied.f.withdrawn": "Withdrawn",
+  "search.filters.applied.f.withdrawn": "Thu hồi/Rút",
   
   
   
   // "search.filters.filter.author.head": "Author",
-  "search.filters.filter.author.head": "Author",
+  "search.filters.filter.author.head": "Tác giả",
   
   // "search.filters.filter.author.placeholder": "Author name",
-  "search.filters.filter.author.placeholder": "Author name",
+  "search.filters.filter.author.placeholder": "Tên tác giả",
   
   // "search.filters.filter.author.label": "Search author name",
-  "search.filters.filter.author.label": "Search author name",
+  "search.filters.filter.author.label": "Tìm kiếm tên tác giả",
   
   // "search.filters.filter.birthDate.head": "Birth Date",
-  "search.filters.filter.birthDate.head": "Birth Date",
+  "search.filters.filter.birthDate.head": "Ngày sinh",
   
   // "search.filters.filter.birthDate.placeholder": "Birth Date",
-  "search.filters.filter.birthDate.placeholder": "Birth Date",
+  "search.filters.filter.birthDate.placeholder": "Ngày sinh",
   
   // "search.filters.filter.birthDate.label": "Search birth date",
-  "search.filters.filter.birthDate.label": "Search birth date",
+  "search.filters.filter.birthDate.label": "Tìm kiếm ngày sinh",
   
   // "search.filters.filter.collapse": "Collapse filter",
-  "search.filters.filter.collapse": "Collapse filter",
+  "search.filters.filter.collapse": "Thu gọn bộ lọc",
   
   // "search.filters.filter.creativeDatePublished.head": "Date Published",
-  "search.filters.filter.creativeDatePublished.head": "Date Published",
+  "search.filters.filter.creativeDatePublished.head": "Ngày xuất bản",
   
   // "search.filters.filter.creativeDatePublished.placeholder": "Date Published",
-  "search.filters.filter.creativeDatePublished.placeholder": "Date Published",
+  "search.filters.filter.creativeDatePublished.placeholder": "Ngày xuất bản",
   
   // "search.filters.filter.creativeDatePublished.label": "Search date published",
-  "search.filters.filter.creativeDatePublished.label": "Search date published",
+  "search.filters.filter.creativeDatePublished.label": "Tìm kiếm ngày xuất bản",
   
   // "search.filters.filter.creativeWorkEditor.head": "Editor",
-  "search.filters.filter.creativeWorkEditor.head": "Editor",
+  "search.filters.filter.creativeWorkEditor.head": "Biên tập viên",
   
   // "search.filters.filter.creativeWorkEditor.placeholder": "Editor",
-  "search.filters.filter.creativeWorkEditor.placeholder": "Editor",
+  "search.filters.filter.creativeWorkEditor.placeholder": "Biên tập viên",
   
   // "search.filters.filter.creativeWorkEditor.label": "Search editor",
-  "search.filters.filter.creativeWorkEditor.label": "Search editor",
+  "search.filters.filter.creativeWorkEditor.label": "Tìm kiếm biên tập viên",
   
   // "search.filters.filter.creativeWorkKeywords.head": "Subject",
-  "search.filters.filter.creativeWorkKeywords.head": "Subject",
+  "search.filters.filter.creativeWorkKeywords.head": "Chủ đề",
   
   // "search.filters.filter.creativeWorkKeywords.placeholder": "Subject",
   "search.filters.filter.creativeWorkKeywords.placeholder": "Subject",
   
   // "search.filters.filter.creativeWorkKeywords.label": "Search subject",
-  "search.filters.filter.creativeWorkKeywords.label": "Search subject",
+  "search.filters.filter.creativeWorkKeywords.label": "Tìm kiếm chủ đề",
   
   // "search.filters.filter.creativeWorkPublisher.head": "Publisher",
-  "search.filters.filter.creativeWorkPublisher.head": "Publisher",
+  "search.filters.filter.creativeWorkPublisher.head": "Nhà xuất bản",
   
   // "search.filters.filter.creativeWorkPublisher.placeholder": "Publisher",
-  "search.filters.filter.creativeWorkPublisher.placeholder": "Publisher",
+  "search.filters.filter.creativeWorkPublisher.placeholder": "Nhà xuất bản",
   
   // "search.filters.filter.creativeWorkPublisher.label": "Search publisher",
-  "search.filters.filter.creativeWorkPublisher.label": "Search publisher",
+  "search.filters.filter.creativeWorkPublisher.label": "Tìm kiếm Nhà xuất bản",
   
   // "search.filters.filter.dateIssued.head": "Date",
-  "search.filters.filter.dateIssued.head": "Date",
+  "search.filters.filter.dateIssued.head": "Ngày",
   
   // "search.filters.filter.dateIssued.max.placeholder": "Maximum Date",
   "search.filters.filter.dateIssued.max.placeholder": "Maximum Date",
   
   // "search.filters.filter.dateIssued.max.label": "End",
-  "search.filters.filter.dateIssued.max.label": "End",
+  "search.filters.filter.dateIssued.max.label": "Kết thúc",
   
   // "search.filters.filter.dateIssued.min.placeholder": "Minimum Date",
-  "search.filters.filter.dateIssued.min.placeholder": "Minimum Date",
+  "search.filters.filter.dateIssued.min.placeholder": "Ngày tối thiểu",
   
   // "search.filters.filter.dateIssued.min.label": "Start",
-  "search.filters.filter.dateIssued.min.label": "Start",
+  "search.filters.filter.dateIssued.min.label": "Bắt đầu",
   
   // "search.filters.filter.dateSubmitted.head": "Date submitted",
-  "search.filters.filter.dateSubmitted.head": "Date submitted",
+  "search.filters.filter.dateSubmitted.head": "Ngày đăng",
   
   // "search.filters.filter.dateSubmitted.placeholder": "Date submitted",
-  "search.filters.filter.dateSubmitted.placeholder": "Date submitted",
+  "search.filters.filter.dateSubmitted.placeholder": "Ngày đăng",
   
   // "search.filters.filter.dateSubmitted.label": "Search date submitted",
-  "search.filters.filter.dateSubmitted.label": "Search date submitted",
+  "search.filters.filter.dateSubmitted.label": "Tìm kiếm ngày đăng",
   
   // "search.filters.filter.discoverable.head": "Private",
-  "search.filters.filter.discoverable.head": "Private",
+  "search.filters.filter.discoverable.head": "Riêng tư",
   
   // "search.filters.filter.withdrawn.head": "Withdrawn",
-  "search.filters.filter.withdrawn.head": "Withdrawn",
+  "search.filters.filter.withdrawn.head": "Thu hồi/Rút",
   
   // "search.filters.filter.entityType.head": "Item Type",
-  "search.filters.filter.entityType.head": "Item Type",
+  "search.filters.filter.entityType.head": "Loại mục",
   
   // "search.filters.filter.entityType.placeholder": "Item Type",
-  "search.filters.filter.entityType.placeholder": "Item Type",
+  "search.filters.filter.entityType.placeholder": "Loại mục",
   
   // "search.filters.filter.entityType.label": "Search item type",
-  "search.filters.filter.entityType.label": "Search item type",
+  "search.filters.filter.entityType.label": "Tìm kiếm theo loại mục",
   
   // "search.filters.filter.expand": "Expand filter",
-  "search.filters.filter.expand": "Expand filter",
+  "search.filters.filter.expand": "Mở rộng bộ lọc",
   
   // "search.filters.filter.has_content_in_original_bundle.head": "Has files",
-  "search.filters.filter.has_content_in_original_bundle.head": "Has files",
+  "search.filters.filter.has_content_in_original_bundle.head": "Có tập tin",
   
   // "search.filters.filter.itemtype.head": "Type",
-  "search.filters.filter.itemtype.head": "Type",
+  "search.filters.filter.itemtype.head": "Loại",
   
   // "search.filters.filter.itemtype.placeholder": "Type",
-  "search.filters.filter.itemtype.placeholder": "Type",
+  "search.filters.filter.itemtype.placeholder": "Loại",
   
   // "search.filters.filter.itemtype.label": "Search type",
-  "search.filters.filter.itemtype.label": "Search type",
+  "search.filters.filter.itemtype.label": "Tìm kiếm theo loại",
   
   // "search.filters.filter.jobTitle.head": "Job Title",
-  "search.filters.filter.jobTitle.head": "Job Title",
+  "search.filters.filter.jobTitle.head": "Chức vụ",
   
   // "search.filters.filter.jobTitle.placeholder": "Job Title",
-  "search.filters.filter.jobTitle.placeholder": "Job Title",
+  "search.filters.filter.jobTitle.placeholder": "Chức vụ",
   
   // "search.filters.filter.jobTitle.label": "Search job title",
-  "search.filters.filter.jobTitle.label": "Search job title",
+  "search.filters.filter.jobTitle.label": "Tìm kiếm theo chức vụ",
   
   // "search.filters.filter.knowsLanguage.head": "Known language",
-  "search.filters.filter.knowsLanguage.head": "Known language",
+  "search.filters.filter.knowsLanguage.head": "Ngôn ngữ đã biết",
   
   // "search.filters.filter.knowsLanguage.placeholder": "Known language",
-  "search.filters.filter.knowsLanguage.placeholder": "Known language",
+  "search.filters.filter.knowsLanguage.placeholder": "Ngôn ngữ đã biết",
   
   // "search.filters.filter.knowsLanguage.label": "Search known language",
-  "search.filters.filter.knowsLanguage.label": "Search known language",
+  "search.filters.filter.knowsLanguage.label": "Tìm kiếm theo ngôn ngữ",
   
   // "search.filters.filter.namedresourcetype.head": "Status",
-  "search.filters.filter.namedresourcetype.head": "Status",
+  "search.filters.filter.namedresourcetype.head": "Trạng thái",
   
   // "search.filters.filter.namedresourcetype.placeholder": "Status",
-  "search.filters.filter.namedresourcetype.placeholder": "Status",
+  "search.filters.filter.namedresourcetype.placeholder": "Trạng thái",
   
   // "search.filters.filter.namedresourcetype.label": "Search status",
-  "search.filters.filter.namedresourcetype.label": "Search status",
+  "search.filters.filter.namedresourcetype.label": "Tìm kiếm theo trạng thái/tình trạng",
   
   // "search.filters.filter.objectpeople.head": "People",
-  "search.filters.filter.objectpeople.head": "People",
+  "search.filters.filter.objectpeople.head": "Người dùng",
   
   // "search.filters.filter.objectpeople.placeholder": "People",
-  "search.filters.filter.objectpeople.placeholder": "People",
+  "search.filters.filter.objectpeople.placeholder": "Người dùng",
   
   // "search.filters.filter.objectpeople.label": "Search people",
-  "search.filters.filter.objectpeople.label": "Search people",
+  "search.filters.filter.objectpeople.label": "Tìm kiếm theo người dùng",
   
   // "search.filters.filter.organizationAddressCountry.head": "Country",
-  "search.filters.filter.organizationAddressCountry.head": "Country",
+  "search.filters.filter.organizationAddressCountry.head": "Quốc gia",
   
   // "search.filters.filter.organizationAddressCountry.placeholder": "Country",
-  "search.filters.filter.organizationAddressCountry.placeholder": "Country",
+  "search.filters.filter.organizationAddressCountry.placeholder": "Quốc gia",
   
   // "search.filters.filter.organizationAddressCountry.label": "Search country",
-  "search.filters.filter.organizationAddressCountry.label": "Search country",
+  "search.filters.filter.organizationAddressCountry.label": "Tìm kiếm theo quốc gia",
   
   // "search.filters.filter.organizationAddressLocality.head": "City",
-  "search.filters.filter.organizationAddressLocality.head": "City",
+  "search.filters.filter.organizationAddressLocality.head": "Thành phố",
   
   // "search.filters.filter.organizationAddressLocality.placeholder": "City",
-  "search.filters.filter.organizationAddressLocality.placeholder": "City",
+  "search.filters.filter.organizationAddressLocality.placeholder": "Thành phố",
   
   // "search.filters.filter.organizationAddressLocality.label": "Search city",
-  "search.filters.filter.organizationAddressLocality.label": "Search city",
+  "search.filters.filter.organizationAddressLocality.label": "Tìm kiếm theo thành phố",
   
   // "search.filters.filter.organizationFoundingDate.head": "Date Founded",
-  "search.filters.filter.organizationFoundingDate.head": "Date Founded",
+  "search.filters.filter.organizationFoundingDate.head": "Ngày thành lập",
   
   // "search.filters.filter.organizationFoundingDate.placeholder": "Date Founded",
-  "search.filters.filter.organizationFoundingDate.placeholder": "Date Founded",
+  "search.filters.filter.organizationFoundingDate.placeholder": "Ngày thành lập",
   
   // "search.filters.filter.organizationFoundingDate.label": "Search date founded",
-  "search.filters.filter.organizationFoundingDate.label": "Search date founded",
+  "search.filters.filter.organizationFoundingDate.label": "Tìm kiếm Ngày thành lập",
   
   // "search.filters.filter.scope.head": "Scope",
-  "search.filters.filter.scope.head": "Scope",
+  "search.filters.filter.scope.head": "Phạm vị",
   
   // "search.filters.filter.scope.placeholder": "Scope filter",
-  "search.filters.filter.scope.placeholder": "Scope filter",
+  "search.filters.filter.scope.placeholder": "Phạm vi bộ lọc",
   
   // "search.filters.filter.scope.label": "Search scope filter",
-  "search.filters.filter.scope.label": "Search scope filter",
+  "search.filters.filter.scope.label": "Tìm kiếm theo phạm vị bộ lọc",
   
   // "search.filters.filter.show-less": "Collapse",
-  "search.filters.filter.show-less": "Collapse",
+  "search.filters.filter.show-less": "Thu gọn",
   
   // "search.filters.filter.show-more": "Show more",
-  "search.filters.filter.show-more": "Show more",
+  "search.filters.filter.show-more": "Hiển thị thêm",
   
   // "search.filters.filter.subject.head": "Subject",
-  "search.filters.filter.subject.head": "Subject",
+  "search.filters.filter.subject.head": "Chủ đề",
   
   // "search.filters.filter.subject.placeholder": "Subject",
-  "search.filters.filter.subject.placeholder": "Subject",
+  "search.filters.filter.subject.placeholder": "Chủ đề",
   
   // "search.filters.filter.subject.label": "Search subject",
-  "search.filters.filter.subject.label": "Search subject",
+  "search.filters.filter.subject.label": "Tìm kiếm chủ đề",
   
   // "search.filters.filter.submitter.head": "Submitter",
-  "search.filters.filter.submitter.head": "Submitter",
+  "search.filters.filter.submitter.head": "Người gửi",
   
   // "search.filters.filter.submitter.placeholder": "Submitter",
-  "search.filters.filter.submitter.placeholder": "Submitter",
+  "search.filters.filter.submitter.placeholder": "Người gửi",
   
   // "search.filters.filter.submitter.label": "Search submitter",
-  "search.filters.filter.submitter.label": "Search submitter",
+  "search.filters.filter.submitter.label": "Tìm kiếm Người gửi",
   
   
   
